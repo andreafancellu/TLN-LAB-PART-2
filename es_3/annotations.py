@@ -11,10 +11,54 @@ URL = 'https://babelnet.io/v7/getSynset?id={}&key={}&targetLang=IT&searchLang=IT
 
 def txt_to_dict(path):
     res = {}
-    with open(path, 'r')
+    with open(path, 'r') as file:
+        for line in file.readlines():
+            if line.find('#') == 0:
+                word = line[1:].split('\n')[0]
+                res[word] = []
+            else:
+                res[word].append(line)
+    
+    return res
+
+def get_words_list(path):
+    res = []
+    with open(path, 'r') as file:
+        for line in file.readlines():
+            res = res + line.split('    ')
+    return res
 
 
-def synset_list(term_list, path):
+def get_babel_syn(value):
+    s,g = None, None
+    x = requests.get(URL.format(value,KEY))
+    if x.status_code == 400:
+        print("Bad request")   
+    else:
+        s = x.json()['senses']
+        if len(s) != 0:
+            s = s[0]['properties']['fullLemma'] 
+        
+        g = x.json()['glosses']
+        if len(g) != 0: 
+            g = g[0]['gloss']
+    return s,g
+    
+
+
+def print_syn(babel_dict, words):
+    url2 = 'resources/result_lines_101_150.txt'
+    with open(url2, 'w') as f:
+        for word in words:
+            word = word.split('\n')[0]
+            if word in babel_dict.keys():
+                for value in babel_dict[word]:
+                    f.write(f"Possibile senso per parola {word}: {get_babel_syn(value)}\n")
+                    
+
+    
+
+'''def synset_list(term_list, path):
     skipped = []
     res = {'skipped': skipped}
     with open(path, 'r') as file:
@@ -43,24 +87,17 @@ def synset_list(term_list, path):
                 if len(glosses) != 0:
                     res[term][id].append(glosses[0]['gloss'])
             print("Finito ", term)
-    return res
+    return res'''
 
 
+list_of_words = get_words_list('resources/andrea_fabio_terms.txt')
+babel_dict = txt_to_dict('resources/SemEval17_IT_senses2synsets.txt')
+
+print_syn(babel_dict, list_of_words)
 
 
+'''terms = terms_list('resources/andrea_fabio_terms.txt')
+res = synset_list(terms, 'resources/SemEval17_IT_senses2synsets.txt')
+'''
 
-def save_to_file(babel_syns_info):
-    #url2 = 'results/result_lines_51_100.json'
-    url2 = '/home/fazza/Documents/nlp-UniTO-2021-22/Radicioni/es3/results/result_lines_101_150.json'
-    with open(url2, 'w') as f:
-        json.dump(babel_syns_info, f, indent=4)
-
-#terms = terms_list('term_list.txt')
-
-terms = terms_list('resources/andrea_fabio_terms.txt')
-res = synset_list(terms, '/home/fazza/Documents/nlp-UniTO-2021-22/Radicioni/data/es3_res/SemEval17_IT_senses2synsets.txt')
-
-#res = synset_list(terms, '../data/es3_res/SemEval17_IT_senses2synsets.txt')
-save_to_file(res)
-#pprint(res)
 print("Finito")
