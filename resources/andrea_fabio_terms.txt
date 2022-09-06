@@ -1,0 +1,50 @@
+cricket    sostenitore 
+scultura    statua 
+browser    Mozilla Firefox
+Fox Terrier    Canon
+HSBC    Gran Bretagna
+Bibbia    Vangelo
+vestito    danza
+array    lista
+cella    gattabuia
+saggio    compito a casa
+computer    macchina
+panda    orso polare
+nevrosi    mente
+campagna    scimmia
+costante di Faraday    zaino
+palazzo    grattacielo
+elicottero    aereo
+Università di Cambridge    Università di Oxford
+bandiera    asta
+finestra    tetto
+gioco di carte    frisbee
+malware    worm
+pianeta    stella
+corridore    atleta
+calibro    ombrello
+WiFi    WikiLeaks
+siccità    acqua
+aeroporto    pezzo
+orchestra    banda
+mojito    mohito
+programma    esame
+teorema    teoria
+yo-yo    giocattolo
+tormenta    pioggia
+storico    storiografo
+Siemens    treno elettrico
+secolo    anno
+lega    acciaio
+magistrato    giudice
+caos    classe
+formazione a distanza    internet
+sabbia    piede
+IMF    Deutsche Bank
+Guardian    Times
+baco da seta    Via della Seta
+libertà    oasi
+citoplasma    dito
+protestante    cristiano
+Leonardo da Vinci    L'Ultima Cena
+mappa    piazza
