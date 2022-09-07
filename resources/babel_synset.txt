@@ -1,0 +1,50 @@
+cricket    sostenitore    bn:00023796n    bn:00001456n    bn:00023797n    bn:00061047n
+scultura    statua    bn:00069924n    bn:00074064n    bn:00069924n    bn:00074064n
+browser    Mozilla Firefox    bn:00013447n    bn:01387235n    bn:00013447n    bn:01387235n
+Fox Terrier    Canon    bn:00036142n    bn:16199914n    bn:00036142n    bn:16199914n
+HSBC    Gran Bretagna    bn:00013173n    bn:00013173n    bn:02580408n    bn:00013173n
+Bibbia    Vangelo    bn:00010217n    bn:00031976n     bn:00010217n    bn:00031976n
+vestito    danza    bn:00028682n    bn:00025142n    bn:00028682n    bn:00025142n
+array    lista    bn:02756908n    bn:02117586n    bn:02756908n    bn:18503001n
+cella    gattabuia    bn:00017031n    bn:00064468n    bn:00017031n    bn:00064468n
+saggio    compito a casa     bn:00031622n    bn:00069626n     bn:00021410n    bn:00069626n
+computer    macchina    bn:00021464n    bn:00052571n    bn:00021464n    bn:00052571n
+panda    orso polare    bn:00002174n    bn:00045719n    bn:00002174n    bn:00045719n
+nevrosi    mente    bn:00057430n    bn:00023658n    bn:00057430n    bn:00012681n
+campagna    scimmia    bn:00023237n    bn:00071669n    bn:00023237n    bn:00004847n
+costante di Faraday    zaino    bn:17764527n    bn:00069639n     bn:17764527n    bn:00069639n
+palazzo    grattacielo     bn:00013722n    bn:00072030n    bn:00013722n    bn:00072030n
+elicottero    aereo     bn:00018734n    bn:16750414n    bn:00018734n    bn:00001697n
+Università di Cambridge    Università di Oxford    bn:00014988n    bn:00059980n     bn:00014988n    bn:00059980n
+bandiera    asta    bn:00030968n    bn:00063293n    bn:00030968n    bn:00063293n
+finestra    tetto    bn:00081285n    bn:00068220n    bn:00081285n    bn:00068220n
+gioco di carte    frisbee    bn:00015923n    bn:00036583n    bn:00015923n    bn:00036583n
+malware    worm    bn:01363738n    bn:00081636n    bn:01363738n    bn:00081636n
+pianeta    stella    bn:00052888n    bn:00073964n    bn:00052888n    bn:00073964n
+corridore    atleta    bn:00068572n    bn:00006747n    bn:00068572n    bn:15877363n
+calibro    ombrello     bn:00037015n    bn:00078920n    bn:00014782n    bn:00078920n
+WiFi    WikiLeaks    bn:00081176n    bn:03777357n    bn:00081176n    bn:03777357n
+siccità    acqua    bn:00028967n    bn:00080563n     bn:00028863n    bn:00080563n
+aeroporto    pezzo    bn:00001676n    bn:00062297n     bn:00001676n    bn:00062297n
+orchestra    banda    bn:00059285n    bn:15139520n     bn:00059285n    bn:15139520n
+mojito    mohito    bn:01361585n    bn:01361585n    bn:01361585n    bn:01361585n
+programma    esame    bn:00021497n    bn:00032089n    bn:00023295n    bn:00032089n
+teorema    teoria    bn:00076831n    bn:00076834n    bn:00076831n    bn:00045632n
+yo-yo    giocattolo    bn:00081921n    bn:00062965n    bn:00081921n    bn:00062965n
+tormenta    pioggia    bn:00074458n    bn:00066033n    bn:00074459n    bn:00066032n
+storico    storiografo    bn:00044258n    bn:00044268n    bn:00044258n    bn:00044258n
+Siemens    treno elettrico    bn:21706603n    None    bn:21706603n    None
+secolo    anno    bn:00017234n    bn:00014712n    bn:00017234n    bn:00078738n
+lega    acciaio    bn:00002936n    bn:00074123n    bn:00002936n    bn:00074123n
+magistrato    giudice    bn:00048488n    bn:00048488n    bn:00052701n    bn:00048488n
+caos    classe    bn:00009503n    bn:21706240n    bn:00003840n    bn:00019478n
+formazione a distanza    internet    bn:00022863n    bn:00722917n    bn:00022863n    bn:00722917n
+sabbia    piede    bn:00069126n    bn:00035679n    bn:00069126n    bn:00035679n
+IMF    Deutsche Bank    None    bn:03315023n    None    bn:03315023n
+Guardian    Times    None    bn:03113174n    None    bn:03113174n
+baco da seta    Via della Seta    bn:00040408n    bn:00071602n     bn:00040408n    bn:00071602n
+libertà    oasi    bn:00050954n    bn:00058412n    bn:00050954n    bn:00058412n
+citoplasma    dito    bn:00024905n    bn:00034565n    bn:00024905n    bn:00034565n
+protestante    cristiano    bn:00064865n    bn:00018818n    bn:00064865n    bn:00018818n
+Leonardo da Vinci    L'Ultima Cena    bn:00024948n    bn:03599114n    bn:00024948n    bn:03599114n
+mappa    piazza    bn:00053303n    bn:00065099n    bn:00053303n    bn:00065099n
