@@ -33,7 +33,7 @@ def get_babel_syn(value):
     s,g = None, None
     x = requests.get(URL.format(value,KEY))
     if x.status_code == 400:
-        print("Bad request")   
+        print(f"Bad request con babelId: {value}")   
     else:
         s = x.json()['senses']
         if len(s) != 0:
