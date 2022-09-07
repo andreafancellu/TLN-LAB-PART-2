@@ -1,0 +1,50 @@
+cricket    sostenitore    2.2    2    2.1
+scultura    statua    3.4    4    3.7
+browser    Mozilla Firefox    3    3.5    3.25
+Fox Terrier    Canon    0    0    0
+HSBC    Gran Bretagna    1    1.3   1.15
+Bibbia    Vangelo    3.5    3    3.25
+vestito    danza    0.8    1    0.9
+array    lista    3.3    3.5    3.4
+cella    gattabuia    3.8    4    3.9
+saggio    compito a casa    2    2.4    2.2
+computer    macchina    3    2.6    2.8
+panda    orso polare    3.1    2.8    2.05
+nevrosi    mente    2    2    2
+campagna    scimmia    0.2    0    0.1
+costante di Faraday    zaino    0    0    0
+palazzo    grattacielo    3.1    3    3.05
+elicottero    aereo    3    3    3
+Università di Cambridge    Università di Oxford    3.5    3.2    3.35
+bandiera    asta    2.4    2.7    2.55
+finestra    tetto    2    2    2
+gioco di carte    frisbee    1    2    1.5
+malware    worm    3.5    3.5    3.5
+pianeta    stella    3    2.8    2.9
+corridore    atleta    3    3.2    3.1
+calibro    ombrello    0    0    0
+WiFi    WikiLeaks    1    1    1
+siccità    acqua    1.5    1.5    1.5
+aeroporto    pezzo    0    0    0
+orchestra    banda    3    3    3
+mojito    mohito    4    4    4
+programma    esame    0.5    2.3    1.4
+teorema    teoria    3.1    1.5    2.3
+yo-yo    giocattolo    2.5    3.5    3
+tormenta    pioggia    2.9    2.7    2.8
+storico    storiografo    4    4    4
+Siemens    treno elettrico    0    0    0
+secolo    anno    3    2.8    2.9
+lega    acciaio    3.5    3.5    3.5
+magistrato    giudice    4    3.2    3.6
+caos    classe    0    0    0
+formazione a distanza    internet    1    2    1.5
+sabbia    piede    0    0    0
+IMF    Deutsche Bank    3    2.5    2.75
+Guardian    Times    3.1    3.2    3.15
+baco da seta    Via della Seta    0.7    0    0.35
+libertà    oasi    0    0    0
+citoplasma    dito    0    0.5    0.25
+protestante    cristiano    3.4    3.4    3.4
+Leonardo da Vinci    L'Ultima Cena    2.8    3.5    3.15
+mappa    piazza    0.9    0.9    0.9

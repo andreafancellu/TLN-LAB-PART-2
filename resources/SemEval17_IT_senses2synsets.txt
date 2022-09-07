@@ -618,6 +618,7 @@ bn:18396587n
 bn:00055677n
 #costante di Faraday
 bn:00033657n
+bn:17764527n
 #zaino
 bn:00069639n
 bn:00007752n
