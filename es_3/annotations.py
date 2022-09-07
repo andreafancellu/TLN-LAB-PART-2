@@ -31,7 +31,7 @@ def get_words_list(path):
 
 def get_babel_syn(value):
     s,g = None, None
-    x = requests.get(URL.format(value,KEY))
+    x = requests.get(URL.format(value,KEY2))
     if x.status_code == 400:
         print(f"Bad request con babelId: {value}")   
     else:
@@ -53,7 +53,7 @@ def print_syn(babel_dict, words):
             word = word.split('\n')[0]
             if word in babel_dict.keys():
                 for value in babel_dict[word]:
-                    f.write(f"Possibile senso per parola {word}: {get_babel_syn(value)}\n")
+                    f.write(f"Parola {word} con id: {value}: {get_babel_syn(value)}\n")
                     
 
     

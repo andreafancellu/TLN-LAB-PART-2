@@ -1,662 +1,1324 @@
-Possibile senso per parola cricket: ('cricket', 'Gioco nazionale inglese')
-Possibile senso per parola cricket: ('grillo', 'Insetto nero o bruno, con corpo tozzo, antenne sottili e zampe posteriori adatte al salto il cui maschio produce un suono stridulo caratteristico')
-Possibile senso per parola cricket: ('Cricket_(Carolina_del_Nord)', "Cricket è un census-designated place degli Stati Uniti d'America, situato nello stato della Carolina del Nord, nella contea di Wilkes.")
-Possibile senso per parola scultura: ('scultura', [])
-Possibile senso per parola scultura: ('scultura', "L'arte di scolpire")
-Possibile senso per parola scultura: ('scultura', 'Opera fatta da uno scultore')
-Possibile senso per parola scultura: ('scultura', [])
-Possibile senso per parola browser: ('browser', "In informatica il web browser è un'applicazione per l'acquisizione, la presentazione e la navigazione di risorse sul web.")
-Possibile senso per parola Mozilla Firefox: ('Mozilla_Firefox', 'Mozilla Firefox è un web browser libero e multipiattaforma, mantenuto da Mozilla Foundation.')
-Possibile senso per parola Fox Terrier: ('Fox_Terrier', 'Fox Terrier è il nome che viene dato a due distinte razze canine riconosciute inizialmente dal Kennel Club inglese.')
-Possibile senso per parola Fox Terrier: ('fox-terrier', 'Razza di cane da caccia, di piccola taglia ma forte, usato nella caccia alla volpe')
-Possibile senso per parola Canon: ('Canon_(manga)', 'Canon  è un manga di 4 volumi creato da Chika Shiomi per la Akita Shōten tra il 1994 e il 1996.')
-Possibile senso per parola Canon: ('canyon', "In geografia, una gola è una valle profonda, spesso ad andamento meandriforme, risultato di fenomeni erosivi che si verificano quando un corso d'acqua, come un fiume o un torrente, incide vigorosamente il proprio letto in rocce coerenti e molto resistenti, generando valli strette, profondamente incassate nelle formazioni erose e con pendii o pareti molto ripide, talora anche strapiombanti.")
-Possibile senso per parola Canon: ('Canon', 'Canon Inc. è una multinazionale giapponese con sede a Tokyo, nel quartiere di Ōta, in Giappone, specializzata in prodotti ottici, di imaging e industriali, come obiettivi, fotocamere, apparecchiature mediche, scanner, stampanti e apparecchiature per la produzione di semiconduttori.')
-Possibile senso per parola Canon: ('canone_di_Star_Trek', 'Il canone di Star Trek comprende generalmente la serie classica, Star Trek: The Next Generation, Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise e gli undici film della saga, escludendo quindi i romanzi e i videogiochi.')
-Possibile senso per parola Canon: ('Canon_(Georgia)', "Canon è una città degli Stati Uniti d'America, situata in Georgia, nella Contea di Franklin e in parte nella Contea di Hart.")
-Possibile senso per parola HSBC: ('HSBC', 'HSBC Holdings plc è uno dei più grandi gruppi bancari del mondo.')
-Possibile senso per parola Gran Bretagna: ('GB', 'Regno costituito da Inghilterra, Scozia, Galles e Irlanda del Nord.')
-Possibile senso per parola Gran Bretagna: ('Gran-Bretagna', "La Gran Bretagna è un'isola europea dell'oceano Atlantico situata a nordovest dell'Europa continentale.")
-Possibile senso per parola Gran Bretagna: ('England', "L'Inghilterra è una delle quattro nazioni costitutive del Regno Unito, l'unica a non costituire un'entità amministrativa e a non essere dotata di un governo autonomo.")
-Possibile senso per parola Bibbia: ('La_Bibbia_(film_1966)', 'La Bibbia è un film del 1966 diretto da John Huston.')
-Possibile senso per parola Bibbia: ('La_Bibbia_(miniserie_televisiva)', 'La Bibbia è una miniserie televisiva statunitense del 2013, ideata da Roma Downey e Mark Burnett per il canale di documentari via cavo History.')
-Possibile senso per parola Bibbia: ('Bibbia', "L'insieme dei libri sacri, dell'Antico e e del Nuovo Testamento")
-Possibile senso per parola Bibbia: ('bibbia', 'Testo fondamentale di qualunque disciplina')
-Possibile senso per parola Bibbia: ('Bibbia_(versione_di_Diodati)', 'La Bibbia Diodati è la traduzione della Bibbia per eccellenza dei protestanti italiani, edita a Ginevra nel 1607 dal lucchese in esilio Giovanni Diodati.')
-Possibile senso per parola Bibbia: ('bible_(sceneggiatura)', 'Un bible, noto anche come show bible o pitch bible, è un documento di riferimento usato dagli sceneggiatori per fornire indicazioni sui personaggi, ambientazioni e altri elementi di un lavoro televisivo o cinematografico.')
-Possibile senso per parola Vangelo: ('evangelo', "Ciascuno dei primi quattro libri del Nuovo Testamento che contengono la vita e l'insegnamento di Ges- Cristo")
-Possibile senso per parola Vangelo: ("Vangelo_('ndrangheta)", "Il Vangelo è un'associazione in seno alla 'Ndrangheta, di cui gli appartenenti vengono denominati Vangelisti, sono un grado superiore ai santisti e inferiore ai quartini.")
-Possibile senso per parola vestito: ('vestito', [])
-Possibile senso per parola vestito: ('abito', 'Un vestito da donna è un indumento in un unico pezzo con aggiunta una gonna, che copre il corpo dalle spalle alle gambe.')
-Possibile senso per parola vestito: ('abito', 'Un abito completo da uomo, comunemente chiamato semplicemente completo o abito, è un indumento maschile di origine italiana.')
-Possibile senso per parola vestito: ('abbigliamento', 'Qualsiasi capo di vestiario che si indossa sopra la biancheria')
-Possibile senso per parola vestito: ('abito', 'Capo di vestiario')
-Possibile senso per parola vestito: ('attributi_araldici_di_modifica', 'Gli attributi araldici di modifica sono quelli che definiscono le modifiche, sia di forma che di smalto, apportate a una pezza o una figura che compare in uno stemma.')
-Possibile senso per parola vestito: ('il_vestito', 'Il vestito è un film del 1996 diretto dal regista Alex van Warmerdam.')
-Possibile senso per parola danza: ('ballo', "La danza è un'arte, una disciplina che si esprime nel movimento secondo un piano prestabilito, detto coreografia, o attraverso l'improvvisazione.")
-Possibile senso per parola danza: ('Danza_(Mia_Martini)', 'Danza è il nono album di brani musicali di Mia Martini.')
-Possibile senso per parola danza: ('ballo', "L'atto o l'arte di ballare")
-Possibile senso per parola danza: ('danza', [])
-Possibile senso per parola array: ('vector_(STL)', "Il container vector è un contenitore di elementi omogenei simile all'array e facente parte della libreria standard del C++, con la funzione di permettere l'accesso ai suoi contenuti in modo rapido e ottimizzato utilizzando indici o tramite un iteratore.")
-Possibile senso per parola array: ('array', 'Uno dei due principali tipi di organizzazione dei dati interni utilizzati nel GIS. I sistemi di vettori si basano principalmente sulla geometria di coordinate.')
-Possibile senso per parola lista: ('Lista_(metropolitana_di_Madrid)', 'Lista è una stazione della linea 4 della metropolitana di Madrid.')
-Possibile senso per parola lista: ('Lista', 'Genere di insetti')
-Possibile senso per parola lista: ('elenco', [])
-Possibile senso per parola lista: ('banda', 'Pezzo di materiale di forma lunga e stretta e di poco spessore')
-Possibile senso per parola lista: ('Comprensione_di_lista', 'Una Comprensione di lista è costrutto sintattico disponibile in alcuni linguaggi di programmazione per creare una lista basandosi su altre liste.')
-Possibile senso per parola lista: ('Lista', 'Quartiere della città spagnola di Madrid')
-Possibile senso per parola lista: ('lista', [])
-Possibile senso per parola lista: ('distinta', "Insieme di dati registrati uno di seguito all'altro secondo un certo criterio.")
-Possibile senso per parola lista: ('elenco', 'Registro dei nomi e delle cose appartenenti ad una certa categoria')
-Possibile senso per parola lista: ('Lista', 'Frazione di Formigliana, provincia di Vercelli')
-Possibile senso per parola lista: ('lista', 'Lista di un progetto Wikimedia')
-Possibile senso per parola lista: ('banda', 'Striscia di stoffa applicata ad un abito, per lo più di colore diverso')
-Possibile senso per parola lista: ('calcolo', 'Recitare i numeri in ordine crescente.')
-Possibile senso per parola cella: ('Cella_(Varzi)', "Cella è una frazione del comune di Varzi posta su un'altura a sud del centro abitato.")
-Possibile senso per parola cella: ('Cella_(Reggio_Emilia)', "Cella o Villa Cella è una frazione del comune di Reggio nell'Emilia.")
-Possibile senso per parola cella: ('cella', [])
-Possibile senso per parola cella: ('Cella_(Spagna)', "Cella è un comune spagnolo di 2.825 abitanti situato nella comunità autonoma dell'Aragona.")
-Possibile senso per parola cella: ('cella_(prigione)', 'La cella di una prigione, detta anche camera detentiva, è una stanza genericamente adibita alla detenzione di una o più persone.')
-Possibile senso per parola cella: ('Cella', 'Frazione italiana della provincia di Forlì-Cesena')
-Possibile senso per parola cella: ('cella_(architettura)', 'La cella era la parte interna di un tempio greco o romano.')
-Possibile senso per parola cella: ('Cella', 'Frazione italiana della provincia di Parma')
-Possibile senso per parola cella: ('Cella_Dati', 'Cella Dati è un comune italiano di 506 abitanti della provincia di Cremona, in Lombardia.')
-Possibile senso per parola cella: ('faccia_(geometria)', 'In geometria, una faccia di un poliedro è uno dei poligoni che compongono il suo bordo o più semplicemente i poligoni che delimitano il poliedro.')
-Possibile senso per parola cella: ('cella', [])
-Possibile senso per parola cella: ('Cella_(Ovaro)', 'Cella è una frazione del comune di Ovaro.')
-Possibile senso per parola gattabuia: ('carcere', 'Luogo in cui sono custoditi i condannati alla pena della reclusione o gli accusati colpiti da mandato di cattura in attesa del giudizio')
-Possibile senso per parola gattabuia: ('gattabuia', [])
-Possibile senso per parola gattabuia: ('carcere', 'Luogo dove le persone vengono tenute in un regime di limitazione delle libertà personali.')
-Possibile senso per parola saggio: ('dimostrazione', [])
-Possibile senso per parola saggio: ('componimento', [])
-Possibile senso per parola saggio: ('mentore', 'Persona accorta e sapiente')
-Possibile senso per parola saggio: ('metodo_analitico', "Un metodo analitico è, in generale, una metodica di analisi scientifica consistente nell'arrivare alla soluzione di un problema mediante un procedimento ben definito e di calcolo matematico.")
-Possibile senso per parola saggio: ('saggio', [])
-Possibile senso per parola saggio: ('inchiesta', 'Pubblicazione su di un particolare problema evento o personaggio')
-Possibile senso per parola saggio: ('saggio', 'Composizione letteraria analitica. "Vittorio Strada ha scritto vari saggi di letteratura russa".')
-Possibile senso per parola saggio: ('discente', 'Uomo dotato di sapienza ed equilibrio interiore')
-Possibile senso per parola saggio: ('analisi', "Esame, analisi delle qualità e delle diverse risoluzioni di un componente in un materiale, come nell'oro o nella droga.")
-Possibile senso per parola compito a casa: ('compiti_a_casa', 'Lavoro che viene fatto a casa, comprese le esercitazioni di scuola assegnate da un insegnante.')
-Possibile senso per parola computer: ('calcolatore', 'Una macchina per fare calcoli automaticamente.')
-Possibile senso per parola computer: ('PC', "Un personal computer è un qualsiasi computer che si presti all'utilizzo proprio personale e alla personalizzazione da parte dell'utente nell'uso quotidiano.")
-Possibile senso per parola macchina: ('apparato', 'Insieme di componenti meccaniche o elettriche o di macchine usate in combinazione per svolgere un determinato lavoro.')
-Possibile senso per parola macchina: ('auto', 'Veicolo a quattro ruote, con motore generalmente a scoppio, per il trasporto su strada di un numero limitato di persone.')
-Possibile senso per parola macchina: ('macchina', 'Gruppo di persone che controlla le attività di una organizzazione')
-Possibile senso per parola macchina: ('beni_strumentali', [])
-Possibile senso per parola macchina: ('macchina', [])
-Possibile senso per parola macchina: ('viaggio', [])
-Possibile senso per parola macchina: ('macchina', [])
-Possibile senso per parola macchina: ('macchina', 'Si usa come oggetto di identificazione o termine di confronto per una persona che lavora molto, senza stancarsi mai.')
-Possibile senso per parola macchina: ('macchina', 'Qualsiasi meccanismo meccanico od elettrico che esegue od assiste lo svolgimento di compiti umani.')
-Possibile senso per parola macchina: ('locomotiva', 'Veicolo ferroviario usato per il traino di convogli e vagoni ferroviari.')
-Possibile senso per parola macchina: ('apparecchio', 'Un artefatto inventato per un certo scopo.')
-Possibile senso per parola panda: ('Panda', [])
-Possibile senso per parola panda: ('Panda_(gruppo_musicale)', 'I Panda sono un gruppo musicale punk rock messicano formatosi nel 1996 a Monterrey.')
-Possibile senso per parola panda: ('Ailurus_fulgens', "Il panda minore o panda rosso è un mammifero dell'ordine dei carnivori, unico rappresentante vivente della famiglia Ailuridae.")
-Possibile senso per parola panda: ('Panda_(Desiigner)', 'Panda è il singolo di debutto del rapper statunitense Desiigner, pubblicato inizialmente il 20 dicembre 2015, poi ripubblicato il 26 febbraio del 2016.')
-Possibile senso per parola panda: ('Ailuropoda_melanoleuca', 'Mammifero vegetariano simile a un piccolo orso che vive sulle montagne del Tibet e della Cina sudoccidentale')
-Possibile senso per parola panda: ('I_Panda', 'I Panda sono un gruppo italiano di musica pop e leggera formatosi nel 1973, inizialmente col nome Camelot, cambiato in Panda nel corso del 1974 in occasione della pubblicazione del primo singolo per la RCA Italiana.')
-Possibile senso per parola panda: ('Panda_(antivirus)', 'Panda è un programma antivirus sviluppato da Panda Security.')
-Possibile senso per parola panda: ('A_Panda_piace', 'A Panda piace è una serie di strisce a fumetti creata a partire dal 2008 da Giacomo Bevilacqua.')
-Possibile senso per parola panda: ('Panda', [])
-Possibile senso per parola panda: ('Panda', [])
-Possibile senso per parola orso polare: ('orso_bianco', "L'orso polare o orso bianco è un grande mammifero carnivoro appartenente alla famiglia Ursidae.")
-Possibile senso per parola nevrosi: ('neurosi', 'Disturbo della sfera psicofisica che si manifesta con stati di ansia, fobie, patologie comportamentali, ma non comporta perdita di coscienza o di lucidità né alienazione mentale')
-Possibile senso per parola nevrosi: ('fissazione_nevrotica', 'Pensiero fisso e ossessivo accompagnato, per esempio, da stati di ansia, da fobie e psicopatologie comportamentali.')
-Possibile senso per parola mente: ('Mente_(re_dei_Tafi)', "Mente, figlio di Anchialo, fu un re dei Tafi nella mitologia greca; è menzionato nell'Odissea.")
-Possibile senso per parola mente: ('cervello', 'Un essere dotato di intelletto.')
-Possibile senso per parola mente: ('Rav_Maskil', "Il Rav Maskil, o comunemente Maskil, è una figura religiosa ebraica con capacità, ruoli e compiti definiti all'interno della Comunità del popolo ebraico; il termine Maskil può essere tradotto letteralmente nel significato di Sapiente.")
-Possibile senso per parola mente: ('aquila', 'Persona che eccelle')
-Possibile senso per parola mente: ('intellettuale', [])
-Possibile senso per parola mente: ('cervello', 'Ciò che è responsabile dei pensieri e dei sentimenti.')
-Possibile senso per parola mente: ('idea', 'Una intenzione.')
-Possibile senso per parola mente: ('animo', [])
-Possibile senso per parola mente: ('cervello', 'Capacità intellettuale.')
-Possibile senso per parola mente: ('intelletto', "La ragione, in filosofia, è la facoltà dell'intelletto per mezzo della quale si esercita il pensiero razionale, ovvero quello rivolto ad argomenti astratti tipici del ragionamento, contrapponendosi alla sfera dell'irrazionalità.")
-Possibile senso per parola campagna: ('campagna', 'Zona rurale lontana dai centri abitati.')
-Possibile senso per parola campagna: ('Campagna', 'Frazione di Maniago, provincia di Pordenone')
-Possibile senso per parola campagna: ('campagna_elettorale', 'Attività di propaganda politica nel periodo precedente le elezioni.')
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso Farini, provincia di Piacenza')
-Possibile senso per parola campagna: ('Campagna', [])
-Possibile senso per parola campagna: ("Torre_d'Isola", "Torre d'Isola è un comune italiano di 2 395 abitanti della provincia di Pavia in Lombardia.")
-Possibile senso per parola campagna: ('campagna', 'Azione per ottenere un particolare fine politico, morale, economico')
-Possibile senso per parola campagna: ('campagna', 'Porzione di terreno, fuori da centri urbani, con vegetazione spontanea o coltivata, spec. per uso agricolo.')
-Possibile senso per parola campagna: ('campagna_(giochi)', "Una campagna in alcuni tipi di giochi, principalmente giochi di ruolo, videogiochi e wargame, è una serie di missioni caratterizzate da un unico obiettivo finale e una trama comune, con personaggi che permangono da un'avventura all'altra.")
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso Bianzone, provincia di Sondrio')
-Possibile senso per parola campagna: ('Campagna', 'Frazione del comune italiano di Vedano Olona, provincia di Varese')
-Possibile senso per parola campagna: ('diamante_(baseball)', 'Il diamante è il campo su cui viene giocato il baseball.')
-Possibile senso per parola campagna: ('Campagna_(Italia)', 'Campagna')
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso Sovramonte, provincia di Belluno')
-Possibile senso per parola campagna: ('campagna', 'Terreno adibito a coltivazione o pascolo.')
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso Traversetolo, provincia di Parma')
-Possibile senso per parola campagna: ('voce_di_basso', 'Nel canto, il termine basso designa sia la più grave tra le voci maschili, sia il cantante che la possiede, sia il suo registro peculiare.')
-Possibile senso per parola campagna: ('campagna', [])
-Possibile senso per parola campagna: ('Campagna', 'Frazione del comune italiano di Castelvisconti, provincia di Cremona')
-Possibile senso per parola campagna: ('campagna', 'tipo di campagna')
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso San Rocco al Porto, provincia di Lodi')
-Possibile senso per parola campagna: ('campagna', "La campagna elettorale è l'insieme delle attività di propaganda politica svolte da partiti politici, movimenti e liste civiche in favore dei propri candidati ad una qualsiasi carica elettiva, volte a conquistare la fiducia degli elettori e convincerli a concedergli il proprio voto, tipicamente attraverso promesse elettorali.")
-Possibile senso per parola campagna: ('Maniago', 'Maniago è un comune italiano di 11 594 abitanti del Friuli-Venezia Giulia, capoluogo della UTI delle Valli e Dolomiti Friulane.')
-Possibile senso per parola campagna: ('campagna_(araldica)', "Campagna è un termine utilizzato in araldica per indicare una pezza onorevole segnata nello scudo con una secante, in fascia, tracciata a meno di un terzo dell'altezza dello scudo.")
-Possibile senso per parola campagna: ('Campagna', 'Frazione del comune italiano di Castrezzato, provincia di Brescia')
-Possibile senso per parola campagna: ('anno_di_stagione', [])
-Possibile senso per parola campagna: ('effettivo', [])
-Possibile senso per parola campagna: ('Campagna', 'Centro abitato situato presso Chivasso, città metropolitana di Torino')
-Possibile senso per parola scimmia: ('scimmia', "Gli ominoidi sono una superfamiglia di primati comprendente l'essere umano e le cosiddette scimmie antropomorfe, più simili all'uomo per caratteristiche fisiche e intellettive e comprendenti gli oranghi, gli scimpanzé, i gorilla e i gibboni Fanno parte del parvordine dei Catarrhini o scimmie del Vecchio Mondo.")
-Possibile senso per parola scimmia: ('Simiiformes', 'Simiiformes è un infraordine di Primati del sottordine degli Haplorrhini, i cui componenti vengono indicati comunemente come scimmie.')
-Possibile senso per parola scimmia: ('quadrumane', 'Primate del gruppo "scimmie del Nuovo Mondo" o "scimmie del Vecchio Mondo" (Simiiformes, esclusa la superfamiglia Hominoidea o grandi scimmie), che vive principalmente nelle foreste pluviali e si distingue da una grande scimmia per le dimensioni più piccole e la sua coda.')
-Possibile senso per parola scimmia: ('Scimmia', [])
-Possibile senso per parola scimmia: ('ciucca', 'Stato di ebrezza e intossicazione temporanea dovuta ad abuso di alcolici')
-Possibile senso per parola scimmia: ('Scimmia_(zodiaco_cinese)', "La Scimmia è uno dei dodici segni dell'astrologia cinese.")
-Possibile senso per parola costante di Faraday: ('Faraday', 'Fisico inglese (1791-1867)')
-Possibile senso per parola zaino: ('cartella', 'Borsa per il trasporto di materiale scolastico e libri di testo.')
-Possibile senso per parola zaino: ('bisaccia', 'Borsa da portare sulla schiena')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Monticiano, provincia di Siena')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Sirmione, provincia di Brescia')
-Possibile senso per parola palazzo: ('Palazzo', [])
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Langosco, provincia di Pavia')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Misano Adriatico, Provincia di Rimini')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso San Giovanni Ilarione, provincia di Verona')
-Possibile senso per parola palazzo: ('palazzo', 'Edificio di pregio, adibito un tempo ad abitazione di re, principi o signori e oggi spesso sede di istituzioni')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Cologno al Serio, provincia di Bergamo')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Spineda, provincia di Cremona')
-Possibile senso per parola palazzo: ('Palazzo', 'Frazione del comune italiano di Palanzano, provincia di Parma')
-Possibile senso per parola palazzo: ('dimora', 'Edificio di ragguardevoli dimesioni e pregio artistico.')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Anghiari, provincia di Arezzo')
-Possibile senso per parola palazzo: ('Palazzo', 'Centro abitato situato presso Pianopoli, provincia di Catanzaro')
-Possibile senso per parola palazzo: ('palazzo_italiano', 'In Italia, nome dato ad un edificio di grandi proporzioni')
-Possibile senso per parola palazzo: ('Palazzo_(Assisi)', 'Palazzo è una frazione di 1.343 abitanti del comune di Assisi, situata sulla riva sinistra del fiume Chiascio, circa 6 km a nord ovest del capoluogo.')
-Possibile senso per parola palazzo: ('salone', "L'edificio o il locale in cui una manifestazione ha luogo")
-Possibile senso per parola palazzo: ('corte', "L'abitazione del re, la sua residenza")
-Possibile senso per parola palazzo: ('Palazzo', 'Frazione del comune italiano di Cantiano, provincia di Pesaro e Urbino')
-Possibile senso per parola palazzo: ('Palazzo', [])
-Possibile senso per parola palazzo: ('Palazzo', 'Frazione del comune italiano di Arcevia, provincia di Ancona')
-Possibile senso per parola palazzo: ('costruzione', 'Costruzione architettonica')
-Possibile senso per parola palazzo: ('Palazzo', 'Frazione del comune italiano di Romagnano al Monte, provincia di Salerno')
-Possibile senso per parola grattacielo: ('casa_a_torre', 'La casa a torre è un tipo edilizio, evoluzione verticale della casa in linea.')
-Possibile senso per parola grattacielo: ('grattacielo', 'Tipo di edificio')
-Possibile senso per parola elicottero: ('elicottero', 'Aeromobile nel quale il sostentamento e la propulsione sono dati dalle pale')
-Possibile senso per parola aereo: ('aereo', "Veicolo dotato di ali che grazie all'effetto Bernoulli riesce, sollevandosi da terra, a rimanere in aria e viene utilizzato per il trasporto.")
-Possibile senso per parola aereo: ('aereo', 'Aerodina a velatura fissa')
-Possibile senso per parola aereo: ('aereo', 'Dispositivo atto a ricevere ed inviare segnali redio televisivi')
-Possibile senso per parola aereo: ('aereo', 'Velivolo a motore impiegato per il trasporto di passeggeri e di merci')
-Possibile senso per parola aereo: ('spazio_aereo', "Lo spazio aereo, in inglese airspace, è un termine generico utilizzato in aeronautica per indicare una zona definita nelle tre dimensioni, all'interno della quale gli aeromobili devono sottostare a particolari condizioni e attenersi a norme o procedure disposte localmente dall'autorità aeronautica di giurisdizione, oppure stabilite dall'Organizzazione internazionale dell'aviazione civile.")
-Possibile senso per parola Università di Cambridge: ('Università_di_Cambridge', "L'Università di Cambridge è la seconda università del Regno Unito per data di fondazione.")
-Possibile senso per parola Università di Oxford: ('Università_di_Oxford', "L'Università di Oxford è la più antica università del mondo anglosassone.")
-Possibile senso per parola bandiera: ('flag', 'In informatica, un flag è una variabile che può assumere solo due stati e che segnala, con il suo valore, se un dato evento si è verificato oppure no, o se il sistema è in un certo stato oppure no. Viene utilizzato da un programmatore per eseguire determinate operazioni solo al raggiungimento di un determinato stato o al verificarsi di un determinato evento.')
-Possibile senso per parola bandiera: ('bandiera', 'Esercizio fisico')
-Possibile senso per parola bandiera: ('bandiera', [])
-Possibile senso per parola bandiera: ('bandiera', [])
-Possibile senso per parola bandiera: ('bandiera', 'pittura di Jasper Johns')
-Possibile senso per parola bandiera: (None, None)
-Possibile senso per parola bandiera: ('insegna', 'Insegna di un esercito o di una armata')
-Possibile senso per parola bandiera: ('bandiera', [])
-Possibile senso per parola bandiera: ('bandiera_nazionale', 'La bandiera nazionale è una bandiera che rappresenta una nazione.')
-Possibile senso per parola bandiera: ('bandiera', "Drappo che rappresenta l'insegna di uno stato o associazione")
-Possibile senso per parola bandiera: ('bandiera', [])
-Possibile senso per parola bandiera: ('bandiera_(spazio_vettoriale)', 'In matematica, in particolare in algebra lineare, una bandiera è una successione di sottospazi vettoriali con determinate proprietà di uno spazio vettoriale dato.')
-Possibile senso per parola bandiera: ('bandiera', "Una bandiera è un drappo di stoffa o di altro materiale adatto, spesso sventolato da un'asta rigida, usato simbolicamente per identificazione o per segnalazioni varie: comunemente impiegata ad es.")
-Possibile senso per parola asta: ('Åsta', 'Prenome femminile')
-Possibile senso per parola asta: ('asta', 'Procedimento di vendita al miglior offerente')
-Possibile senso per parola asta: ('asta', "Arma di offesa costituita da un'asta munita alla cima di un ferro appuntito")
-Possibile senso per parola asta: ('Asta', [])
-Possibile senso per parola asta: ('asta', 'Albero che sporge obliquamente oltre la prora dei velieri')
-Possibile senso per parola asta: ('astina_di_livello', [])
-Possibile senso per parola asta: ('asta', 'Barra di materiale vario')
-Possibile senso per parola asta: ('asta', [])
-Possibile senso per parola asta: ('cilindro', 'Qualsiasi oggetto che abbia la forma di un cilindro.')
-Possibile senso per parola asta: ('antenna', "Lunga asta di legno, trasversale all'albero della nave, che sostiene le vele")
-Possibile senso per parola asta: ('Asta', 'Prenome femminile')
-Possibile senso per parola asta: ('Åsta', [])
-Possibile senso per parola asta: ('Asta', [])
-Possibile senso per parola asta: ('bastone', [])
-Possibile senso per parola asta: ('asta', 'Nel golf, con un asta bandiera, inserito in un foro del bersaglio, consentendo il foro per essere visto da lontano.')
-Possibile senso per parola asta: ('asta', 'Organo riproduttivo maschile')
-Possibile senso per parola asta: ('pertica', [])
-Possibile senso per parola asta: ('Ásta', 'Prenome femminile')
-Possibile senso per parola asta: ('gambo', [])
-Possibile senso per parola finestra: ('finestra', "La finestra è un'apertura di forma regolare, solitamente quadrata o rettangolare, praticata in una parete verticale, orizzontale o obliqua della muratura per consentire l'ingresso della luce e lo scambio dell'aria tra il vano interno di una costruzione e l'esterno.")
-Possibile senso per parola finestra: ('finestra', [])
-Possibile senso per parola finestra: ('finestra', 'Zona delimitata dello schermo, che si può aprire e chiudere, spostare e dimensionare.')
-Possibile senso per parola finestra: ('finestra_tettonica', "In geologia si parla di finestra tettonica quando in una zona sottoposta ad erosione la demolizione progressiva di una unità tettonica consente l'affioramento e l'osservazione di rocce sottostanti appartenenti ad un altro dominio tettonico.")
-Possibile senso per parola finestra: ('finestra_temporale', 'Un periodo di tempo durante il quale qualcosa è disponibile.')
-Possibile senso per parola tetto: ('tetto', [])
-Possibile senso per parola tetto: ('sul_tetto', [])
-Possibile senso per parola tetto: ('copertura', 'Struttura atta a coprire un edificio, costituita da una travatura ricoperta da embrici, tegole o altro materiale impermeabile')
-Possibile senso per parola tetto: ('massimale', [])
-Possibile senso per parola tetto: ('alto', 'La parte superiore.')
-Possibile senso per parola gioco di carte: ('gioco_di_carte', "Un gioco di carte è un qualunque gioco che necessita l'uso di carte da gioco, sia tradizionali sia specifiche per il gioco.")
-Possibile senso per parola frisbee: ('Switchover_Media', 'Frisbee è un canale televisivo italiano gratuito edito da Discovery Italia, divisione del gruppo Warner Bros.')
-Possibile senso per parola frisbee: ('frisbee', "Il frisbee è un oggetto di forma rotonda con l'orlo ricurvo, utilizzato negli sport all'aria aperta, atto ad essere lanciato a lunga distanza ; è utilizzato per scopi ricreativi e sportivi a livello agonistico.")
-Possibile senso per parola frisbee: ('Wham-O', [])
-Possibile senso per parola malware: ('malware', 'Lista di un progetto Wikimedia')
-Possibile senso per parola malware: ('malware', 'Malware, nella sicurezza informatica, indica un qualsiasi programma informatico usato per disturbare le operazioni svolte da un utente di un computer.')
-Possibile senso per parola worm: ('Worm', 'Cognome')
-Possibile senso per parola worm: ('write_once_read_many', "L'espressione Write Once, Read Many si riferisce ad un tipo di dispositivo di memorizzazione su cui si può scrivere soltanto una volta, ma che può essere letto diverse volte.")
-Possibile senso per parola worm: ('worm', 'Un worm, nella sicurezza informatica, è una particolare categoria di malware in grado di autoreplicarsi.')
-Possibile senso per parola pianeta: ('Saturno', 'Dio latino delle semine')
-Possibile senso per parola pianeta: ('Pianeta', 'Centro abitato situato presso Montecchio Maggiore, provincia di Vicenza')
-Possibile senso per parola pianeta: ('pianeta', "Corpo celeste che gira intorno al Sole o a un'altra stella, da cui riceve luce")
-Possibile senso per parola pianeta: ('Plutone', 'Corpo geologico intrusivo')
-Possibile senso per parola pianeta: ('casula', 'La casula è la veste liturgica propria di colui che celebra il rito della messa.')
-Possibile senso per parola pianeta: ('pianeta_(paramento_liturgico)', 'La pianeta è il paramento liturgico usato dal presbitero per presiedere la celebrazione eucaristica.')
-Possibile senso per parola stella: ('Stella_(Yello)', 'Stella è il quarto album in studio della band svizzera di musica elettronica Yello, pubblicato il 29 gennaio del 1985.')
-Possibile senso per parola stella: ('Stella_(film_2009)', 'Stella è un cortometraggio del 2009 diretto da Gabriele Salvatores per il progetto "PerFiducia", che ha coinvolto anche i registi Ermanno Olmi e Paolo Sorrentino, autori rispettivamente de Il premio e La partita lenta.')
-Possibile senso per parola stella: ('Stella_(nome)', 'Stella è un nome proprio di persona italiano femminile.')
-Possibile senso per parola stella: ('Stella_(moneta)', 'La zecca degli Stati Uniti produsse nel 1879 e nel 1880, una prova di una nuova unità monetaria, la Stella, dal valore di 4 dollari statunitensi.')
-Possibile senso per parola stella: ('grafo_stella', [])
-Possibile senso per parola stella: ('Stella_(film_1990)', 'Stella è un film del 1990 diretto da John Erman.')
-Possibile senso per parola stella: ('Stella_(Napoli)', 'Stella è un quartiere di Napoli, uno dei più antichi della città.')
-Possibile senso per parola stella: ('Stella_(Winx_Club)', 'Stella è un personaggio del cartone animato e fumetto italiano Winx Club, creato da Iginio Straffi e prodotto da Rainbow S.p.A..')
-Possibile senso per parola stella: ('stella_(araldica)', 'Stella è un termine utilizzato in araldica per indicare una figura araldica di cinque o più punte o raggi.')
-Possibile senso per parola stella: ('Stella', 'Centro abitato situato presso Brogliano, provincia di Vicenza')
-Possibile senso per parola stella: ('Stella', [])
-Possibile senso per parola stella: ('Stella', 'Film del 1950 diretto da Claude Binyon')
-Possibile senso per parola stella: ('astro', 'Corpo celeste caratterizzato da emissione di luce.')
-Possibile senso per parola stella: ('stella', 'Qualunque oggetto a forma di stella')
-Possibile senso per parola stella: ('celebrità', 'Persona famosa')
-Possibile senso per parola stella: ('poligono_stellato', "In geometria piana, un poligono stellato è un poligono avente una forma stellata a causa dell'intersezione di più lati.")
-Possibile senso per parola stella: ('Stella_(Goethe)', 'Stella è una tragedia in 5 atti di Johann Wolfgang von Goethe.')
-Possibile senso per parola stella: ('Stella_(romanzo)', 'Stella è un libro pubblicato da Sergio Bambarén nel 2002.')
-Possibile senso per parola stella: ('triangolo_di_regresso', 'Un triangolo di regresso è una disposizione di binari ferroviari a forma triangolare con un deviatoio su ogni vertice.')
-Possibile senso per parola stella: ('Stella', 'Centro abitato situato presso Ceccano, provincia di Frosinone')
-Possibile senso per parola stella: ('Stella_(Italia)', 'Stella è un comune italiano sparso di 2 980 abitanti della provincia di Savona in Liguria.')
-Possibile senso per parola stella: ('stella_(sport)', 'La stella è un simbolo utilizzato nello sport, in particolare negli sport di squadra, per indicare le vittorie di particolari competizioni; tale uso va distinto da quello araldico negli stemmi di alcuni club.')
-Possibile senso per parola stella: ('Stella', 'Centro abitato situato presso Miglianico, provincia di Chieti')
-Possibile senso per parola stella: ('stella_(simbolo)', 'La stella è un ideogramma che spesso rappresenta la stella astronomica, da cui il nome, ma a cui sono associati anche altri significati in vari contesti.')
-Possibile senso per parola stella: ('Stella', 'Centro abitato situato presso Gussago, provincia di Brescia')
-Possibile senso per parola stella: ('Stella_(Nebraska)', "Stella è un comune degli Stati Uniti d'America, situato nello Stato del Nebraska, nella Contea di Richardson.")
-Possibile senso per parola stella: ('Stella', 'Cratere lunare')
-Possibile senso per parola stella: ('Stella', 'Serie televisiva statunitense')
-Possibile senso per parola stella: ('Stella_(fiume)', 'Lo Stella è un fiume di risorgiva che scorre in Friuli, in Italia.')
-Possibile senso per parola stella: ('stella', 'Un corpo luminoso naturale nel cosmo che è visibile nel cielo dalla terra, almeno durante le notti chiare.')
-Possibile senso per parola stella: ('Stella', 'Glifo o ideogramma rappresentante una stella')
-Possibile senso per parola stella: ('Stella_(gruppo_musicale)', 'Stella è un gruppo pop-rock finlandese, formatosi nel 2002 nella città di Joensuu.')
-Possibile senso per parola stella: ('astro', 'Un attore che recita un ruolo principale.')
-Possibile senso per parola stella: ('Frank_Stella', 'Frank Philip Stella è un pittore e scultore statunitense minimalista.')
-Possibile senso per parola stella: ('Stella_(famiglia)', 'La famiglia Stella è una famiglia nobiliare modugnese del XVII secolo.')
-Possibile senso per parola stella: ('Stella_(Missouri)', "Stella è un villaggio degli Stati Uniti d'America, situato nello Stato del Missouri, nella contea di Newton.")
-Possibile senso per parola stella: ('Stella_(torrente)', 'Lo Stella è un torrente italiano che scorre nella Toscana settentrionale.')
-Possibile senso per parola stella: ('Stella_(software)', "Stella è un software creato dall'australiano Robert Webb, che contiene un database di poliedri, come ad esempio poliedri platonici, poliedri archimedei, solidi di Johnson, manipolabili attraverso operazioni di costellazione, sfaccettature, incremento, creazione di scafi convessi, ed altre.")
-Possibile senso per parola stella: ('stella_(classificazione)', 'La stella è il simbolo usualmente utilizzato per classificare alberghi, ristoranti ed altre tipologie di locali pubblici.')
-Possibile senso per parola stella: ('Stella_(piroscafo)', 'Lo Stella è stato un piroscafo da carico italiano, violatore di blocco durante la seconda guerra mondiale.')
-Possibile senso per parola stella: ('Stella_(film_2008)', 'Stella è un film del 2008 diretto da Sylvie Verheyde.')
-Possibile senso per parola corridore: ('corridore', 'Persona che viaggia a piedi correndo.')
-Possibile senso per parola corridore: ('corsa', 'Atto del correre')
-Possibile senso per parola corridore: ('corridore', [])
-Possibile senso per parola corridore: ('corridore', 'Un atleta allenato, che compete in gare podistiche.')
-Possibile senso per parola corridore: ('ciclista', 'Professione')
-Possibile senso per parola corridore: ('corridore', 'Il corridore, nel baseball, è il giocatore della squadra in attacco che si muove verso una della basi o ne tocca una.')
-Possibile senso per parola atleta: ('atleta', 'Sportivo, chi si dedica allo sport')
-Possibile senso per parola atleta: ('atleta_(atletica_leggera)', 'In ambito sportivo ci si riferisce ai praticanti di uno sport con il termine generico atleta.')
-Possibile senso per parola atleta: ('sport', "Lo sport è l'insieme di attività motorie che impegna — a livello agonistico oppure di esercizio — le capacità psicofisiche dell'atleta, che svolge una disciplina sportiva, con finalità amatoriali oppure ricevendo un compenso, nel qual caso si parla di sport professionistico.")
-Possibile senso per parola atleta: ('canottiere', 'Chi si dedica al canottaggio')
-Possibile senso per parola calibro: ('misura', 'La quantità, la dimensione, i peso, la distanza o la capacità di una sostanza comparata ad uno standard designato.')
-Possibile senso per parola calibro: ('calibro', [])
-Possibile senso per parola calibro: ('calibro', 'Il calibro è uno strumento di misura della lunghezza, adatto a misurare la larghezza e lunghezza di un oggetto, la distanza tra due facce piane o la profondità di un foro.')
-Possibile senso per parola calibro: ('calibro_(teoria_dei_grafi)', 'Nella teoria dei grafi, il calibro di un grafo è la lunghezza del ciclo più corto contenuto nel grafo.')
-Possibile senso per parola calibro: ('calibro', 'Strumento di forme diverse, per misurare lo spessore di lamiere, chiodi, il diametro di fili, tubi, proiettili, fori')
-Possibile senso per parola calibro: ('big', [])
-Possibile senso per parola calibro: ('misura', 'La quantità, la dimensione, i peso, la distanza o la capacità di una sostanza comparata ad uno standard designato.')
-Possibile senso per parola calibro: ('bontà', 'Il valore di qualcosa')
-Possibile senso per parola calibro: ('alesaggio', 'Diametro di un tubo o della canna di una pistola.')
-Possibile senso per parola calibro: ('calibro', [])
-Possibile senso per parola ombrello: ('ombrello', [])
-Possibile senso per parola ombrello: ('ombrello', 'Sistema difensivo militare')
-Possibile senso per parola ombrello: ('ombrello', 'Arnese per ripararsi dalla pioggia o dal sole')
-Possibile senso per parola WiFi: ('Wi-Fi', 'Wi-Fi è un insieme di tecnologie per reti locali senza fili basato sugli standard IEEE 802.11, il quale consente a più dispositivi di essere connessi tra loro tramite onde radio e scambiare dati.')
-Possibile senso per parola WikiLeaks: ('WikiLeaks', "WikiLeaks è un'organizzazione internazionale senza scopo di lucro che riceve in modo anonimo, grazie a un contenitore protetto da un potente sistema di cifratura, documenti coperti da segreto e poi li carica sul proprio sito web.")
-Possibile senso per parola siccità: ('aridità', 'Stato di essere secco, la mancanza di acqua o liquidi.')
-Possibile senso per parola siccità: ('siccità', [])
-Possibile senso per parola siccità: ('arsura', 'Tempo caratterizzato da mancanza di pioggia')
-Possibile senso per parola siccità: ('aridità', "Mancanza o scarsità d'acqua in un lago, fiume e simili")
-Possibile senso per parola acqua: ('Acqua_(Tresivio)', 'Acqua è una frazione del comune di Tresivio, in provincia di Sondrio.')
-Possibile senso per parola acqua: ('Acqua_(Fabrizio_Moro)', 'Acqua è un singolo del cantautore italiano Fabrizio Moro, pubblicato il 3 marzo 2015 come primo estratto dal settimo album in studio Via delle Girandole 10.')
-Possibile senso per parola acqua: ('acqua', "L'urina od orina è il prodotto finale della escrezione del rene attraverso la quale vengono eliminati dall'organismo i prodotti metabolici presenti nel sangue.")
-Possibile senso per parola acqua: ("proprietà_dell'acqua", [])
-Possibile senso per parola acqua: ('acqua', 'Acque sorgive la cui temperatura è superiore ai 14 °C,  impiegate a scopi curativi')
-Possibile senso per parola acqua: ('acqua_marina', "Il colore acqua è un ciano, usato prevalentemente dai graphic designers ed altre figure professionali legate all'informatica, come i web designer.")
-Possibile senso per parola acqua: ('acqua', "L'acqua è un composto chimico di formula molecolare H2O, in cui i due atomi di idrogeno sono legati all'atomo di ossigeno con legame covalente polare.")
-Possibile senso per parola acqua: ('acqua', "Massa, distesa d'acqua.")
-Possibile senso per parola acqua: ('Acqua_(rete_televisiva)', 'Acqua è stato un canale televisivo italiano tematico, edito da Giglio Group, che proponeva un palinsesto incentrato sul mondo della vela e della nautica.')
-Possibile senso per parola acqua: ('Acqua', 'Costellazione obsoleta')
-Possibile senso per parola acqua: ('acqua', "Precipitazione di gocce d'acqua dal vapore condensato nell'atmosfera.")
-Possibile senso per parola acqua: ('acqua', "Nella filosofia antica, uno dei quattro elementi di cui era composto l'universo.")
-Possibile senso per parola acqua: ('acqua', 'Liquido trasparente incolore, inodore e insapore, la cui molecola è formata da due atomi di idrogeno e uno di ossigeno.')
-Possibile senso per parola acqua: ('acqua', [])
-Possibile senso per parola acqua: ('Acqua', 'Episodio della prima stagione di Stargate Universe')
-Possibile senso per parola acqua: ('Acqua', [])
-Possibile senso per parola aeroporto: ('Aeroporto_(film)', 'Aeroporto è un film del 1944 diretto da Piero Costa.')
-Possibile senso per parola aeroporto: ("campo_d'aviazione", [])
-Possibile senso per parola aeroporto: ('Aeroporto', 'Centro abitato situato presso Vibo Valentia, provincia di Vibo Valentia')
-Possibile senso per parola aeroporto: (None, None)
-Possibile senso per parola aeroporto: ('aeroporto', [])
-Possibile senso per parola aeroporto: ('aerodromo', 'Luogo nel quale partono ed arrivano aerei')
-Possibile senso per parola aeroporto: ('Aeroporto', 'Centro abitato situato presso Lamezia Terme, provincia di Catanzaro')
-Possibile senso per parola aeroporto: ('Aeroporto', 'Frazione del comune italiano di Galatina, provincia di Lecce')
-Possibile senso per parola pezzo: ('istmo', 'Parte di un oggeto o di un materiale.')
-Possibile senso per parola pezzo: ('Pezzo_(Ponte_di_Legno)', 'Pezzo è una frazione del comune di Ponte di Legno, in alta Val Camonica, in provincia di Brescia.')
-Possibile senso per parola pezzo: ('pedina', 'Piccolo elemento usato in diversi giochi da tavolo.')
-Possibile senso per parola pezzo: ('pezzo', [])
-Possibile senso per parola pezzo: ('Pezzo_(Villa_San_Giovanni)', 'Pezzo è una frazione del comune di Villa San Giovanni, in provincia di Reggio Calabria.')
-Possibile senso per parola pezzo: ('componimento', 'Composizione musicale')
-Possibile senso per parola pezzo: ('pezzo', 'Elemento del gioco degli scacchi')
-Possibile senso per parola pezzo: ('pezzo', [])
-Possibile senso per parola pezzo: ('Pezzo', 'Centro abitato situato presso Bosco Chiesanuova, provincia di Verona')
-Possibile senso per parola pezzo: ('brano', 'Una porzione di un oggetto naturale.')
-Possibile senso per parola pezzo: ('taglio', 'Parte di animale commestibile tagliata per la vendita al dettaglio')
-Possibile senso per parola pezzo: ('articolo', 'Articolo di giornale.')
-Possibile senso per parola pezzo: ('appezzamento', [])
-Possibile senso per parola pezzo: ('brano', "Parte di un'opera musicale.")
-Possibile senso per parola pezzo: ('pezzo', 'Articolo pubblicato su un periodico.')
-Possibile senso per parola pezzo: ('luogo', 'Brano, frammento di un libro, di uno scritto o di una argomentazione.')
-Possibile senso per parola orchestra: ('orchestra_(architettura)', "Orchestra, in architettura, è il termine usato per indicare quella parte del teatro antico, di forma circolare dedicata ad ospitare l'esibizione del coro.")
-Possibile senso per parola orchestra: ('Orchestra_(Eberhard_Weber)', 'Orchestra è un album in studio del bassista e compositore tedesco Eberhard Weber, registrato tra il maggio ed il giugno del 1988 presso i Tonstudio Bauer di Ludwigsburg e pubblicato lo stesso anno.')
-Possibile senso per parola orchestra: ('orchestra', 'Insieme dei suonatori e degli strumenti musicali')
-Possibile senso per parola orchestra: ('orchestra', 'In teatro, lo spazio in cui gli spettatori sono disposti in file')
-Possibile senso per parola orchestra: ("fossa_dell'orchestra", 'Zona del teatro di fronte al palco')
-Possibile senso per parola banda: ('banda', [])
-Possibile senso per parola banda: ('Banda', [])
-Possibile senso per parola banda: ('banda', "Una banda, nell'ambito della criminalità, indica gruppo sociale formato allo scopo di realizzare e gestire attività illecite e al controllo del territorio.")
-Possibile senso per parola banda: ('banda', [])
-Possibile senso per parola banda: ('chevron_(insegna)', 'Lo chevron è un\'insegna a forma di "V", solitamente rappresentata invertita come "Λ".')
-Possibile senso per parola banda: ('banda_(società)', 'Il termine banda nelle scienze etnoantropologiche viene utilizzato per indicare la forma più elementare di società umana.')
-Possibile senso per parola banda: ('Banda_(Madhya_Pradesh)', "Banda è una suddivisione dell'India, classificata come nagar panchayat, di 26.178 abitanti, situata nel distretto di Sagar, nello stato federato del Madhya Pradesh.")
-Possibile senso per parola banda: ('banda', 'Banda è un termine utilizzato in araldica per indicare una pezza onorevole costituita da una striscia, della larghezza normale di due moduli che scende, dalla destra alla sinistra, diagonalmente.')
-Possibile senso per parola banda: ('Banda', 'Centro abitato situato presso Villar Focchiardo, città metropolitana di Torino')
-Possibile senso per parola banda: ('Banda_(Uttar_Pradesh)', "Banda è una suddivisione dell'India, classificata come municipal board, di 134.822 abitanti, capoluogo del distretto di Banda, nello stato federato dell'Uttar Pradesh.")
-Possibile senso per parola banda: ('cerchia', 'Gruppo informale di persone che si incontrano di frequente o con le quali si hanno rapporti sociali, affettivi o di interesse.')
-Possibile senso per parola banda: ('banda_musicale', "Una banda musicale, o semplicemente banda, o anche orchestra di fiati è un complesso musicale formato esclusivamente da strumenti musicali a fiato e a percussione, dove talvolta in organico e partitura si può trovare anche il contrabbasso, ove presente quest'ultimo è più appropriata la denominazione orchestra a fiati o wind band.")
-Possibile senso per parola banda: ('Banda', 'Centro abitato situato presso Feroleto Antico, provincia di Catanzaro')
-Possibile senso per parola banda: ('banda', 'Intervallo compreso tra due frequenze limite o intorno a una frequenza media')
-Possibile senso per parola banda: ('banda_radio', 'Nelle telecomunicazioni con il termine banda radio si indica la sezione dello spettro elettromagnetico utilizzata per la trasmissione di dati e informazioni.')
-Possibile senso per parola banda: ('larghezza_di_banda', "La larghezza di banda, nelle telecomunicazioni ed elettronica, è la misura dell'ampiezza di banda dello spettro.")
-Possibile senso per parola banda: ('La_banda_(film_2007)', 'La banda è un film del 2007 scritto e diretto da Eran Kolirin, presentato al 60º Festival di Cannes nella sezione Un Certain Regard.')
-Possibile senso per parola banda: ('banda', [])
-Possibile senso per parola banda: ('banda', [])
-Possibile senso per parola banda: ('banda_(informatica)', "La banda, in informatica e in telecomunicazioni, indica la quantità di dati informativi che possono essere trasferiti, attraverso una connessione, in un dato periodo di tempo, e la cui ampiezza è in analogia con l'ampiezza di banda in campo fisico.")
-Possibile senso per parola banda: ('banda', 'Pezzo di materiale di forma lunga e stretta e di poco spessore')
-Possibile senso per parola banda: ('Banda_(unità_militare)', "La banda era un tipo di unità militare irregolare delle forze armate del Regno d'Italia composta da stranieri e nativi coloniali impiegati come truppe ausiliarie delle forze regolari nazionali e coloniali, e comandati da ufficiali e sottufficiali italiani.")
-Possibile senso per parola banda: ('banda', 'Gruppo di persone (informale) "Continua a frequentare la stessa combriccola".')
-Possibile senso per parola banda: ('banda', "Compagnia di suonatori di strumenti a fiato e a percussione che si esibisce specialmente all'aperto.")
-Possibile senso per parola banda: ('banda', 'Striscia di stoffa applicata ad un abito, per lo più di colore diverso')
-Possibile senso per parola banda: ('banda', [])
-Possibile senso per parola mojito: ('mojito', 'Il mojito è un famoso cocktail di origine cubana composto da rum bianco, zucchero di canna, succo di lime, foglie di menta e acqua minerale frizzante o acqua di soda o acqua di Seltz.')
-Possibile senso per parola mohito: ('mojito', 'Il mojito è un famoso cocktail di origine cubana composto da rum bianco, zucchero di canna, succo di lime, foglie di menta e acqua minerale frizzante o acqua di soda o acqua di Seltz.')
-Possibile senso per parola programma: ('sistema', 'Complesso di programmi e procedure che consentono il funzionamento di un calcolatore elettronico (si contrappone a àhardwareè)')
-Possibile senso per parola programma: ('selva_(musica)', "La selva, chiamata anche tela, programma o scenario, nell'Ottocento era l'adattamento a grandi linee di una fonte alla scena musicale, precedente la stesura del libretto vera e propria.")
-Possibile senso per parola programma: ('programma', [])
-Possibile senso per parola programma: ('programma', [])
-Possibile senso per parola programma: ('calendario', 'Opuscolo con indicazioni su varie manifestazioni o attività cronologicamente ordinate')
-Possibile senso per parola programma: ('programma', [])
-Possibile senso per parola programma: ('manifesto', 'Scritto programmatico espressione di movimenti politici o culturali')
-Possibile senso per parola programma: ('programma', 'Riassunto degli argomenti che saranno trattati in un corso.')
-Possibile senso per parola programma: ('disegno', "Piano dettagliato per la pianificazione di un'azione, l'esecuzione di un lavoro e lo svolgimento di un'attività.")
-Possibile senso per parola programma: ('locandina', 'Opuscolo, o foglio, contenente informazioni attinenti a uno spettacolo, manifestazione e simili.')
-Possibile senso per parola programma: ('piattaforma', "Insieme dei principi e degli obiettivi su cui si fonda l'azione di un partito o di un governo.")
-Possibile senso per parola programma: ('corso_di_studi', "Curriculum nel campo dell'istruzione indica l'insieme dei corsi e dei loro contenuti, offerti da una istituzione quale una scuola o un'università.")
-Possibile senso per parola programma: ('eurosocialismo', 'Insieme dei processi di convergenza politica e ideologica tra i vari partiti socialisti europei')
-Possibile senso per parola programma: ('programma', 'Singolo spettacolo radiofonico o televisivo.')
-Possibile senso per parola programma: ('programma', 'Sequenza di istruzioni, rappresentate in un particolare linguaggio, in seguito alle quali un computer esegue determinate operazioni.')
-Possibile senso per parola programma: ('programma', 'Il programma')
-Possibile senso per parola programma: ('orario', "Prospetto che illustra l'orario già disposto")
-Possibile senso per parola programma: ('schema', "Una strategia è un piano d'azione di lungo termine usato per impostare e coordinare azioni tese al raggiungimento di uno scopo od obiettivo predeterminato.")
-Possibile senso per parola esame: ('controllo', "L'ispezione della polizia")
-Possibile senso per parola esame: ('esame', [])
-Possibile senso per parola esame: ('compito_in_classe', 'La prova stessa di esame, i metodi di verifica')
-Possibile senso per parola teorema: ('Teorema_(brano_musicale)', 'Teorema è un brano musicale composto ed eseguito dal cantante italiano Marco Ferradini, tratto dal Qdisc Schiavo senza catene del 1981.')
-Possibile senso per parola teorema: ('Teorema_(film)', 'Teorema è un film del 1968, scritto e diretto da Pier Paolo Pasolini, prodotto da Franco Rossellini e Manolo Bolognini.')
-Possibile senso per parola teorema: ('teorema', 'Proposizione deducibile da postulati di base (assiomi).')
-Possibile senso per parola teorema: ('teorema', 'Idea accettata come verità dimostrabile.')
-Possibile senso per parola teoria: ('teoria', [])
-Possibile senso per parola teoria: ('teoria', 'Un sistema di informazioni che spiega determinati fenomeni')
-Possibile senso per parola teoria: ('teoria', 'Precetto che serve di guida alla pratica')
-Possibile senso per parola teoria: ('ipotesi', "Un'ipotesi è la premessa sottesa ad un ragionamento o a una dimostrazione.")
-Possibile senso per parola yo-yo: ('Yo-Yo_(rapper)', 'Yo-Yo, pseudonimo di Yolanda Whitaker, è una rapper e attrice statunitense.')
-Possibile senso per parola yo-yo: ('effetto_yo-yo', 'In dietologia si indica come effetto yo-yo, noto anche come ciclicità del peso, la perdita e riacquisto ciclico di peso corporeo in seguito a diete eccessivamente ipocaloriche.')
-Possibile senso per parola yo-yo: ('Yo-Yo_(singolo)', "Yo-Yo è il terzo singolo estratto dall'album di debutto Cinderella's Eyes della cantante inglese Nicola Roberts.")
-Possibile senso per parola yo-yo: ('yo-yo', 'Lo yo-yo, conosciuto in Italia anche come rocchetto, è un giocattolo nonché un attrezzo di giocoleria.')
-Possibile senso per parola giocattolo: ('Il_giocattolo', 'Il giocattolo è un film drammatico del 1979 diretto da Giuliano Montaldo, avente per protagonista Nino Manfredi.')
-Possibile senso per parola giocattolo: ('balocco', 'Oggetto che serve per giocare.')
-Possibile senso per parola tormenta: (None, None)
-Possibile senso per parola tormenta: ('La_tormenta_(film_1964)', 'La tormenta è un film del 1964 diretto da Vladimir Basov.')
-Possibile senso per parola tormenta: ('bufera', 'Perturbazione atmosferica che coinvolge perturbazioni dei campi di pressione prevalenti e di vento su scale che vanno dal tornado ai cicloni extratropicali; le condizioni climatiche associate.')
-Possibile senso per parola tormenta: ('bufera_di_neve', 'In meteorologia, il prestito inglese blizzard è un vento polare che per estensione viene usato per riferirsi ad una tempesta di neve con raffiche di vento molto forti e conseguente bassa visibilità.')
-Possibile senso per parola tormenta: ('Tormenta', 'Cantante argentina')
-Possibile senso per parola tormenta: ('bufera', 'Tempo burrascoso')
-Possibile senso per parola tormenta: ("armi_d'assedio_(storia_romana)", "Le armi da assedio d'epoca romana rappresentarono una componente fondamentale nell'organizzazione dell'esercito romano.")
-Possibile senso per parola tormenta: ('nevischio', [])
-Possibile senso per parola tormenta: ('Tormenta', 'Episodio della serie televisiva Heroes')
-Possibile senso per parola pioggia: ('acqua', "Precipitazione di gocce d'acqua dal vapore condensato nell'atmosfera.")
-Possibile senso per parola pioggia: ('acquerella', 'Pioggia leggera.')
-Possibile senso per parola pioggia: ('acqua_piovana', "Massa d'acqua caduta come precipitazione dalle nuovole.")
-Possibile senso per parola pioggia: ('pioggia', 'Grande quantità in rapida successione.')
-Possibile senso per parola pioggia: ('pioggia_(Chagall)', 'La pioggia è un dipinto su tela con olio e carboncino realizzato da Marc Chagall a Parigi nel 1911.')
-Possibile senso per parola pioggia: ('pioggia', "Cose che cadono in abbondanza dall'alto")
-Possibile senso per parola pioggia: ('Pioggia_(film_1929)', 'Pioggia è un documentario del 1929, diretto da Joris Ivens e Mannus Franken.')
-Possibile senso per parola pioggia: ('Pioggia_(singolo)', 'Pioggia è un il singolo di debutto dei Diaframma pubblicato nel 1982 da Italian Records.')
-Possibile senso per parola pioggia: ('Pioggia', 'Episodio della terza stagione di Desperate Housewives')
-Possibile senso per parola pioggia: ('Pioggia_(film_1953)', 'Pioggia è un film stereoscopico in Technicolor del 1953 diretto da Curtis Bernhardt.')
-Possibile senso per parola storico: ('storico', 'Una persona che studia la storia.')
-Possibile senso per parola storico: ([], [])
-Possibile senso per parola storico: ('storico', [])
-Possibile senso per parola storico: ('storiografia', 'La storiografia è una disciplina scientifica che si occupa della descrizione della storia e comprende tutte le forme di interpretazione, di trattazione e trasmissione di fatti e accadimenti della vita degli individui e delle società del passato storico.')
-Possibile senso per parola storico: ('storia', 'Dottrina, disciplina')
-Possibile senso per parola storiografo: ('storico', 'Una persona che studia la storia.')
-Possibile senso per parola storiografo: ('storiografia', 'La storiografia è una disciplina scientifica che si occupa della descrizione della storia e comprende tutte le forme di interpretazione, di trattazione e trasmissione di fatti e accadimenti della vita degli individui e delle società del passato storico.')
-Possibile senso per parola Siemens: ('Siemens_(famiglia)', 'La famiglia imprenditoriale Siemens è un ramo, arrivato fino ad oggi, di una famiglia della città di Goslar, di cui è noto il cittadino Henning Symons, nato il 2 gennaio 1384.')
-Possibile senso per parola Siemens: ('Siemens_(azienda)', 'Siemens Aktiengesellschaft è una multinazionale tedesca, fondata nel 1847, attiva nei settori delle tecnologie, della mobilità e dei servizi, con sede a Monaco di Baviera e presente con diversi uffici in circa 200 paesi.')
-Possibile senso per parola Siemens: ('siemens', 'Ingegnere (1816-1892)')
-Possibile senso per parola secolo: ('epoca', 'Periodo determinato ma non descritto in termini cronologicamente precisi')
-Possibile senso per parola secolo: ('anno', 'Un prolungato periodo di tempo.')
-Possibile senso per parola secolo: ('secolo', [])
-Possibile senso per parola secolo: ('centennio', 'Periodo di tempo di cento anni')
-Possibile senso per parola anno: ('anno', [])
-Possibile senso per parola anno: ('anno', [])
-Possibile senso per parola anno: ('Anno_(serie)', 'Anno è una serie di videogiochi gestionali in tempo reale sviluppati da Max Design, Keen Games, Related Design e Blue Byte e pubblicati da Sunflowers Interactive, Disney Interactive e Ubisoft Entertainment.')
-Possibile senso per parola anno: ('anno', 'Periodo storico.')
-Possibile senso per parola anno: ('anno', 'Un prolungato periodo di tempo.')
-Possibile senso per parola anno: ('Anno', 'Prenome sia maschile che femminile')
-Possibile senso per parola anno: ('Anno', 'Cognome')
-Possibile senso per parola anno: ('anno', 'Periodo della vita, età.')
-Possibile senso per parola anno: ('anno', 'Secondo il calendario gregoriano, periodo compreso tra il 1 gennaio e il 31 dicembre.')
-Possibile senso per parola anno: ('annata', "Periodo di tempo basato su una particolare attività che occupa regolarmente una parte dell'anno.")
-Possibile senso per parola anno: ('anno', 'Il periodo di tempo impiegato da un pianeta (come, per esempio, la Terra o Marte) per compiere un giro completo intorno al sole.')
-Possibile senso per parola anno: ('Ampere', 'Unità di misura della corrente elettrica')
-Possibile senso per parola anno: ('anno_tropico', "L'anno tropico o anno solare è il tempo impiegato dal Sole per tornare nella stessa posizione vista dalla Terra, corrispondente al ciclo delle stagioni.")
-Possibile senso per parola anno: ('anno', 'Periodo di 365 (o 366) giorni calcolato a partire da un giorno qualsiasi.')
-Possibile senso per parola anno: ('anno', 'Insieme degli alunni che frequentano lo stesso corso e condividono la stessa aula.')
-Possibile senso per parola lega: ('associazione', [])
-Possibile senso per parola lega: ('Lega_Nord', "La Lega Nord, il cui nome completo è Lega Nord per l'Indipendenza della Padania, è un partito politico italiano.")
-Possibile senso per parola lega: ('lega', 'Miscela di due o più metalli fusi')
-Possibile senso per parola lega: ('prefetture_della_Cina', "La prefettura è una suddivisione amministrativa della Cina, riscontrabile tanto nel passato quanto nell'epoca moderna in questo Paese.")
-Possibile senso per parola lega: ('associazione', 'Associazione formale di persone con interessi simili.')
-Possibile senso per parola lega: ('circolo', 'Gruppo di persone che si riunisce per uno scopo comune (spesso ricreativo)')
-Possibile senso per parola lega: ('lega_(unità_di_misura)', "La Lega è stata un'unità di misura della distanza, e in particolare di percorsi terrestri o marittimi a lungo diffusa in Europa ed in America Latina, originatasi nella Roma antica.")
-Possibile senso per parola lega: ('campionato', 'Tipo di organizzazione sportiva')
-Possibile senso per parola lega: ('Lega_(fiume)', 'Il Lega è un fiume che attraversa la Polonia, ha una lunghezza di 157 chilometri.')
-Possibile senso per parola lega: ('alleanza', "L'insieme di organismi, partiti o persone unite")
-Possibile senso per parola acciaio: ('Acciaio_(personaggio)', 'Acciaio, il cui vero nome è John Henry Irons, è un personaggio dei fumetti, noto anche come "Man of Steel/Uomo d\'Acciaio", pubblicato negli Stati Uniti d\'America da DC Comics.')
-Possibile senso per parola acciaio: ('Duel_e_altri_racconti', 'Duel e altri racconti è una raccolta di racconti di Richard Matheson, pubblicata per la prima volta in lingua inglese nel 2003, e in lingua italiana nel febbraio 2005 nella collana Fanucci Collezione immaginario Dark.')
-Possibile senso per parola acciaio: ('metalli_secondari', "Il ferro e l'acciaio sono dei metalli araldici, del gruppo dei cosiddetti metalli secondari, che oggi non sono più utilizzati, benché siano presenti in alcune blasonature antiche.")
-Possibile senso per parola acciaio: ('acciaio', 'Lega formata da ferro e carbonio')
-Possibile senso per parola acciaio: ('Acciaio_(film_2012)', 'Acciaio è un film del 2012 diretto da Stefano Mordini con protagonisti Michele Riondino, Vittoria Puccini, Matilde Giannini e Anna Bellezza.')
-Possibile senso per parola acciaio: ('Acciaio_(sommergibile)', 'L’Acciaio è stato un sommergibile della Regia Marina.')
-Possibile senso per parola acciaio: ('Acciaio_(film_1933)', 'Acciaio è un film del 1933 diretto dal regista tedesco Walter Ruttmann e realizzato dalla "Cines", da poco attrezzata per le produzioni sonore, quale tentativo di apertura verso apporti culturali internazionali.')
-Possibile senso per parola acciaio: ('Acciaio', 'Episodio della quinta stagione di Ai confini della realtà')
-Possibile senso per parola acciaio: ('acciaio_(sistemi_di_designazione)', 'Gli acciai vengono designati secondo la nuova normativa europea UNI EN 10027 del 2006 in due sistemi equivalenti: alfanumerico, descritto dalla normativa UNI EN 10027/1; esempio: S235JR numerico, descritto dalla normativa UNI EN 10027/2.')
-Possibile senso per parola acciaio: ('Acciaio_(romanzo)', 'Acciaio è il primo romanzo di Silvia Avallone.')
-Possibile senso per parola magistrato: ('Il_magistrato', 'Il magistrato è un film del 1959 diretto da Luigi Zampa.')
-Possibile senso per parola magistrato: ('avvocato_giudice', [])
-Possibile senso per parola magistrato: ('magistrato', 'Un magistrato è il titolare di un ufficio pubblico.')
-Possibile senso per parola magistrato: ('Magistrato_(Repubblica_di_Venezia)', "Nell'antica Repubblica di Venezia il termine Magistrato oltre a designare con il generico significato gli uffici pubblici ed i loro titolari, designava nello specifico alcune magistrature dello Stato di particolare importanza.")
-Possibile senso per parola magistrato: ('giudice', 'Chi esercita la professione')
-Possibile senso per parola magistrato: ('magistratura_(storia_romana)', "La magistratura, nell'antica Roma indica ogni carica pubblica, per lo più elettiva e temporanea.")
-Possibile senso per parola magistrato: ('funzionario', 'Chi ricopre un pubblico ufficio')
-Possibile senso per parola magistrato: ('magistrato', [])
-Possibile senso per parola giudice: ('potere_giudiziario', "Il potere giudiziario, in diritto, è un potere connesso all'attività ed all'esercizio della giurisdizione, che consente di far rispettare la legge e condannare chi compie atti illeciti, potere tipicamente assegnato alla magistratura.")
-Possibile senso per parola giudice: ('arbitri', [])
-Possibile senso per parola giudice: ('giudice', [])
-Possibile senso per parola giudice: ('giudice', [])
-Possibile senso per parola giudice: ('arbitro_(football_americano)', 'Nel football americano, un arbitro è una delle persone in campo responsabili del rispetto delle regole durante il gioco.')
-Possibile senso per parola giudice: ('giudice', 'Chi esercita la professione')
-Possibile senso per parola giudice: ('giudice', [])
-Possibile senso per parola giudice: ('arbitro', [])
-Possibile senso per parola giudice: ('giudice', [])
-Possibile senso per parola giudice: ('giudice_(storia_della_Sardegna)', 'Giudice, nel significato di sovrano è la definizione utilizzata in lingua italiana per tradurre dalla lingua sarda la parola judike.')
-Possibile senso per parola caos: ('Tohu_e_Tikun', "Olam HaTohu e Olam HaTikun sono due fasi generali della cabala ebraica, nell'ordine dei mondi spirituali discendenti.")
-Possibile senso per parola caos: ('Shadow_Galactica', 'Shadow Galactica è il gruppo dei nemici della quinta serie di Sailor Moon.')
-Possibile senso per parola caos: ('Caos_(mitologia)', "Caos o Chaos è l'entità primigenia così indicata nella Teogonia di Esiodo.")
-Possibile senso per parola caos: ('caos', [])
-Possibile senso per parola caos: ('Caos_(film)', 'Caos è un film direct-to-video statunitense del 2005 diretto da Tony Giglio.')
-Possibile senso per parola caos: (None, None)
-Possibile senso per parola caos: ('babele', 'Stato di grande confusione e turbamento')
-Possibile senso per parola caos: ('Caos_(Warhammer)', 'Caos sono un gruppo di personaggi immaginari degli universi fittizi di Warhammer 40,000 e Warhammer Fantasy; sono entità spesso malevole che vivono in una sorta di universo parallelo, noto come il Warp in Warhammer 40,000, e come "Reame del Caos" in Warhammer Fantasy.')
-Possibile senso per parola caos: ('Chaos', [])
-Possibile senso per parola caos: ('caos', [])
-Possibile senso per parola caos: ('sevizia', [])
-Possibile senso per parola caos: ('anarchia', 'Situazione di disordine e confusione per mancanza o insufficienza di governo')
-Possibile senso per parola classe: ('classe_(scuola)', "Una classe scolastica è l'insieme degli alunni che sono sistemati in un'aula scolastica e che hanno in comune gli stessi orari scolastici e gli stessi insegnanti nelle varie materie del corso.")
-Possibile senso per parola classe: ('classe', 'Ciascuno dei raggruppamenti in cui sono suddivisi i valori di una grandezza economica.')
-Possibile senso per parola classe: ('tipo_di_rotabile', 'Gruppo di materiale rotabile')
-Possibile senso per parola classe: ('classe_navale', 'Una classe navale è una serie di navi aventi progetto e caratteristiche comuni.')
-Possibile senso per parola classe: ('associazione', 'Unione di persone con medesimo ruolo e scopo')
-Possibile senso per parola classe: ('classe', 'Gruppo di elementi che condividono le stesse caratteristiche')
-Possibile senso per parola classe: ('categoria', 'Raggruppamento di cose che hanno caratteristiche o proprietà comuni.')
-Possibile senso per parola classe: ('associazione', 'Insieme di persone che esercitano la stessa professione.')
-Possibile senso per parola classe: ('classe_(informatica)', 'Una classe, nella programmazione orientata agli oggetti, è un costrutto di un linguaggio di programmazione usato come modello per creare oggetti.')
-Possibile senso per parola classe: ('aggregato', 'Una collezione astratta di numeri o simboli.')
-Possibile senso per parola classe: ('classe', 'Nella classificazione animale e vegetale, raggruppamento di più ordini.')
-Possibile senso per parola classe: ('classe', 'Signorilità, distinzione, eleganza.')
-Possibile senso per parola classe: ('classe', 'Concetto filosofico')
-Possibile senso per parola classe: ('ceto', 'Fascia di popolazione contraddistinta da una medesima condizione economica e sociale e da interessi comuni.')
-Possibile senso per parola classe: ('corso', "Serie di lezioni volta all'insegnamento di una disciplina e ordinata secondo un criterio di progressivo apprendimento.")
-Possibile senso per parola classe: ('classe_(moto)', 'Nel motociclismo sportivo, la classe indica un raggruppamento omogeneo di veicoli che partecipa a una stessa competizione, avendo delle caratteristiche specifiche dettate da un regolamento.')
-Possibile senso per parola classe: ('classe_(matematica)', 'Nella moderna teoria degli insiemi, per classe si intende una generica collezione di oggetti che possono essere univocamente identificati.')
-Possibile senso per parola classe: ('glossario_dei_giochi_di_ruolo', 'Questo glossario dei giochi di ruolo elenca alcuni termini utilizzati nei giochi di ruolo e ne illustra il significato.')
-Possibile senso per parola classe: ('Classe_(Ravenna)', 'Classe è una frazione del comune di Ravenna di 1 989 abitanti.')
-Possibile senso per parola classe: ('carattere', 'Proprietà o elemento caratterizzante di una cosa, un fenomeno, un evento e simili.')
-Possibile senso per parola classe: ('classe', 'In biologia, categoria sistematica costituita dal raggruppamento di generi affini.')
-Possibile senso per parola classe: ('aula', 'Locale dove si tengono le lezioni.')
-Possibile senso per parola classe: ('anno', 'Insieme degli alunni che frequentano lo stesso corso e condividono la stessa aula.')
-Possibile senso per parola formazione a distanza: ('corso_per_corrispondenza', "Istruzione impartita a distanza attraverso l'uso delle tecnologie dell'informazione/comunicazione quali radio, TV, telefono, corrispondenza, e-mail, videoconferenza, audioconferenza, cd-rom o internet.")
-Possibile senso per parola formazione a distanza: ('scuola_per_corrispondenza', [])
-Possibile senso per parola internet: ('cyberspazio', "Il cyberspazio o, meno comunemente, ciberspazio, è il dominio caratterizzato dall'uso dell'elettronica e dello spettro elettromagnetico per immagazzinare, modificare e scambiare informazioni attraverso le reti informatiche e le loro infrastrutture fisiche.")
-Possibile senso per parola internet: (None, None)
-Possibile senso per parola internet: ('internetwork', "Un'internet, o internetwork, è un tipo di rete di computer che si contraddistingue per il fatto di collegare tra loro più reti locali e/o geografiche autonome mediante il TCP/IP.")
-Possibile senso per parola sabbia: ('Sabbia_(film)', 'Sabbia è un film del 1949 diretto da Louis King.')
-Possibile senso per parola sabbia: ('sabbionaia', 'La sabbionaia è un ambiente, spesso un contenitore, solitamente di forma quadrangolare, nel quale si trova sabbia: viene adibita al gioco per i bambini e talvolta contiene attrezzi ginnici.')
-Possibile senso per parola sabbia: ('sabbia', 'Tonalità di marrone')
-Possibile senso per parola sabbia: ('Sabbia_(Varallo)', 'Sabbia è una frazione di Varallo in provincia di Vercelli, comune autonomo fino alla sua soppressione avvenuta il 1º gennaio 2018.')
-Possibile senso per parola sabbia: ('arena', 'Insieme incoerente di granuli')
-Possibile senso per parola piede: ('piede', 'Nella metrica classica, la più piccola unità ritmica di un verso, formata da almeno due sillabe.')
-Possibile senso per parola piede: ('piede', "Nell'uomo, estremità dell’arto inferiore che svolge funzione di sostegno nella locomozione e nella posizione eretta.")
-Possibile senso per parola piede: ('piede', "Unità di misura di lunghezza in uso nell'anitichità, nel Medioevo, e tuttora nei paesi anglosassoni.")
-Possibile senso per parola piede: ('piede', 'Estremità degli arti inferiori negli esseri umani')
-Possibile senso per parola piede: ('base', 'Parte inferiore di un oggetto o una struttura, che abbia funzione di sostegno o di appoggio.')
-Possibile senso per parola piede: ('piede', 'La parte del corpo umano situata alla fine della caviglia, che serve a mantenersi in piedi e a camminare.')
-Possibile senso per parola piede: ('piede_monetario', 'In numismatica, il piede è il numero di monete che possono essere prodotte con una certa quantità di metallo prezioso.')
-Possibile senso per parola piede: ('base', 'Strato o piano sottostante al fondo visibile')
-Possibile senso per parola piede: ('basso', 'La parte più bassa di qualcosa.')
-Possibile senso per parola piede: ('piede', 'Nei molluschi, massa muscolare situata nella parte ventrale del corpo, con funzione locomotoria o di scavo.')
-Possibile senso per parola piede: ('pous', "Il pous in greco antico: ποῦς o piede greco era una misura di lunghezza dell'antica Grecia.")
-Possibile senso per parola Deutsche Bank: ('Deutsche_Bank', 'Deutsche Bank è una banca tedesca, con sede a Francoforte sul Meno, in Germania, presso le Deutsche Bank Twin Towers.')
-Possibile senso per parola Guardian: ('Guardiano_(DC_Comics)', 'Guardiano, il cui vero nome è James Jacob "Jim" Harper, è un personaggio dei fumetti, un supereroe della DC Comics, creato da Jack Kirby e Joe Simon.')
-Possibile senso per parola Guardian: ('Guardian_(Marvel_Comics)', "Guardian è un personaggio dei fumetti Marvel Comics, del quale esistono tre versioni: James MacDonald Hudson, è apparso col nome di Arma Alpha in X-Men n. 109 : creato da John Byrne, inizialmente doveva essere utilizzato come avversario degli X-Men, al pari del gruppo degli Alpha Flight che guidava, ma in un secondo momento l'autore decise di riciclarlo come supereroe; Heather Hudson, creata da Chris Claremont e John Byrne, appare la prima volta in X-Men n. 139 ; è la moglie di James a cui subentra alla guida di Alpha Flight quando questi muore apparentemente.")
-Possibile senso per parola Guardian: ('Guardian', 'Videogioco del 1994')
-Possibile senso per parola Guardian: ('Guardian_(film)', 'Guardian è un film del 2001 diretto da John Terlesky.')
-Possibile senso per parola Guardian: ('Guardian_(singolo)', "Guardian è il singolo di lancio dell'ottavo album Havoc and Bright Lights della cantautrice canadese Alanis Morissette, il primo singolo ufficiale annunciato dopo il settimo album di inediti Flavors of Entanglement del 2008.")
-Possibile senso per parola Guardian: ('Guardian_(gruppo_musicale)', 'I Guardian sono una band christian metal nata nel 1982.')
-Possibile senso per parola Times: ('moltiplica', "La moltiplicazione è una delle quattro operazioni fondamentali dell'aritmetica.")
-Possibile senso per parola Times: ('The_Times', 'The Times è un quotidiano britannico che ha sede a Londra.')
-Possibile senso per parola baco da seta: ('baco_da_seta', "Bombyx mori è una specie di falena della famiglia Bombycidae, originaria dell'Asia centro-orientale.")
-Possibile senso per parola baco da seta: ('baco_da_seta', [])
-Possibile senso per parola baco da seta: ('baco', 'Lepidottero che, terminata la fase larvale, si trasforma in crisalide rinchiudendosi in un bozzolo dal quale si ricava la seta')
-Possibile senso per parola Via della Seta: ('via_della_seta', "Per via della seta s'intende il reticolo, che si sviluppava per circa 8 000 km, costituito da itinerari terrestri, marittimi e fluviali lungo i quali nell'antichità si erano snodati i commerci tra l'impero cinese e quello romano.")
-Possibile senso per parola libertà: ('libertà', [])
-Possibile senso per parola libertà: ('libertà', "Per libertà s'intende la condizione per cui un individuo può decidere di pensare, esprimersi ed agire senza costrizioni, ricorrendo alla volontà di ideare e mettere in atto un'azione, mediante una libera scelta dei fini e degli strumenti che ritiene utili a realizzarla.")
-Possibile senso per parola libertà: ('libertà', "Qualità o stato dell'essere libero, specialmente di godere delle libertà politiche e civili.")
-Possibile senso per parola libertà: ('Libertà_(Bari)', 'Libertà è un quartiere di Bari, appartenente dal 2014 al I municipio.')
-Possibile senso per parola libertà: ('autonomia', 'termine')
-Possibile senso per parola libertà: ('Libertà_(quotidiano)', 'Libertà è il principale quotidiano edito nella città italiana di Piacenza e quello maggiormente diffuso nella sua provincia.')
-Possibile senso per parola libertà: ('Libertà_(Henri_Rousseau)', 'La Libertà invita gli artisti a partecipare al XXII Salon des Indépendants, noto anche semplicemente come La Libertà, è un dipinto di Henri Rousseau a olio su tela, realizzato nel 1906.')
-Possibile senso per parola libertà: ('Libertà_(romanzo)', 'Libertà è il quarto romanzo di Jonathan Franzen scritto nel 2010.')
-Possibile senso per parola libertà: ('Libertà_(Palermo)', "Libertà è il nono quartiere di Palermo ed è compreso nell'VIII Circoscrizione.")
-Possibile senso per parola libertà: ('Libertà_(film)', 'Libertà è un film del 1929 con Laurel & Hardy diretto da Leo McCarey e prodotto da Hal Roach.')
-Possibile senso per parola libertà: ('libertà', "L'essere libero")
-Possibile senso per parola libertà: ('Libertas', [])
-Possibile senso per parola libertà: ('libertà', [])
-Possibile senso per parola oasi: ('Oasi_(film_1955)', 'Oasi è un film del 1955, diretto da Yves Allégret.')
-Possibile senso per parola oasi: ('Oasi_(album)', 'Oasi è un album dei Pooh del 1988.')
-Possibile senso per parola oasi: ('oasi_(area_protetta)', "In senso lato, un'oasi è un'area naturale protetta per la conservazione di un habitat di particolare interesse floristico e faunistico e per la salvaguardia della sua biodiversità.")
-Possibile senso per parola oasi: ('oasi', [])
-Possibile senso per parola oasi: ('Oasi_(film_1994)', 'Oasi è un film del 1994, diretto dal regista Cristiano Bortone.')
-Possibile senso per parola oasi: ('area_naturale_protetta', "Nelle scienze ambientali le aree naturali protette sono delle aree naturali, istituite mediante leggi apposite a livello nazionale o regionali da istituzioni pubbliche o da privati, quali istituti di ricerca o beneficenza, con la funzione di preservare l'equilibrio ambientale di un determinato luogo, aumentandone o mantenendone l'integrità e la biodiversità.")
-Possibile senso per parola oasi: ('Oasi', [])
-Possibile senso per parola oasi: ('oasi_antartica', "Un'oasi antartica è un'ampia area naturale libera da neve e ghiaccio presente sul territorio continentale dell'Antartide, quasi completamente ricoperto dalla calotta antartica.")
-Possibile senso per parola oasi: ('oasi', 'Luogo fertile in un deserto')
-Possibile senso per parola citoplasma: ('citoplasto', [])
-Possibile senso per parola citoplasma: ('citoplasma', 'La parte della cellula che contiene il nucleo')
-Possibile senso per parola dito: ('alluce', 'Una delle estremità del piede.')
-Possibile senso per parola dito: ('dito', 'Unità di lunghezza')
-Possibile senso per parola dito: ('dito', 'Ciascuna delle dieci propaggini di mani e piedi')
-Possibile senso per parola dito: ('dito_romano', 'Unità di lunghezza')
-Possibile senso per parola dito: ('Eduardo_José_Gomes_Camessele_Mendes', 'Eduardo José Gomes Camessele Mendes, noto come Dito, è stato un calciatore, allenatore di calcio e dirigente sportivo portoghese, di ruolo difensore.')
-Possibile senso per parola dito: ('gesto_del_dito_medio', 'Il gesto del dito medio è un comune gesto offensivo.')
-Possibile senso per parola dito: ('digito', 'Il dito')
-Possibile senso per parola protestante: ('protestante', [])
-Possibile senso per parola protestante: ('protestante', 'Chi segue il protestantesimo')
-Possibile senso per parola protestante: ('protesta', 'La contestazione è un termine entrato nel linguaggio comune alla fine degli anni sessanta che viene messo in relazione ad un fenomeno che ha preso le mosse sul finire degli anni sessanta, ricordati appunto come gli anni della contestazione.')
-Possibile senso per parola protestante: ('protestantesimo', "L'insieme delle confessioni religiose che sono nate dalla riforma luterana")
-Possibile senso per parola cristiano: ('gentile', 'Ppersona religiosa che crede che Gesù sia il Cristo e che sia membro di una denominazione cristiana.')
-Possibile senso per parola cristiano: ('cristiano', 'Un cristiano è un seguace e discepolo di Cristo.')
-Possibile senso per parola cristiano: ('Cristiano', [])
-Possibile senso per parola cristiano: ('cristianesimo', 'Il sistema delle credenze e pratiche della religione cristiana.')
-Possibile senso per parola cristiano: ('Cristiano_(nome)', 'Cristiano è un nome proprio di persona italiano maschile.')
-Possibile senso per parola cristiano: ('Cristiano', 'Cognome')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci', 'Ginnasio a Köln-Nippes')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci', 'Insediamento umano')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci', [])
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(sommergibile)', 'Il Leonardo da Vinci è stato un sommergibile della Regia Marina.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(nave_da_battaglia)', "La nave da battaglia Leonardo da Vinci fu un'unità della Regia Marina appartenente alla classe Conte di Cavour.")
-Possibile senso per parola Leonardo da Vinci: ('USS_Dace_(SS-247)', 'Sommergibile della Marina Militare Italiana')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(transatlantico)', 'Il Leonardo da Vinci fu un transatlantico della Italia - Società di Navigazione di Genova, società appartenuta al gruppo IRI - Finmare, meglio conosciuta nel mondo della navigazione internazionale con il nome di Italian Line.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(film_1919)', 'Leonardo da Vinci è un cortometraggio del 1919 diretto da Giulia Cassini-Rizzotto e Mario Corsi e basato sulla vita del pittore italiano Leonardo da Vinci.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(film_1952)', 'Leonardo da Vinci è un film del 1952 diretto da Luciano Emmer ed Enrico Gras.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci', 'Insediamento umano in provincia di Padova')
-Possibile senso per parola Leonardo da Vinci: ('aeroporto_di_Roma-Fiumicino', 'L\'Aeroporto Internazionale di Roma–Fiumicino "Leonardo da Vinci" è un aeroporto intercontinentale italiano che si trova nel territorio del comune di Fiumicino, a circa 30 km a ovest dal centro della città di Roma.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(S_520)', 'Il Leonardo da Vinci è un sottomarino della Marina Militare appartenente alla 2ª serie della classe Sauro.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo', 'Pittore architetto scienziato scrittore (Vinci 1452-castello di Cloux, Amboise 1519)')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(piroscafo_1925)', 'Il Leonardo Da Vinci è stato un piroscafo misto italiano, violatore di blocco durante la seconda guerra mondiale.')
-Possibile senso per parola Leonardo da Vinci: ('Leonardo_da_Vinci_(film_1996)', "Leonardo Da Vinci è un cortometraggio d'animazione del 1996 diretto da Richard Rich e basato sulla vita del pittore italiano Leonardo da Vinci.")
-Possibile senso per parola L'Ultima Cena: ("L'ultima_cena_(film_1949)", "L'ultima cena è un film del 1949 diretto da Luigi Giachino con la supervisione di Charles Reisner, basato sulla vita del pittore italiano Leonardo da Vinci.")
-Possibile senso per parola L'Ultima Cena: ('Ultima_Cena_(Dalí)', "L'Ultima Cena è un dipinto di 167 × 268 cm realizzato nel 1955 dal pittore catalano Salvador Dalí, conservato nella National Gallery of Art di Washington.")
-Possibile senso per parola L'Ultima Cena: ('Ultima_Cena_(Tintoretto)', "L'Ultima cena è un dipinto del pittore veneziano Tintoretto realizzato intorno al 1592-1594 e conservato nella Basilica di San Giorgio Maggiore a Venezia.")
-Possibile senso per parola L'Ultima Cena: ('cenacolo', 'Ultima Cena è il nome con il quale nella religione cristiana si indica solitamente la cena di Gesù con gli apostoli durante la Pasqua ebraica, precedente la sua morte.')
-Possibile senso per parola L'Ultima Cena: ('Ultima_Cena_(Leonardo)', "Il Cenacolo, noto anche come l'Ultima Cena, è un dipinto parietale ottenuto con una tecnica mista a secco su intonaco di Leonardo da Vinci, databile al 1494-1498 e realizzato su commissione di Ludovico il Moro nel refettorio del convento adiacente al santuario di Santa Maria delle Grazie a Milano.")
-Possibile senso per parola L'Ultima Cena: ('Ultima_Cena_(Daniele_Crespi)', "L'Ultima Cena di Daniele Crespi è un dipinto eseguito negli anni tra il 1624 e il 1625, oggi collocato alla Pinacoteca di Brera.")
-Possibile senso per parola mappa: ('Mappa_(Boetti)', "Mappa è un'opera dell'artista Alighiero Boetti.")
-Possibile senso per parola mappa: ('funzione', 'Funzione matematica')
-Possibile senso per parola mappa: ('carta', 'Rappresentazione grafica, simbolica e in scala, di una parte o di tutta la superficie terrestre, o di alcuni suoi aspetti particolari.')
-Possibile senso per parola mappa: ('map_(funzione)', 'Nella programmazione funzionale una map è una funzione che applica una data funzione ad una lista di elementi e restituisce una lista di risultati.')
-Possibile senso per parola mappa: ('MAPPA_(azienda)', 'MAPPA è uno studio di animazione giapponese fondato il 14 giugno 2011 da Masao Maruyama, già fondatore e produttore dello studio Madhouse.')
-Possibile senso per parola mappa: ('figura', "L'illustrazione è una rappresentazione visiva che può avere la forma di un disegno, un dipinto, una fotografia o altra tecnica.")
-Possibile senso per parola piazza: ('Piazza', 'Centro abitato situato presso Mondovì, provincia di Cuneo')
-Possibile senso per parola piazza: ('Piazza', 'Frazione di Ranzo, provincia di Imperia')
-Possibile senso per parola piazza: ('Piazza_(Terragnolo)', 'Piazza è una frazione del comune sparso di Terragnolo, di cui costituisce la sede municipale.')
-Possibile senso per parola piazza: ('Piazza_(quartiere)', 'La Piazza in dialetto, è un quartiere nel centro storico di Ripacandida.')
-Possibile senso per parola piazza: ('La_Piazza', 'Frazione del comune italiano di Castellina in Chianti')
-Possibile senso per parola piazza: ('P.zza', 'Una pubblica piazza.')
-Possibile senso per parola piazza: ('Piazza_(piattaforma_Q_&_A)', 'Piazza è una piattaforma web Q & A creata da Pooja Sankar nel 2009.')
-Possibile senso per parola piazza: ('mercato', 'Il complesso dei compratori di determinati prodotti o servizi')
-Possibile senso per parola piazza: ('piazza_(araldica)', 'Piazza è un termine utilizzato in araldica per indicare lo spazio vuoto nel graticolato ed in altre figure incrociate.')
-Possibile senso per parola piazza: ('Piazza', 'Frazione di Recoaro Terme')
-Possibile senso per parola piazza: ('convenzionale', [])
-Possibile senso per parola piazza: ('Piazza', [])
-Possibile senso per parola piazza: ('Piazza', 'Centro abitato situato presso Stelvio, provincia autonoma di Bolzano')
-Possibile senso per parola piazza: ('Piazza', 'Centro abitato situato presso Gussago, provincia di Brescia')
-Possibile senso per parola piazza: ('Piazza', 'Frazione del comune italiano di Deiva Marina, provincia della Spezia')
-Possibile senso per parola piazza: ('Piazza', 'Centro abitato situato presso Cerea, provincia di Verona')
-Possibile senso per parola piazza: ('centro_fortificato', 'Fortezza per la difesa di una città')
-Possibile senso per parola piazza: ('piazza', "Una piazza, in urbanistica, è uno spazio pubblico racchiuso all'interno di un centro abitato, più largo delle strade che vi convergono, in maniera che si crei uno spazio di raccolta.")
-Possibile senso per parola piazza: ('Piazza', 'Frazione del comune italiano di Montechiarugolo, provincia di Parma')
-Possibile senso per parola piazza: ('Piazza', [])
+Parola cricket con id: bn:00023797n
+: ('cricket', 'Gioco nazionale inglese')
+Parola cricket con id: bn:00023796n
+: ('grillo', 'Insetto nero o bruno, con corpo tozzo, antenne sottili e zampe posteriori adatte al salto il cui maschio produce un suono stridulo caratteristico')
+Parola cricket con id: bn:00462932n
+: ('Cricket_(Carolina_del_Nord)', "Cricket è un census-designated place degli Stati Uniti d'America, situato nello stato della Carolina del Nord, nella contea di Wilkes.")
+Parola scultura con id: bn:17175797n
+: ('scultura', [])
+Parola scultura con id: bn:00016360n
+: ('scultura', "L'arte di scolpire")
+Parola scultura con id: bn:00069924n
+: ('scultura', 'Opera fatta da uno scultore')
+Parola scultura con id: bn:01205641n
+: ('scultura', [])
+Parola browser con id: bn:00013447n
+: ('browser', "In informatica il web browser è un'applicazione per l'acquisizione, la presentazione e la navigazione di risorse sul web.")
+Parola Mozilla Firefox con id: bn:01387235n
+: ('Mozilla_Firefox', 'Mozilla Firefox è un web browser libero e multipiattaforma, mantenuto da Mozilla Foundation.')
+Parola Fox Terrier con id: bn:03237376n
+: ('Fox_Terrier', 'Fox Terrier è il nome che viene dato a due distinte razze canine riconosciute inizialmente dal Kennel Club inglese.')
+Parola Fox Terrier con id: bn:00036142n
+: ('fox-terrier', 'Razza di cane da caccia, di piccola taglia ma forte, usato nella caccia alla volpe')
+Parola Canon con id: bn:03476756n
+: ('Canon_(manga)', 'Canon  è un manga di 4 volumi creato da Chika Shiomi per la Akita Shōten tra il 1994 e il 1996.')
+Parola Canon con id: bn:00015322n
+: ('canyon', "In geografia, una gola è una valle profonda, spesso ad andamento meandriforme, risultato di fenomeni erosivi che si verificano quando un corso d'acqua, come un fiume o un torrente, incide vigorosamente il proprio letto in rocce coerenti e molto resistenti, generando valli strette, profondamente incassate nelle formazioni erose e con pendii o pareti molto ripide, talora anche strapiombanti.")
+Parola Canon con id: bn:16199914n
+: ('Canon', 'Canon Inc. è una multinazionale giapponese con sede a Tokyo, nel quartiere di Ōta, in Giappone, specializzata in prodotti ottici, di imaging e industriali, come obiettivi, fotocamere, apparecchiature mediche, scanner, stampanti e apparecchiature per la produzione di semiconduttori.')
+Parola Canon con id: bn:00636233n
+: ('canone_di_Star_Trek', 'Il canone di Star Trek comprende generalmente la serie classica, Star Trek: The Next Generation, Star Trek: Deep Space Nine, Star Trek: Voyager, Star Trek: Enterprise e gli undici film della saga, escludendo quindi i romanzi e i videogiochi.')
+Parola Canon con id: bn:00221813n
+: ('Canon_(Georgia)', "Canon è una città degli Stati Uniti d'America, situata in Georgia, nella Contea di Franklin e in parte nella Contea di Hart.")
+Parola HSBC con id: bn:02580408n
+: ('HSBC', 'HSBC Holdings plc è uno dei più grandi gruppi bancari del mondo.')
+Parola Gran Bretagna con id: bn:00013173n
+: ('GB', 'Regno costituito da Inghilterra, Scozia, Galles e Irlanda del Nord.')
+Parola Gran Bretagna con id: bn:00037565n
+: ('Gran-Bretagna', "La Gran Bretagna è un'isola europea dell'oceano Atlantico situata a nordovest dell'Europa continentale.")
+Parola Gran Bretagna con id: bn:00030861n
+: ('England', "L'Inghilterra è una delle quattro nazioni costitutive del Regno Unito, l'unica a non costituire un'entità amministrativa e a non essere dotata di un governo autonomo.")
+Parola Bibbia con id: bn:16905020n
+: ('La_Bibbia_(film_1966)', 'La Bibbia è un film del 1966 diretto da John Huston.')
+Parola Bibbia con id: bn:15453096n
+: ('La_Bibbia_(miniserie_televisiva)', 'La Bibbia è una miniserie televisiva statunitense del 2013, ideata da Roma Downey e Mark Burnett per il canale di documentari via cavo History.')
+Parola Bibbia con id: bn:00010217n
+: ('bibbia', "L'insieme dei libri sacri, dell'Antico e e del Nuovo Testamento")
+Parola Bibbia con id: bn:00010218n
+: ('bibbia', 'Testo fondamentale di qualunque disciplina')
+Parola Bibbia con id: bn:08841386n
+: ('Bibbia_(versione_di_Diodati)', 'La Bibbia Diodati è la traduzione della Bibbia per eccellenza dei protestanti italiani, edita a Ginevra nel 1607 dal lucchese in esilio Giovanni Diodati.')
+Parola Bibbia con id: bn:02252316n
+: ('bible_(sceneggiatura)', 'Un bible, noto anche come show bible o pitch bible, è un documento di riferimento usato dagli sceneggiatori per fornire indicazioni sui personaggi, ambientazioni e altri elementi di un lavoro televisivo o cinematografico.')
+Parola Vangelo con id: bn:00031976n
+: ('evangelo', "Ciascuno dei primi quattro libri del Nuovo Testamento che contengono la vita e l'insegnamento di Ges- Cristo")
+Parola Vangelo con id: bn:00957035n
+: ("Vangelo_('ndrangheta)", "Il Vangelo è un'associazione in seno alla 'Ndrangheta, di cui gli appartenenti vengono denominati Vangelisti, sono un grado superiore ai santisti e inferiore ai quartini.")
+Parola vestito con id: bn:00059775n
+: ('vestito', [])
+Parola vestito con id: bn:00028682n
+: ('abito', 'Un vestito da donna è un indumento in un unico pezzo con aggiunta una gonna, che copre il corpo dalle spalle alle gambe.')
+Parola vestito con id: bn:00075103n
+: ('abito', 'Un abito completo da uomo, comunemente chiamato semplicemente completo o abito, è un indumento maschile di origine italiana.')
+Parola vestito con id: bn:00006125n
+: ('abbigliamento', 'Qualsiasi capo di vestiario che si indossa sopra la biancheria')
+Parola vestito con id: bn:00037352n
+: ('abito', 'Capo di vestiario')
+Parola vestito con id: bn:09072565n
+: ('attributi_araldici_di_modifica', 'Gli attributi araldici di modifica sono quelli che definiscono le modifiche, sia di forma che di smalto, apportate a una pezza o una figura che compare in uno stemma.')
+Parola vestito con id: bn:01573378n
+: ('il_vestito', 'Il vestito è un film del 1996 diretto dal regista Alex van Warmerdam.')
+Parola danza con id: bn:00025142n
+: ('ballo', "La danza è un'arte, una disciplina che si esprime nel movimento secondo un piano prestabilito, detto coreografia, o attraverso l'improvvisazione.")
+Parola danza con id: bn:08874284n
+: ('Danza_(Mia_Martini)', 'Danza è il nono album di brani musicali di Mia Martini.')
+Parola danza con id: bn:00025144n
+: ('ballo', "L'atto o l'arte di ballare")
+Parola danza con id: bn:01126934n
+: ('danza', [])
+Parola array con id: bn:02756908n
+: ('vector_(STL)', "Il container vector è un contenitore di elementi omogenei simile all'array e facente parte della libreria standard del C++, con la funzione di permettere l'accesso ai suoi contenuti in modo rapido e ottimizzato utilizzando indici o tramite un iteratore.")
+Parola array con id: bn:00005869n
+: ('array', 'Uno dei due principali tipi di organizzazione dei dati interni utilizzati nel GIS. I sistemi di vettori si basano principalmente sulla geometria di coordinate.')
+Parola lista con id: bn:17162478n
+: ('Lista_(metropolitana_di_Madrid)', 'Lista è una stazione della linea 4 della metropolitana di Madrid.')
+Parola lista con id: bn:02857401n
+: ('Lista', 'Genere di insetti')
+Parola lista con id: bn:00051510n
+: ('elenco', [])
+Parola lista con id: bn:00072174n
+: ('banda', 'Pezzo di materiale di forma lunga e stretta e di poco spessore')
+Parola lista con id: bn:02117586n
+: ('Comprensione_di_lista', 'Una Comprensione di lista è costrutto sintattico disponibile in alcuni linguaggi di programmazione per creare una lista basandosi su altre liste.')
+Parola lista con id: bn:16373979n
+: ('Lista', 'Quartiere della città spagnola di Madrid')
+Parola lista con id: bn:00072069n
+: ('lista', [])
+Parola lista con id: bn:00051508n
+: ('distinta', "Insieme di dati registrati uno di seguito all'altro secondo un certo criterio.")
+Parola lista con id: bn:00068132n
+: ('elenco', 'Registro dei nomi e delle cose appartenenti ad una certa categoria')
+Parola lista con id: bn:11368876n
+: ('Lista', 'Frazione di Formigliana, provincia di Vercelli')
+Parola lista con id: bn:00732826n
+: ('lista', 'Lista di un progetto Wikimedia')
+Parola lista con id: bn:00008282n
+: ('banda', 'Striscia di stoffa applicata ad un abito, per lo più di colore diverso')
+Parola lista con id: bn:00023140n
+: ('calcolo', 'Recitare i numeri in ordine crescente.')
+Parola cella con id: bn:11385809n
+: ('Cella_(Varzi)', "Cella è una frazione del comune di Varzi posta su un'altura a sud del centro abitato.")
+Parola cella con id: bn:08966369n
+: ('Cella_(Reggio_Emilia)', "Cella o Villa Cella è una frazione del comune di Reggio nell'Emilia.")
+Parola cella con id: bn:00017030n
+: ('cella', [])
+Parola cella con id: bn:00750146n
+: ('Cella_(Spagna)', "Cella è un comune spagnolo di 2.825 abitanti situato nella comunità autonoma dell'Aragona.")
+Parola cella con id: bn:00017031n
+: ('cella_(prigione)', 'La cella di una prigione, detta anche camera detentiva, è una stanza genericamente adibita alla detenzione di una o più persone.')
+Parola cella con id: bn:11354491n
+: ('Cella', 'Frazione italiana della provincia di Forlì-Cesena')
+Parola cella con id: bn:03730384n
+: ('cella_(architettura)', 'La cella era la parte interna di un tempio greco o romano.')
+Parola cella con id: bn:11364240n
+: ('Cella', 'Frazione italiana della provincia di Parma')
+Parola cella con id: bn:03521678n
+: ('Cella_Dati', 'Cella Dati è un comune italiano di 506 abitanti della provincia di Cremona, in Lombardia.')
+Parola cella con id: bn:00714590n
+: ('faccia_(geometria)', 'In geometria, una faccia di un poliedro è uno dei poligoni che compongono il suo bordo o più semplicemente i poligoni che delimitano il poliedro.')
+Parola cella con id: bn:00017026n
+: ('cella', [])
+Parola cella con id: bn:09074054n
+: ('Cella_(Ovaro)', 'Cella è una frazione del comune di Ovaro.')
+Parola gattabuia con id: bn:00064468n
+: ('carcere', 'Luogo in cui sono custoditi i condannati alla pena della reclusione o gli accusati colpiti da mandato di cattura in attesa del giudizio')
+Parola gattabuia con id: bn:00044718n
+: ('gattabuia', [])
+Parola gattabuia con id: bn:00019832n
+: ('carcere', 'Luogo dove le persone vengono tenute in un regime di limitazione delle libertà personali.')
+Parola saggio con id: bn:00027670n
+: ('dimostrazione', [])
+Parola saggio con id: bn:00021410n
+: ('componimento', [])
+Parola saggio con id: bn:00054392n
+: ('mentore', 'Persona accorta e sapiente')
+Parola saggio con id: bn:09062048n
+: ('metodo_analitico', "Un metodo analitico è, in generale, una metodica di analisi scientifica consistente nell'arrivare alla soluzione di un problema mediante un procedimento ben definito e di calcolo matematico.")
+Parola saggio con id: bn:15722984n
+: ('saggio', [])
+Parola saggio con id: bn:00047693n
+: ('inchiesta', 'Pubblicazione su di un particolare problema evento o personaggio')
+Parola saggio con id: bn:00031622n
+: ('saggio', 'Composizione letteraria analitica. "Vittorio Strada ha scritto vari saggi di letteratura russa".')
+Parola saggio con id: bn:00006521n
+: ('discente', 'Uomo dotato di sapienza ed equilibrio interiore')
+Parola saggio con id: bn:00006476n
+: ('analisi', "Esame, analisi delle qualità e delle diverse risoluzioni di un componente in un materiale, come nell'oro o nella droga.")
+Parola compito a casa con id: bn:00069626n
+: ('compiti_a_casa', 'Lavoro che viene fatto a casa, comprese le esercitazioni di scuola assegnate da un insegnante.')
+Parola computer con id: bn:00021464n
+: ('calcolatore', 'Una macchina per fare calcoli automaticamente.')
+Parola computer con id: bn:00054739n
+: ('PC', "Un personal computer è un qualsiasi computer che si presti all'utilizzo proprio personale e alla personalizzazione da parte dell'utente nell'uso quotidiano.")
+Parola macchina con id: bn:00052571n
+: ('apparato', 'Insieme di componenti meccaniche o elettriche o di macchine usate in combinazione per svolgere un determinato lavoro.')
+Parola macchina con id: bn:00007309n
+: ('auto', 'Veicolo a quattro ruote, con motore generalmente a scoppio, per il trasporto su strada di un numero limitato di persone.')
+Parola macchina con id: bn:00052560n
+: ('macchina', 'Gruppo di persone che controlla le attività di una organizzazione')
+Parola macchina con id: bn:00054050n
+: ('beni_strumentali', [])
+Parola macchina con id: bn:01507022n
+: ('macchina', [])
+Parola macchina con id: bn:00028783n
+: ('viaggio', [])
+Parola macchina con id: bn:02730666n
+: ('macchina', [])
+Parola macchina con id: bn:00052557n
+: ('macchina', 'Si usa come oggetto di identificazione o termine di confronto per una persona che lavora molto, senza stancarsi mai.')
+Parola macchina con id: bn:00052556n
+: ('macchina', 'Qualsiasi meccanismo meccanico od elettrico che esegue od assiste lo svolgimento di compiti umani.')
+Parola macchina con id: bn:00030852n
+: ('locomotiva', 'Veicolo ferroviario usato per il traino di convogli e vagoni ferroviari.')
+Parola macchina con id: bn:00026716n
+: ('apparecchio', 'Un artefatto inventato per un certo scopo.')
+Parola panda con id: bn:13846629n
+: ('Panda', [])
+Parola panda con id: bn:03445588n
+: ('Panda_(gruppo_musicale)', 'I Panda sono un gruppo musicale punk rock messicano formatosi nel 1996 a Monterrey.')
+Parola panda con id: bn:00002177n
+: ('Ailurus_fulgens', "Il panda minore o panda rosso è un mammifero dell'ordine dei carnivori, unico rappresentante vivente della famiglia Ailuridae.")
+Parola panda con id: bn:17685929n
+: ('Panda_(Desiigner)', 'Panda è il singolo di debutto del rapper statunitense Desiigner, pubblicato inizialmente il 20 dicembre 2015, poi ripubblicato il 26 febbraio del 2016.')
+Parola panda con id: bn:00002174n
+: ('Ailuropoda_melanoleuca', 'Mammifero vegetariano simile a un piccolo orso che vive sulle montagne del Tibet e della Cina sudoccidentale')
+Parola panda con id: bn:08919261n
+: ('I_Panda', 'I Panda sono un gruppo italiano di musica pop e leggera formatosi nel 1973, inizialmente col nome Camelot, cambiato in Panda nel corso del 1974 in occasione della pubblicazione del primo singolo per la RCA Italiana.')
+Parola panda con id: bn:08842687n
+: ('Panda_(antivirus)', 'Panda è un programma antivirus sviluppato da Panda Security.')
+Parola panda con id: bn:08979574n
+: ('A_Panda_piace', 'A Panda piace è una serie di strisce a fumetti creata a partire dal 2008 da Giacomo Bevilacqua.')
+Parola panda con id: bn:02414200n
+: ('Panda', [])
+Parola panda con id: bn:01794969n
+: ('Panda', [])
+Parola orso polare con id: bn:00045719n
+: ('orso_bianco', "L'orso polare o orso bianco è un grande mammifero carnivoro appartenente alla famiglia Ursidae.")
+Parola nevrosi con id: bn:00057430n
+: ('neurosi', 'Disturbo della sfera psicofisica che si manifesta con stati di ansia, fobie, patologie comportamentali, ma non comporta perdita di coscienza o di lucidità né alienazione mentale')
+Parola nevrosi con id: bn:13603602n
+: ('fissazione_nevrotica', 'Pensiero fisso e ossessivo accompagnato, per esempio, da stati di ansia, da fobie e psicopatologie comportamentali.')
+Parola mente con id: bn:05518425n
+: ('Mente_(re_dei_Tafi)', "Mente, figlio di Anchialo, fu un re dei Tafi nella mitologia greca; è menzionato nell'Odissea.")
+Parola mente con id: bn:00023658n
+: ('cervello', 'Un essere dotato di intelletto.')
+Parola mente con id: bn:14795566n
+: ('Rav_Maskil', "Il Rav Maskil, o comunemente Maskil, è una figura religiosa ebraica con capacità, ruoli e compiti definiti all'interno della Comunità del popolo ebraico; il termine Maskil può essere tradotto letteralmente nel significato di Sapiente.")
+Parola mente con id: bn:00012682n
+: ('aquila', 'Persona che eccelle')
+Parola mente con id: bn:00047022n
+: ('intellettuale', [])
+Parola mente con id: bn:00012681n
+: ('cervello', 'Ciò che è responsabile dei pensieri e dei sentimenti.')
+Parola mente con id: bn:00045801n
+: ('idea', 'Una intenzione.')
+Parola mente con id: bn:00055105n
+: ('animo', [])
+Parola mente con id: bn:00047020n
+: ('cervello', 'Capacità intellettuale.')
+Parola mente con id: bn:00047021n
+: ('intelletto', "La ragione, in filosofia, è la facoltà dell'intelletto per mezzo della quale si esercita il pensiero razionale, ovvero quello rivolto ad argomenti astratti tipici del ragionamento, contrapponendosi alla sfera dell'irrazionalità.")
+Parola campagna con id: bn:00023237n
+: ('campagna', 'Zona rurale lontana dai centri abitati.')
+Parola campagna con id: bn:11389493n
+: ('Campagna', 'Frazione di Maniago, provincia di Pordenone')
+Parola campagna con id: bn:00015057n
+: ('campagna_elettorale', 'Attività di propaganda politica nel periodo precedente le elezioni.')
+Parola campagna con id: bn:11359467n
+: ('Campagna', 'Centro abitato situato presso Farini, provincia di Piacenza')
+Parola campagna con id: bn:11400695n
+: ('Campagna', [])
+Parola campagna con id: bn:03520751n
+: ("Torre_d'Isola", "Torre d'Isola è un comune italiano di 2 395 abitanti della provincia di Pavia in Lombardia.")
+Parola campagna con id: bn:00015051n
+: ('campagna', 'Azione per ottenere un particolare fine politico, morale, economico')
+Parola campagna con id: bn:00001019n
+: ('campagna', 'Porzione di terreno, fuori da centri urbani, con vegetazione spontanea o coltivata, spec. per uso agricolo.')
+Parola campagna con id: bn:01267575n
+: ('campagna_(giochi)', "Una campagna in alcuni tipi di giochi, principalmente giochi di ruolo, videogiochi e wargame, è una serie di missioni caratterizzate da un unico obiettivo finale e una trama comune, con personaggi che permangono da un'avventura all'altra.")
+Parola campagna con id: bn:11381169n
+: ('Campagna', 'Centro abitato situato presso Bianzone, provincia di Sondrio')
+Parola campagna con id: bn:11383193n
+: ('Campagna', 'Frazione del comune italiano di Vedano Olona, provincia di Varese')
+Parola campagna con id: bn:00008144n
+: ('diamante_(baseball)', 'Il diamante è il campo su cui viene giocato il baseball.')
+Parola campagna con id: bn:01527020n
+: ('Campagna_(Italia)', 'Campagna')
+Parola campagna con id: bn:11393400n
+: ('Campagna', 'Centro abitato situato presso Sovramonte, provincia di Belluno')
+Parola campagna con id: bn:00034265n
+: ('campagna', 'Terreno adibito a coltivazione o pascolo.')
+Parola campagna con id: bn:11361968n
+: ('Campagna', 'Centro abitato situato presso Traversetolo, provincia di Parma')
+Parola campagna con id: bn:00008916n
+: ('voce_di_basso', 'Nel canto, il termine basso designa sia la più grave tra le voci maschili, sia il cantante che la possiede, sia il suo registro peculiare.')
+Parola campagna con id: bn:00023248n
+: ('campagna', [])
+Parola campagna con id: bn:11375688n
+: ('Campagna', 'Frazione del comune italiano di Castelvisconti, provincia di Cremona')
+Parola campagna con id: bn:00015052n
+: ('campagna', 'tipo di campagna')
+Parola campagna con id: bn:11377338n
+: ('Campagna', 'Centro abitato situato presso San Rocco al Porto, provincia di Lodi')
+Parola campagna con id: bn:00015050n
+: ('campagna', "La campagna elettorale è l'insieme delle attività di propaganda politica svolte da partiti politici, movimenti e liste civiche in favore dei propri candidati ad una qualsiasi carica elettiva, volte a conquistare la fiducia degli elettori e convincerli a concedergli il proprio voto, tipicamente attraverso promesse elettorali.")
+Parola campagna con id: bn:03293217n
+: ('Maniago', 'Maniago è un comune italiano di 11 594 abitanti del Friuli-Venezia Giulia, capoluogo della UTI delle Valli e Dolomiti Friulane.')
+Parola campagna con id: bn:04089251n
+: ('campagna_(araldica)', "Campagna è un termine utilizzato in araldica per indicare una pezza onorevole segnata nello scudo con una secante, in fascia, tracciata a meno di un terzo dell'altezza dello scudo.")
+Parola campagna con id: bn:11380514n
+: ('Campagna', 'Frazione del comune italiano di Castrezzato, provincia di Brescia')
+Parola campagna con id: bn:03422419n
+: ('anno_di_stagione', [])
+Parola campagna con id: bn:00054954n
+: ('effettivo', [])
+Parola campagna con id: bn:11365149n
+: ('Campagna', 'Centro abitato situato presso Chivasso, città metropolitana di Torino')
+Parola scimmia con id: bn:00004847n
+: ('scimmia', "Gli ominoidi sono una superfamiglia di primati comprendente l'essere umano e le cosiddette scimmie antropomorfe, più simili all'uomo per caratteristiche fisiche e intellettive e comprendenti gli oranghi, gli scimpanzé, i gorilla e i gibboni Fanno parte del parvordine dei Catarrhini o scimmie del Vecchio Mondo.")
+Parola scimmia con id: bn:00071669n
+: ('Simiiformes', 'Simiiformes è un infraordine di Primati del sottordine degli Haplorrhini, i cui componenti vengono indicati comunemente come scimmie.')
+Parola scimmia con id: bn:00055685n
+: ('quadrumane', 'Primate del gruppo "scimmie del Nuovo Mondo" o "scimmie del Vecchio Mondo" (Simiiformes, esclusa la superfamiglia Hominoidea o grandi scimmie), che vive principalmente nelle foreste pluviali e si distingue da una grande scimmia per le dimensioni più piccole e la sua coda.')
+Parola scimmia con id: bn:11401766n
+: ('Scimmia', [])
+Parola scimmia con id: bn:00028916n
+: ('ciucca', 'Stato di ebrezza e intossicazione temporanea dovuta ad abuso di alcolici')
+Parola scimmia con id: bn:02131227n
+: ('Scimmia_(zodiaco_cinese)', "La Scimmia è uno dei dodici segni dell'astrologia cinese.")
+Parola costante di Faraday con id: bn:00033657n
+: ('Faraday', 'Fisico inglese (1791-1867)')
+Parola zaino con id: bn:00069639n
+: ('cartella', 'Borsa per il trasporto di materiale scolastico e libri di testo.')
+Parola zaino con id: bn:00007752n
+: ('bisaccia', 'Borsa da portare sulla schiena')
+Parola palazzo con id: bn:11389296n
+: ('Palazzo', 'Centro abitato situato presso Monticiano, provincia di Siena')
+Parola palazzo con id: bn:11379609n
+: ('Palazzo', 'Centro abitato situato presso Sirmione, provincia di Brescia')
+Parola palazzo con id: bn:11362749n
+: ('Palazzo', [])
+Parola palazzo con id: bn:11381792n
+: ('Palazzo', 'Centro abitato situato presso Langosco, provincia di Pavia')
+Parola palazzo con id: bn:11390785n
+: ('Palazzo', 'Centro abitato situato presso Misano Adriatico, Provincia di Rimini')
+Parola palazzo con id: bn:11401523n
+: ('Palazzo', 'Centro abitato situato presso San Giovanni Ilarione, provincia di Verona')
+Parola palazzo con id: bn:00016569n
+: ('palazzo', 'Edificio di pregio, adibito un tempo ad abitazione di re, principi o signori e oggi spesso sede di istituzioni')
+Parola palazzo con id: bn:11379415n
+: ('Palazzo', 'Centro abitato situato presso Cologno al Serio, provincia di Bergamo')
+Parola palazzo con id: bn:11376181n
+: ('Palazzo', 'Centro abitato situato presso Spineda, provincia di Cremona')
+Parola palazzo con id: bn:11364436n
+: ('Palazzo', 'Frazione del comune italiano di Palanzano, provincia di Parma')
+Parola palazzo con id: bn:00042667n
+: ('dimora', 'Edificio di ragguardevoli dimesioni e pregio artistico.')
+Parola palazzo con id: bn:11383141n
+: ('Palazzo', 'Centro abitato situato presso Anghiari, provincia di Arezzo')
+Parola palazzo con id: bn:11366234n
+: ('Palazzo', 'Centro abitato situato presso Pianopoli, provincia di Catanzaro')
+Parola palazzo con id: bn:17321955n
+: ('palazzo_italiano', 'In Italia, nome dato ad un edificio di grandi proporzioni')
+Parola palazzo con id: bn:01761707n
+: ('Palazzo_(Assisi)', 'Palazzo è una frazione di 1.343 abitanti del comune di Assisi, situata sulla riva sinistra del fiume Chiascio, circa 6 km a nord ovest del capoluogo.')
+Parola palazzo con id: bn:00060223n
+: ('salone', "L'edificio o il locale in cui una manifestazione ha luogo")
+Parola palazzo con id: bn:00060224n
+: ('corte', "L'abitazione del re, la sua residenza")
+Parola palazzo con id: bn:11355616n
+: ('Palazzo', 'Frazione del comune italiano di Cantiano, provincia di Pesaro e Urbino')
+Parola palazzo con id: bn:11358093n
+: ('Palazzo', [])
+Parola palazzo con id: bn:11382841n
+: ('Palazzo', 'Frazione del comune italiano di Arcevia, provincia di Ancona')
+Parola palazzo con id: bn:00013722n
+: ('costruzione', 'Costruzione architettonica')
+Parola palazzo con id: bn:11358483n
+: ('Palazzo', 'Frazione del comune italiano di Romagnano al Monte, provincia di Salerno')
+Parola grattacielo con id: bn:00044044n
+: ('casa_a_torre', 'La casa a torre è un tipo edilizio, evoluzione verticale della casa in linea.')
+Parola grattacielo con id: bn:00072030n
+: ('grattacielo', 'Tipo di edificio')
+Parola elicottero con id: bn:00018734n
+: ('elicottero', 'Aeromobile nel quale il sostentamento e la propulsione sono dati dalle pale')
+Parola aereo con id: bn:16750414n
+: ('aereo', "Veicolo dotato di ali che grazie all'effetto Bernoulli riesce, sollevandosi da terra, a rimanere in aria e viene utilizzato per il trasporto.")
+Parola aereo con id: bn:00002275n
+: ('aereo', 'Aerodina a velatura fissa')
+Parola aereo con id: bn:00001661n
+: ('aereo', 'Dispositivo atto a ricevere ed inviare segnali redio televisivi')
+Parola aereo con id: bn:00001697n
+: ('aereo', 'Velivolo a motore impiegato per il trasporto di passeggeri e di merci')
+Parola aereo con id: bn:00002259n
+: ('spazio_aereo', "Lo spazio aereo, in inglese airspace, è un termine generico utilizzato in aeronautica per indicare una zona definita nelle tre dimensioni, all'interno della quale gli aeromobili devono sottostare a particolari condizioni e attenersi a norme o procedure disposte localmente dall'autorità aeronautica di giurisdizione, oppure stabilite dall'Organizzazione internazionale dell'aviazione civile.")
+Parola Università di Cambridge con id: bn:00014988n
+: ('Università_di_Cambridge', "L'Università di Cambridge è la seconda università del Regno Unito per data di fondazione.")
+Parola Università di Oxford con id: bn:00059980n
+: ('Università_di_Oxford', "L'Università di Oxford è la più antica università del mondo anglosassone.")
+Parola bandiera con id: bn:14625286n
+: ('flag', 'In informatica, un flag è una variabile che può assumere solo due stati e che segnala, con il suo valore, se un dato evento si è verificato oppure no, o se il sistema è in un certo stato oppure no. Viene utilizzato da un programmatore per eseguire determinate operazioni solo al raggiungimento di un determinato stato o al verificarsi di un determinato evento.')
+Parola bandiera con id: bn:14407671n
+: ('bandiera', 'Esercizio fisico')
+Parola bandiera con id: bn:03112170n
+: ('bandiera', [])
+Parola bandiera con id: bn:00020776n
+: ('bandiera', [])
+Parola bandiera con id: bn:03036803n
+: ('bandiera', 'pittura di Jasper Johns')
+Parola bandiera con id: bn:21169671n
+: (None, None)
+Parola bandiera con id: bn:00008426n
+: ('insegna', 'Insegna di un esercito o di una armata')
+Parola bandiera con id: bn:00030969n
+: ('bandiera', [])
+Parola bandiera con id: bn:00030968n
+: ('bandiera_nazionale', 'La bandiera nazionale è una bandiera che rappresenta una nazione.')
+Parola bandiera con id: bn:00034963n
+: ('bandiera', "Drappo che rappresenta l'insegna di uno stato o associazione")
+Parola bandiera con id: bn:03830282n
+: ('bandiera', [])
+Parola bandiera con id: bn:14274701n
+: ('bandiera_(spazio_vettoriale)', 'In matematica, in particolare in algebra lineare, una bandiera è una successione di sottospazi vettoriali con determinate proprietà di uno spazio vettoriale dato.')
+Parola bandiera con id: bn:00034960n
+: ('bandiera', "Una bandiera è un drappo di stoffa o di altro materiale adatto, spesso sventolato da un'asta rigida, usato simbolicamente per identificazione o per segnalazioni varie: comunemente impiegata ad es.")
+Parola asta con id: bn:12752763n
+: ('Åsta', 'Prenome femminile')
+Parola asta con id: bn:00007085n
+: ('asta', 'Procedimento di vendita al miglior offerente')
+Parola asta con id: bn:00049823n
+: ('asta', "Arma di offesa costituita da un'asta munita alla cima di un ferro appuntito")
+Parola asta con id: bn:03717456n
+: ('Asta', [])
+Parola asta con id: bn:00012518n
+: ('asta', 'Albero che sporge obliquamente oltre la prora dei velieri')
+Parola asta con id: bn:00027315n
+: ('astina_di_livello', [])
+Parola asta con id: bn:00063293n
+: ('asta', 'Barra di materiale vario')
+Parola asta con id: bn:00063298n
+: ('asta', [])
+Parola asta con id: bn:00024779n
+: ('cilindro', 'Qualsiasi oggetto che abbia la forma di un cilindro.')
+Parola asta con id: bn:00073116n
+: ('antenna', "Lunga asta di legno, trasversale all'albero della nave, che sostiene le vele")
+Parola asta con id: bn:16902821n
+: ('Asta', 'Prenome femminile')
+Parola asta con id: bn:00128624n
+: ('Åsta', [])
+Parola asta con id: bn:15015168n
+: ('Asta', [])
+Parola asta con id: bn:00073802n
+: ('bastone', [])
+Parola asta con id: bn:00034964n
+: ('asta', 'Nel golf, con un asta bandiera, inserito in un foro del bersaglio, consentendo il foro per essere visto da lontano.')
+Parola asta con id: bn:00054278n
+: ('asta', 'Organo riproduttivo maschile')
+Parola asta con id: bn:00061508n
+: ('pertica', [])
+Parola asta con id: bn:16611094n
+: ('Ásta', 'Prenome femminile')
+Parola asta con id: bn:02348645n
+: ('gambo', [])
+Parola finestra con id: bn:00081285n
+: ('finestra', "La finestra è un'apertura di forma regolare, solitamente quadrata o rettangolare, praticata in una parete verticale, orizzontale o obliqua della muratura per consentire l'ingresso della luce e lo scambio dell'aria tra il vano interno di una costruzione e l'esterno.")
+Parola finestra con id: bn:00081287n
+: ('finestra', [])
+Parola finestra con id: bn:00081292n
+: ('finestra', 'Zona delimitata dello schermo, che si può aprire e chiudere, spostare e dimensionare.')
+Parola finestra con id: bn:03338860n
+: ('finestra_tettonica', "In geologia si parla di finestra tettonica quando in una zona sottoposta ad erosione la demolizione progressiva di una unità tettonica consente l'affioramento e l'osservazione di rocce sottostanti appartenenti ad un altro dominio tettonico.")
+Parola finestra con id: bn:00081289n
+: ('finestra_temporale', 'Un periodo di tempo durante il quale qualcosa è disponibile.')
+Parola tetto con id: bn:00068221n
+: ('tetto', [])
+Parola tetto con id: bn:00068231n
+: ('sul_tetto', [])
+Parola tetto con id: bn:00068220n
+: ('copertura', 'Struttura atta a coprire un edificio, costituita da una travatura ricoperta da embrici, tegole o altro materiale impermeabile')
+Parola tetto con id: bn:00015404n
+: ('massimale', [])
+Parola tetto con id: bn:00077607n
+: ('alto', 'La parte superiore.')
+Parola gioco di carte con id: bn:00015923n
+: ('gioco_di_carte', "Un gioco di carte è un qualunque gioco che necessita l'uso di carte da gioco, sia tradizionali sia specifiche per il gioco.")
+Parola frisbee con id: bn:02797089n
+: ('Switchover_Media', 'Frisbee è un canale televisivo italiano gratuito edito da Discovery Italia, divisione del gruppo Warner Bros.')
+Parola frisbee con id: bn:00036583n
+: ('frisbee', "Il frisbee è un oggetto di forma rotonda con l'orlo ricurvo, utilizzato negli sport all'aria aperta, atto ad essere lanciato a lunga distanza ; è utilizzato per scopi ricreativi e sportivi a livello agonistico.")
+Parola frisbee con id: bn:02502206n
+: ('Wham-O', [])
+Parola malware con id: bn:03064400n
+: ('malware', 'Lista di un progetto Wikimedia')
+Parola malware con id: bn:01363738n
+: ('malware', 'Malware, nella sicurezza informatica, indica un qualsiasi programma informatico usato per disturbare le operazioni svolte da un utente di un computer.')
+Parola worm con id: bn:15751306n
+: ('Worm', 'Cognome')
+Parola worm con id: bn:01292433n
+: ('write_once_read_many', "L'espressione Write Once, Read Many si riferisce ad un tipo di dispositivo di memorizzazione su cui si può scrivere soltanto una volta, ma che può essere letto diverse volte.")
+Parola worm con id: bn:00081636n
+: ('worm', 'Un worm, nella sicurezza informatica, è una particolare categoria di malware in grado di autoreplicarsi.')
+Parola pianeta con id: bn:00069344n
+: ('Saturno', 'Dio latino delle semine')
+Parola pianeta con id: bn:11400277n
+: ('Pianeta', 'Centro abitato situato presso Montecchio Maggiore, provincia di Vicenza')
+Parola pianeta con id: bn:00052888n
+: ('pianeta', "Corpo celeste che gira intorno al Sole o a un'altra stella, da cui riceve luce")
+Parola pianeta con id: bn:00063119n
+: ('plutone', 'Corpo geologico intrusivo')
+Parola pianeta con id: bn:00017936n
+: ('casula', 'La casula è la veste liturgica propria di colui che celebra il rito della messa.')
+Parola pianeta con id: bn:05500051n
+: ('pianeta_(paramento_liturgico)', 'La pianeta è il paramento liturgico usato dal presbitero per presiedere la celebrazione eucaristica.')
+Parola stella con id: bn:01010003n
+: ('Stella_(Yello)', 'Stella è il quarto album in studio della band svizzera di musica elettronica Yello, pubblicato il 29 gennaio del 1985.')
+Parola stella con id: bn:08916819n
+: ('Stella_(film_2009)', 'Stella è un cortometraggio del 2009 diretto da Gabriele Salvatores per il progetto "PerFiducia", che ha coinvolto anche i registi Ermanno Olmi e Paolo Sorrentino, autori rispettivamente de Il premio e La partita lenta.')
+Parola stella con id: bn:02636585n
+: ('Stella_(nome)', 'Stella è un nome proprio di persona italiano femminile.')
+Parola stella con id: bn:01254662n
+: ('Stella_(moneta)', 'La zecca degli Stati Uniti produsse nel 1879 e nel 1880, una prova di una nuova unità monetaria, la Stella, dal valore di 4 dollari statunitensi.')
+Parola stella con id: bn:01202713n
+: ('grafo_stella', [])
+Parola stella con id: bn:00455724n
+: ('Stella_(film_1990)', 'Stella è un film del 1990 diretto da John Erman.')
+Parola stella con id: bn:03665454n
+: ('Stella_(Napoli)', 'Stella è un quartiere di Napoli, uno dei più antichi della città.')
+Parola stella con id: bn:04053737n
+: ('Stella_(Winx_Club)', 'Stella è un personaggio del cartone animato e fumetto italiano Winx Club, creato da Iginio Straffi e prodotto da Rainbow S.p.A..')
+Parola stella con id: bn:03156771n
+: ('stella_(araldica)', 'Stella è un termine utilizzato in araldica per indicare una figura araldica di cinque o più punte o raggi.')
+Parola stella con id: bn:11400828n
+: ('Stella', 'Centro abitato situato presso Brogliano, provincia di Vicenza')
+Parola stella con id: bn:18299837n
+: ('Stella', [])
+Parola stella con id: bn:14001804n
+: ('Stella', 'Film del 1950 diretto da Claude Binyon')
+Parola stella con id: bn:00073964n
+: ('astro', 'Corpo celeste caratterizzato da emissione di luce.')
+Parola stella con id: bn:00073966n
+: ('stella', 'Qualunque oggetto a forma di stella')
+Parola stella con id: bn:00016990n
+: ('celebrità', 'Persona famosa')
+Parola stella con id: bn:02485403n
+: ('poligono_stellato', "In geometria piana, un poligono stellato è un poligono avente una forma stellata a causa dell'intersezione di più lati.")
+Parola stella con id: bn:16533580n
+: ('Stella_(Goethe)', 'Stella è una tragedia in 5 atti di Johann Wolfgang von Goethe.')
+Parola stella con id: bn:16187453n
+: ('Stella_(romanzo)', 'Stella è un libro pubblicato da Sergio Bambarén nel 2002.')
+Parola stella con id: bn:03123168n
+: ('triangolo_di_regresso', 'Un triangolo di regresso è una disposizione di binari ferroviari a forma triangolare con un deviatoio su ogni vertice.')
+Parola stella con id: bn:11389339n
+: ('Stella', 'Centro abitato situato presso Ceccano, provincia di Frosinone')
+Parola stella con id: bn:03504631n
+: ('Stella_(Italia)', 'Stella è un comune italiano sparso di 2 980 abitanti della provincia di Savona in Liguria.')
+Parola stella con id: bn:03087731n
+: ('stella_(sport)', 'La stella è un simbolo utilizzato nello sport, in particolare negli sport di squadra, per indicare le vittorie di particolari competizioni; tale uso va distinto da quello araldico negli stemmi di alcuni club.')
+Parola stella con id: bn:11367595n
+: ('Stella', 'Centro abitato situato presso Miglianico, provincia di Chieti')
+Parola stella con id: bn:16046732n
+: ('stella_(simbolo)', 'La stella è un ideogramma che spesso rappresenta la stella astronomica, da cui il nome, ma a cui sono associati anche altri significati in vari contesti.')
+Parola stella con id: bn:11379931n
+: ('Stella', 'Centro abitato situato presso Gussago, provincia di Brescia')
+Parola stella con id: bn:00399902n
+: ('Stella_(Nebraska)', "Stella è un comune degli Stati Uniti d'America, situato nello Stato del Nebraska, nella Contea di Richardson.")
+Parola stella con id: bn:05528609n
+: ('Stella', 'Cratere lunare')
+Parola stella con id: bn:01243592n
+: ('Stella', 'Serie televisiva statunitense')
+Parola stella con id: bn:14478784n
+: ('Stella_(fiume)', 'Lo Stella è un fiume di risorgiva che scorre in Friuli, in Italia.')
+Parola stella con id: bn:00073965n
+: ('stella', 'Un corpo luminoso naturale nel cosmo che è visibile nel cielo dalla terra, almeno durante le notti chiare.')
+Parola stella con id: bn:00396464n
+: ('Stella', 'Glifo o ideogramma rappresentante una stella')
+Parola stella con id: bn:03761726n
+: ('Stella_(gruppo_musicale)', 'Stella è un gruppo pop-rock finlandese, formatosi nel 2002 nella città di Joensuu.')
+Parola stella con id: bn:00050346n
+: ('astro', 'Un attore che recita un ruolo principale.')
+Parola stella con id: bn:00036253n
+: ('Frank_Stella', 'Frank Philip Stella è un pittore e scultore statunitense minimalista.')
+Parola stella con id: bn:09041831n
+: ('Stella_(famiglia)', 'La famiglia Stella è una famiglia nobiliare modugnese del XVII secolo.')
+Parola stella con id: bn:00380297n
+: ('Stella_(Missouri)', "Stella è un villaggio degli Stati Uniti d'America, situato nello Stato del Missouri, nella contea di Newton.")
+Parola stella con id: bn:08977582n
+: ('Stella_(torrente)', 'Lo Stella è un torrente italiano che scorre nella Toscana settentrionale.')
+Parola stella con id: bn:03571720n
+: ('Stella_(software)', "Stella è un software creato dall'australiano Robert Webb, che contiene un database di poliedri, come ad esempio poliedri platonici, poliedri archimedei, solidi di Johnson, manipolabili attraverso operazioni di costellazione, sfaccettature, incremento, creazione di scafi convessi, ed altre.")
+Parola stella con id: bn:03709168n
+: ('stella_(classificazione)', 'La stella è il simbolo usualmente utilizzato per classificare alberghi, ristoranti ed altre tipologie di locali pubblici.')
+Parola stella con id: bn:09030424n
+: ('Stella_(piroscafo)', 'Lo Stella è stato un piroscafo da carico italiano, violatore di blocco durante la seconda guerra mondiale.')
+Parola stella con id: bn:00870917n
+: ('Stella_(film_2008)', 'Stella è un film del 2008 diretto da Sylvie Verheyde.')
+Parola corridore con id: bn:00068570n
+: ('corridore', 'Persona che viaggia a piedi correndo.')
+Parola corridore con id: bn:00068552n
+: ('corsa', 'Atto del correre')
+Parola corridore con id: bn:00008803n
+: ('corridore', [])
+Parola corridore con id: bn:00068572n
+: ('corridore', 'Un atleta allenato, che compete in gare podistiche.')
+Parola corridore con id: bn:15542218n
+: ('ciclista', 'Professione')
+Parola corridore con id: bn:03864018n
+: ('corridore', 'Il corridore, nel baseball, è il giocatore della squadra in attacco che si muove verso una della basi o ne tocca una.')
+Parola atleta con id: bn:00006747n
+: ('atleta', 'Sportivo, chi si dedica allo sport')
+Parola atleta con id: bn:15877363n
+: ('atleta_(atletica_leggera)', 'In ambito sportivo ci si riferisce ai praticanti di uno sport con il termine generico atleta.')
+Parola atleta con id: bn:00006759n
+: ('sport', "Lo sport è l'insieme di attività motorie che impegna — a livello agonistico oppure di esercizio — le capacità psicofisiche dell'atleta, che svolge una disciplina sportiva, con finalità amatoriali oppure ricevendo un compenso, nel qual caso si parla di sport professionistico.")
+Parola atleta con id: bn:00058408n
+: ('canottiere', 'Chi si dedica al canottaggio')
+Parola calibro con id: bn:00037515n
+: ('misura', 'La quantità, la dimensione, i peso, la distanza o la capacità di una sostanza comparata ad uno standard designato.')
+Parola calibro con id: bn:00079813n
+: ('calibro', [])
+Parola calibro con id: bn:00014782n
+: ('calibro', 'Il calibro è uno strumento di misura della lunghezza, adatto a misurare la larghezza e lunghezza di un oggetto, la distanza tra due facce piane o la profondità di un foro.')
+Parola calibro con id: bn:00341233n
+: ('calibro_(teoria_dei_grafi)', 'Nella teoria dei grafi, il calibro di un grafo è la lunghezza del ciclo più corto contenuto nel grafo.')
+Parola calibro con id: bn:00037015n
+: ('calibro', 'Strumento di forme diverse, per misurare lo spessore di lamiere, chiodi, il diametro di fili, tubi, proiettili, fori')
+Parola calibro con id: bn:00010310n
+: ('big', [])
+Parola calibro con id: bn:00054021n
+: ('misura', 'La quantità, la dimensione, i peso, la distanza o la capacità di una sostanza comparata ad uno standard designato.')
+Parola calibro con id: bn:00014731n
+: ('bontà', 'Il valore di qualcosa')
+Parola calibro con id: bn:00012226n
+: ('alesaggio', 'Diametro di un tubo o della canna di una pistola.')
+Parola calibro con id: bn:01971664n
+: ('calibro', [])
+Parola ombrello con id: bn:00013287n
+: ('ombrello', [])
+Parola ombrello con id: bn:00078921n
+: ('ombrello', 'Sistema difensivo militare')
+Parola ombrello con id: bn:00078920n
+: ('ombrello', 'Arnese per ripararsi dalla pioggia o dal sole')
+Parola WiFi con id: bn:00081176n
+: ('Wi-Fi', 'Wi-Fi è un insieme di tecnologie per reti locali senza fili basato sugli standard IEEE 802.11, il quale consente a più dispositivi di essere connessi tra loro tramite onde radio e scambiare dati.')
+Parola WikiLeaks con id: bn:03777357n
+: ('WikiLeaks', "WikiLeaks è un'organizzazione internazionale senza scopo di lucro che riceve in modo anonimo, grazie a un contenitore protetto da un potente sistema di cifratura, documenti coperti da segreto e poi li carica sul proprio sito web.")
+Parola siccità con id: bn:00005634n
+: ('aridità', 'Stato di essere secco, la mancanza di acqua o liquidi.')
+Parola siccità con id: bn:00749459n
+: ('siccità', [])
+Parola siccità con id: bn:00028863n
+: ('arsura', 'Tempo caratterizzato da mancanza di pioggia')
+Parola siccità con id: bn:00028967n
+: ('aridità', "Mancanza o scarsità d'acqua in un lago, fiume e simili")
+Parola acqua con id: bn:08894579n
+: ('Acqua_(Tresivio)', 'Acqua è una frazione del comune di Tresivio, in provincia di Sondrio.')
+Parola acqua con id: bn:17779605n
+: ('Acqua_(Fabrizio_Moro)', 'Acqua è un singolo del cantautore italiano Fabrizio Moro, pubblicato il 3 marzo 2015 come primo estratto dal settimo album in studio Via delle Girandole 10.')
+Parola acqua con id: bn:00061253n
+: ('acqua', "L'urina od orina è il prodotto finale della escrezione del rene attraverso la quale vengono eliminati dall'organismo i prodotti metabolici presenti nel sangue.")
+Parola acqua con id: bn:14976572n
+: ("proprietà_dell'acqua", [])
+Parola acqua con id: bn:00044951n
+: ('acqua', 'Acque sorgive la cui temperatura è superiore ai 14 °C,  impiegate a scopi curativi')
+Parola acqua con id: bn:00005200n
+: ('acqua_marina', "Il colore acqua è un ciano, usato prevalentemente dai graphic designers ed altre figure professionali legate all'informatica, come i web designer.")
+Parola acqua con id: bn:00042379n
+: ('acqua', "L'acqua è un composto chimico di formula molecolare H2O, in cui i due atomi di idrogeno sono legati all'atomo di ossigeno con legame covalente polare.")
+Parola acqua con id: bn:00011766n
+: ('acqua', "Massa, distesa d'acqua.")
+Parola acqua con id: bn:16978359n
+: ('Acqua_(rete_televisiva)', 'Acqua è stato un canale televisivo italiano tematico, edito da Giglio Group, che proponeva un palinsesto incentrato sul mondo della vela e della nautica.')
+Parola acqua con id: bn:05898597n
+: ('Acqua', 'Costellazione obsoleta')
+Parola acqua con id: bn:00066032n
+: ('acqua', "Precipitazione di gocce d'acqua dal vapore condensato nell'atmosfera.")
+Parola acqua con id: bn:00080561n
+: ('acqua', "Nella filosofia antica, uno dei quattro elementi di cui era composto l'universo.")
+Parola acqua con id: bn:00080563n
+: ('acqua', 'Liquido trasparente incolore, inodore e insapore, la cui molecola è formata da due atomi di idrogeno e uno di ossigeno.')
+Parola acqua con id: bn:01408152n
+: ('acqua', [])
+Parola acqua con id: bn:16354832n
+: ('Acqua', 'Episodio della prima stagione di Stargate Universe')
+Parola acqua con id: bn:03199506n
+: ('Acqua', [])
+Parola aeroporto con id: bn:09032877n
+: ('Aeroporto_(film)', 'Aeroporto è un film del 1944 diretto da Piero Costa.')
+Parola aeroporto con id: bn:00002286n
+: ("campo_d'aviazione", [])
+Parola aeroporto con id: bn:11374511n
+: ('Aeroporto', 'Centro abitato situato presso Vibo Valentia, provincia di Vibo Valentia')
+Parola aeroporto con id: bn:16308148n
+: (None, None)
+Parola aeroporto con id: bn:03252503n
+: ('aeroporto', [])
+Parola aeroporto con id: bn:00001676n
+: ('aerodromo', 'Luogo nel quale partono ed arrivano aerei')
+Parola aeroporto con id: bn:11367189n
+: ('Aeroporto', 'Centro abitato situato presso Lamezia Terme, provincia di Catanzaro')
+Parola aeroporto con id: bn:11369895n
+: ('Aeroporto', 'Frazione del comune italiano di Galatina, provincia di Lecce')
+Parola pezzo con id: bn:00062297n
+: ('istmo', 'Parte di un oggeto o di un materiale.')
+Parola pezzo con id: bn:04316188n
+: ('Pezzo_(Ponte_di_Legno)', 'Pezzo è una frazione del comune di Ponte di Legno, in alta Val Camonica, in provincia di Brescia.')
+Parola pezzo con id: bn:00053101n
+: ('pedina', 'Piccolo elemento usato in diversi giochi da tavolo.')
+Parola pezzo con id: bn:00062298n
+: ('pezzo', [])
+Parola pezzo con id: bn:08875993n
+: ('Pezzo_(Villa_San_Giovanni)', 'Pezzo è una frazione del comune di Villa San Giovanni, in provincia di Reggio Calabria.')
+Parola pezzo con id: bn:00021408n
+: ('componimento', 'Composizione musicale')
+Parola pezzo con id: bn:00018204n
+: ('pezzo', 'Elemento del gioco degli scacchi')
+Parola pezzo con id: bn:00081612n
+: ('pezzo', [])
+Parola pezzo con id: bn:11401561n
+: ('Pezzo', 'Centro abitato situato presso Bosco Chiesanuova, provincia di Verona')
+Parola pezzo con id: bn:00060765n
+: ('brano', 'Una porzione di un oggetto naturale.')
+Parola pezzo con id: bn:00024604n
+: ('taglio', 'Parte di animale commestibile tagliata per la vendita al dettaglio')
+Parola pezzo con id: bn:00057551n
+: ('articolo', 'Articolo di giornale.')
+Parola pezzo con id: bn:00060967n
+: ('appezzamento', [])
+Parola pezzo con id: bn:00056465n
+: ('brano', "Parte di un'opera musicale.")
+Parola pezzo con id: bn:00052677n
+: ('pezzo', 'Articolo pubblicato su un periodico.')
+Parola pezzo con id: bn:00060882n
+: ('luogo', 'Brano, frammento di un libro, di uno scritto o di una argomentazione.')
+Parola orchestra con id: bn:03960927n
+: ('orchestra_(architettura)', "Orchestra, in architettura, è il termine usato per indicare quella parte del teatro antico, di forma circolare dedicata ad ospitare l'esibizione del coro.")
+Parola orchestra con id: bn:02683900n
+: ('Orchestra_(Eberhard_Weber)', 'Orchestra è un album in studio del bassista e compositore tedesco Eberhard Weber, registrato tra il maggio ed il giugno del 1988 presso i Tonstudio Bauer di Ludwigsburg e pubblicato lo stesso anno.')
+Parola orchestra con id: bn:00059285n
+: ('orchestra', 'Insieme dei suonatori e degli strumenti musicali')
+Parola orchestra con id: bn:00059286n
+: ('orchestra', 'In teatro, lo spazio in cui gli spettatori sono disposti in file')
+Parola orchestra con id: bn:00059287n
+: ("fossa_dell'orchestra", 'Zona del teatro di fronte al palco')
+Parola banda con id: bn:02725375n
+: ('banda', [])
+Parola banda con id: bn:16934211n
+: ('Banda', [])
+Parola banda con id: bn:00037243n
+: ('banda', "Una banda, nell'ambito della criminalità, indica gruppo sociale formato allo scopo di realizzare e gestire attività illecite e al controllo del territorio.")
+Parola banda con id: bn:00013254n
+: ('banda', [])
+Parola banda con id: bn:00018234n
+: ('chevron_(insegna)', 'Lo chevron è un\'insegna a forma di "V", solitamente rappresentata invertita come "Λ".')
+Parola banda con id: bn:14057877n
+: ('banda_(società)', 'Il termine banda nelle scienze etnoantropologiche viene utilizzato per indicare la forma più elementare di società umana.')
+Parola banda con id: bn:04552393n
+: ('Banda_(Madhya_Pradesh)', "Banda è una suddivisione dell'India, classificata come nagar panchayat, di 26.178 abitanti, situata nel distretto di Sagar, nello stato federato del Madhya Pradesh.")
+Parola banda con id: bn:00009872n
+: ('banda', 'Banda è un termine utilizzato in araldica per indicare una pezza onorevole costituita da una striscia, della larghezza normale di due moduli che scende, dalla destra alla sinistra, diagonalmente.')
+Parola banda con id: bn:11364789n
+: ('Banda', 'Centro abitato situato presso Villar Focchiardo, città metropolitana di Torino')
+Parola banda con id: bn:03671099n
+: ('Banda_(Uttar_Pradesh)', "Banda è una suddivisione dell'India, classificata come municipal board, di 134.822 abitanti, capoluogo del distretto di Banda, nello stato federato dell'Uttar Pradesh.")
+Parola banda con id: bn:00008279n
+: ('cerchia', 'Gruppo informale di persone che si incontrano di frequente o con le quali si hanno rapporti sociali, affettivi o di interesse.')
+Parola banda con id: bn:15139520n
+: ('banda_musicale', "Una banda musicale, o semplicemente banda, o anche orchestra di fiati è un complesso musicale formato esclusivamente da strumenti musicali a fiato e a percussione, dove talvolta in organico e partitura si può trovare anche il contrabbasso, ove presente quest'ultimo è più appropriata la denominazione orchestra a fiati o wind band.")
+Parola banda con id: bn:11367292n
+: ('Banda', 'Centro abitato situato presso Feroleto Antico, provincia di Catanzaro')
+Parola banda con id: bn:00036474n
+: ('banda', 'Intervallo compreso tra due frequenze limite o intorno a una frequenza media')
+Parola banda con id: bn:00065902n
+: ('banda_radio', 'Nelle telecomunicazioni con il termine banda radio si indica la sezione dello spettro elettromagnetico utilizzata per la trasmissione di dati e informazioni.')
+Parola banda con id: bn:03121076n
+: ('larghezza_di_banda', "La larghezza di banda, nelle telecomunicazioni ed elettronica, è la misura dell'ampiezza di banda dello spettro.")
+Parola banda con id: bn:00640514n
+: ('La_banda_(film_2007)', 'La banda è un film del 2007 scritto e diretto da Eran Kolirin, presentato al 60º Festival di Cannes nella sezione Un Certain Regard.')
+Parola banda con id: bn:00008283n
+: ('banda', [])
+Parola banda con id: bn:00008285n
+: ('banda', [])
+Parola banda con id: bn:00785754n
+: ('banda_(informatica)', "La banda, in informatica e in telecomunicazioni, indica la quantità di dati informativi che possono essere trasferiti, attraverso una connessione, in un dato periodo di tempo, e la cui ampiezza è in analogia con l'ampiezza di banda in campo fisico.")
+Parola banda con id: bn:00072174n
+: ('banda', 'Pezzo di materiale di forma lunga e stretta e di poco spessore')
+Parola banda con id: bn:01514404n
+: ('Banda_(unità_militare)', "La banda era un tipo di unità militare irregolare delle forze armate del Regno d'Italia composta da stranieri e nativi coloniali impiegati come truppe ausiliarie delle forze regolari nazionali e coloniali, e comandati da ufficiali e sottufficiali italiani.")
+Parola banda con id: bn:00013874n
+: ('banda', 'Gruppo di persone (informale) "Continua a frequentare la stessa combriccola".')
+Parola banda con id: bn:00008280n
+: ('banda', "Compagnia di suonatori di strumenti a fiato e a percussione che si esibisce specialmente all'aperto.")
+Parola banda con id: bn:00008282n
+: ('banda', 'Striscia di stoffa applicata ad un abito, per lo più di colore diverso')
+Parola banda con id: bn:00008284n
+: ('banda', [])
+Parola mojito con id: bn:01361585n
+: ('mojito', 'Il mojito è un famoso cocktail di origine cubana composto da rum bianco, zucchero di canna, succo di lime, foglie di menta e acqua minerale frizzante o acqua di soda o acqua di Seltz.')
+Parola mohito con id: bn:01361585n
+: ('mojito', 'Il mojito è un famoso cocktail di origine cubana composto da rum bianco, zucchero di canna, succo di lime, foglie di menta e acqua minerale frizzante o acqua di soda o acqua di Seltz.')
+Parola programma con id: bn:00021497n
+: ('sistema', 'Complesso di programmi e procedure che consentono il funzionamento di un calcolatore elettronico (si contrappone a àhardwareè)')
+Parola programma con id: bn:17792469n
+: ('selva_(musica)', "La selva, chiamata anche tela, programma o scenario, nell'Ottocento era l'adattamento a grandi linee di una fonte alla scena musicale, precedente la stesura del libretto vera e propria.")
+Parola programma con id: bn:03127028n
+: ('programma', [])
+Parola programma con id: bn:00064653n
+: ('programma', [])
+Parola programma con id: bn:00064647n
+: ('calendario', 'Opuscolo con indicazioni su varie manifestazioni o attività cronologicamente ordinate')
+Parola programma con id: bn:00064646n
+: ('programma', [])
+Parola programma con id: bn:00053217n
+: ('manifesto', 'Scritto programmatico espressione di movimenti politici o culturali')
+Parola programma con id: bn:01245565n
+: ('programma', 'Riassunto degli argomenti che saranno trattati in un corso.')
+Parola programma con id: bn:00062759n
+: ('disegno', "Piano dettagliato per la pianificazione di un'azione, l'esecuzione di un lavoro e lo svolgimento di un'attività.")
+Parola programma con id: bn:00062942n
+: ('locandina', 'Opuscolo, o foglio, contenente informazioni attinenti a uno spettacolo, manifestazione e simili.')
+Parola programma con id: bn:00062899n
+: ('piattaforma', "Insieme dei principi e degli obiettivi su cui si fonda l'azione di un partito o di un governo.")
+Parola programma con id: bn:00023295n
+: ('corso_di_studi', "Curriculum nel campo dell'istruzione indica l'insieme dei corsi e dei loro contenuti, offerti da una istituzione quale una scuola o un'università.")
+Parola programma con id: bn:00053172n
+: ('eurosocialismo', 'Insieme dei processi di convergenza politica e ideologica tra i vari partiti socialisti europei')
+Parola programma con id: bn:00013235n
+: ('programma', 'Singolo spettacolo radiofonico o televisivo.')
+Parola programma con id: bn:00021492n
+: ('programma', 'Sequenza di istruzioni, rappresentate in un particolare linguaggio, in seguito alle quali un computer esegue determinate operazioni.')
+Parola programma con id: bn:15983060n
+: ('programma', 'Il programma')
+Parola programma con id: bn:00069568n
+: ('orario', "Prospetto che illustra l'orario già disposto")
+Parola programma con id: bn:00069579n
+: ('schema', "Una strategia è un piano d'azione di lungo termine usato per impostare e coordinare azioni tese al raggiungimento di uno scopo od obiettivo predeterminato.")
+Parola esame con id: bn:00032093n
+: ('controllo', "L'ispezione della polizia")
+Parola esame con id: bn:04161503n
+: ('esame', [])
+Parola esame con id: bn:00032089n
+: ('compito_in_classe', 'La prova stessa di esame, i metodi di verifica')
+Parola teorema con id: bn:09068293n
+: ('Teorema_(brano_musicale)', 'Teorema è un brano musicale composto ed eseguito dal cantante italiano Marco Ferradini, tratto dal Qdisc Schiavo senza catene del 1981.')
+Parola teorema con id: bn:01145346n
+: ('Teorema_(film)', 'Teorema è un film del 1968, scritto e diretto da Pier Paolo Pasolini, prodotto da Franco Rossellini e Manolo Bolognini.')
+Parola teorema con id: bn:00076831n
+: ('teorema', 'Proposizione deducibile da postulati di base (assiomi).')
+Parola teorema con id: bn:00076832n
+: ('teorema', 'Idea accettata come verità dimostrabile.')
+Parola teoria con id: bn:02862916n
+: ('teoria', [])
+Parola teoria con id: bn:00076834n
+: ('teoria', 'Un sistema di informazioni che spiega determinati fenomeni')
+Parola teoria con id: bn:00076835n
+: ('teoria', 'Precetto che serve di guida alla pratica')
+Parola teoria con id: bn:00045632n
+: ('ipotesi', "Un'ipotesi è la premessa sottesa ad un ragionamento o a una dimostrazione.")
+Parola yo-yo con id: bn:01443127n
+: ('Yo-Yo_(rapper)', 'Yo-Yo, pseudonimo di Yolanda Whitaker, è una rapper e attrice statunitense.')
+Parola yo-yo con id: bn:00277802n
+: ('effetto_yo-yo', 'In dietologia si indica come effetto yo-yo, noto anche come ciclicità del peso, la perdita e riacquisto ciclico di peso corporeo in seguito a diete eccessivamente ipocaloriche.')
+Parola yo-yo con id: bn:02735458n
+: ('Yo-Yo_(singolo)', "Yo-Yo è il terzo singolo estratto dall'album di debutto Cinderella's Eyes della cantante inglese Nicola Roberts.")
+Parola yo-yo con id: bn:00081921n
+: ('yo-yo', 'Lo yo-yo, conosciuto in Italia anche come rocchetto, è un giocattolo nonché un attrezzo di giocoleria.')
+Parola giocattolo con id: bn:02755576n
+: ('Il_giocattolo', 'Il giocattolo è un film drammatico del 1979 diretto da Giuliano Montaldo, avente per protagonista Nino Manfredi.')
+Parola giocattolo con id: bn:00062965n
+: ('balocco', 'Oggetto che serve per giocare.')
+Parola tormenta con id: bn:14289607n
+: (None, None)
+Parola tormenta con id: bn:01672678n
+: ('La_tormenta_(film_1964)', 'La tormenta è un film del 1964 diretto da Vladimir Basov.')
+Parola tormenta con id: bn:00074459n
+: ('bufera', 'Perturbazione atmosferica che coinvolge perturbazioni dei campi di pressione prevalenti e di vento su scale che vanno dal tornado ai cicloni extratropicali; le condizioni climatiche associate.')
+Parola tormenta con id: bn:00011301n
+: ('bufera_di_neve', 'In meteorologia, il prestito inglese blizzard è un vento polare che per estensione viene usato per riferirsi ad una tempesta di neve con raffiche di vento molto forti e conseguente bassa visibilità.')
+Parola tormenta con id: bn:16733740n
+: ('Tormenta', 'Cantante argentina')
+Parola tormenta con id: bn:00074458n
+: ('bufera', 'Tempo burrascoso')
+Parola tormenta con id: bn:00489436n
+: ("armi_d'assedio_(storia_romana)", "Le armi da assedio d'epoca romana rappresentarono una componente fondamentale nell'organizzazione dell'esercito romano.")
+Parola tormenta con id: bn:00035470n
+: ('nevischio', [])
+Parola tormenta con id: bn:01456385n
+: ('Tormenta', 'Episodio della serie televisiva Heroes')
+Parola pioggia con id: bn:00066032n
+: ('acqua', "Precipitazione di gocce d'acqua dal vapore condensato nell'atmosfera.")
+Parola pioggia con id: bn:00028809n
+: ('acquerella', 'Pioggia leggera.')
+Parola pioggia con id: bn:00066033n
+: ('acqua_piovana', "Massa d'acqua caduta come precipitazione dalle nuovole.")
+Parola pioggia con id: bn:00061303n
+: ('pioggia', 'Grande quantità in rapida successione.')
+Parola pioggia con id: bn:13954349n
+: ('pioggia_(Chagall)', 'La pioggia è un dipinto su tela con olio e carboncino realizzato da Marc Chagall a Parigi nel 1911.')
+Parola pioggia con id: bn:00016390n
+: ('pioggia', "Cose che cadono in abbondanza dall'alto")
+Parola pioggia con id: bn:01785227n
+: ('Pioggia_(film_1929)', 'Pioggia è un documentario del 1929, diretto da Joris Ivens e Mannus Franken.')
+Parola pioggia con id: bn:08981756n
+: ('Pioggia_(singolo)', 'Pioggia è un il singolo di debutto dei Diaframma pubblicato nel 1982 da Italian Records.')
+Parola pioggia con id: bn:03418375n
+: ('Pioggia', 'Episodio della terza stagione di Desperate Housewives')
+Parola pioggia con id: bn:03570017n
+: ('Pioggia_(film_1953)', 'Pioggia è un film stereoscopico in Technicolor del 1953 diretto da Curtis Bernhardt.')
+Parola storico con id: bn:00044258n
+: ('storico', 'Una persona che studia la storia.')
+Parola storico con id: bn:00681324n
+: ([], [])
+Parola storico con id: bn:03390819n
+: ('storico', [])
+Parola storico con id: bn:00044266n
+: ('storiografia', 'La storiografia è una disciplina scientifica che si occupa della descrizione della storia e comprende tutte le forme di interpretazione, di trattazione e trasmissione di fatti e accadimenti della vita degli individui e delle società del passato storico.')
+Parola storico con id: bn:00044268n
+: ('storia', 'Dottrina, disciplina')
+Parola storiografo con id: bn:00044258n
+: ('storico', 'Una persona che studia la storia.')
+Parola storiografo con id: bn:00044266n
+: ('storiografia', 'La storiografia è una disciplina scientifica che si occupa della descrizione della storia e comprende tutte le forme di interpretazione, di trattazione e trasmissione di fatti e accadimenti della vita degli individui e delle società del passato storico.')
+Parola Siemens con id: bn:15893420n
+: ('Siemens_(famiglia)', 'La famiglia imprenditoriale Siemens è un ramo, arrivato fino ad oggi, di una famiglia della città di Goslar, di cui è noto il cittadino Henning Symons, nato il 2 gennaio 1384.')
+Parola Siemens con id: bn:21706603n
+: ('Siemens_(azienda)', 'Siemens Aktiengesellschaft è una multinazionale tedesca, fondata nel 1847, attiva nei settori delle tecnologie, della mobilità e dei servizi, con sede a Monaco di Baviera e presente con diversi uffici in circa 200 paesi.')
+Parola Siemens con id: bn:00054702n
+: ('siemens', 'Ingegnere (1816-1892)')
+Parola secolo con id: bn:00031261n
+: ('epoca', 'Periodo determinato ma non descritto in termini cronologicamente precisi')
+Parola secolo con id: bn:00001939n
+: ('anno', 'Un prolungato periodo di tempo.')
+Parola secolo con id: bn:00910014n
+: ('secolo', [])
+Parola secolo con id: bn:00017234n
+: ('centennio', 'Periodo di tempo di cento anni')
+Parola anno con id: bn:00004401n
+: ('anno', [])
+Parola anno con id: bn:00004379n
+: ('anno', [])
+Parola anno con id: bn:15499130n
+: ('Anno_(serie)', 'Anno è una serie di videogiochi gestionali in tempo reale sviluppati da Max Design, Keen Games, Related Design e Blue Byte e pubblicati da Sunflowers Interactive, Disney Interactive e Ubisoft Entertainment.')
+Parola anno con id: bn:00001937n
+: ('anno', 'Periodo storico.')
+Parola anno con id: bn:00001939n
+: ('anno', 'Un prolungato periodo di tempo.')
+Parola anno con id: bn:15148334n
+: ('Anno', 'Prenome sia maschile che femminile')
+Parola anno con id: bn:14358905n
+: ('Anno', 'Cognome')
+Parola anno con id: bn:00025459n
+: ('anno', 'Periodo della vita, età.')
+Parola anno con id: bn:00014712n
+: ('anno', 'Secondo il calendario gregoriano, periodo compreso tra il 1 gennaio e il 31 dicembre.')
+Parola anno con id: bn:00081856n
+: ('annata', "Periodo di tempo basato su una particolare attività che occupa regolarmente una parte dell'anno.")
+Parola anno con id: bn:00081857n
+: ('anno', 'Il periodo di tempo impiegato da un pianeta (come, per esempio, la Terra o Marte) per compiere un giro completo intorno al sole.')
+Parola anno con id: bn:00000145n
+: ('Ampere', 'Unità di misura della corrente elettrica')
+Parola anno con id: bn:00006662n
+: ('anno_tropico', "L'anno tropico o anno solare è il tempo impiegato dal Sole per tornare nella stessa posizione vista dalla Terra, corrispondente al ciclo delle stagioni.")
+Parola anno con id: bn:00078738n
+: ('anno', 'Periodo di 365 (o 366) giorni calcolato a partire da un giorno qualsiasi.')
+Parola anno con id: bn:00019477n
+: ('anno', 'Insieme degli alunni che frequentano lo stesso corso e condividono la stessa aula.')
+Parola lega con id: bn:00050409n
+: ('associazione', [])
+Parola lega con id: bn:02919054n
+: ('Lega_Nord', "La Lega Nord, il cui nome completo è Lega Nord per l'Indipendenza della Padania, è un partito politico italiano.")
+Parola lega con id: bn:00002936n
+: ('lega', 'Miscela di due o più metalli fusi')
+Parola lega con id: bn:14066644n
+: ('prefetture_della_Cina', "La prefettura è una suddivisione amministrativa della Cina, riscontrabile tanto nel passato quanto nell'epoca moderna in questo Paese.")
+Parola lega con id: bn:14146654n
+: ('associazione', 'Associazione formale di persone con interessi simili.')
+Parola lega con id: bn:00020039n
+: ('circolo', 'Gruppo di persone che si riunisce per uno scopo comune (spesso ricreativo)')
+Parola lega con id: bn:00050410n
+: ('lega_(unità_di_misura)', "La Lega è stata un'unità di misura della distanza, e in particolare di percorsi terrestri o marittimi a lungo diffusa in Europa ed in America Latina, originatasi nella Roma antica.")
+Parola lega con id: bn:00021722n
+: ('campionato', 'Tipo di organizzazione sportiva')
+Parola lega con id: bn:16625126n
+: ('Lega_(fiume)', 'Il Lega è un fiume che attraversa la Polonia, ha una lunghezza di 157 chilometri.')
+Parola lega con id: bn:00002740n
+: ('alleanza', "L'insieme di organismi, partiti o persone unite")
+Parola acciaio con id: bn:03192727n
+: ('Acciaio_(personaggio)', 'Acciaio, il cui vero nome è John Henry Irons, è un personaggio dei fumetti, noto anche come "Man of Steel/Uomo d\'Acciaio", pubblicato negli Stati Uniti d\'America da DC Comics.')
+Parola acciaio con id: bn:08862399n
+: ('Duel_e_altri_racconti', 'Duel e altri racconti è una raccolta di racconti di Richard Matheson, pubblicata per la prima volta in lingua inglese nel 2003, e in lingua italiana nel febbraio 2005 nella collana Fanucci Collezione immaginario Dark.')
+Parola acciaio con id: bn:09058328n
+: ('metalli_secondari', "Il ferro e l'acciaio sono dei metalli araldici, del gruppo dei cosiddetti metalli secondari, che oggi non sono più utilizzati, benché siano presenti in alcune blasonature antiche.")
+Parola acciaio con id: bn:00074123n
+: ('acciaio', 'Lega formata da ferro e carbonio')
+Parola acciaio con id: bn:15057933n
+: ('Acciaio_(film_2012)', 'Acciaio è un film del 2012 diretto da Stefano Mordini con protagonisti Michele Riondino, Vittoria Puccini, Matilde Giannini e Anna Bellezza.')
+Parola acciaio con id: bn:02914670n
+: ('Acciaio_(sommergibile)', 'L’Acciaio è stato un sommergibile della Regia Marina.')
+Parola acciaio con id: bn:14102354n
+: ('Acciaio_(film_1933)', 'Acciaio è un film del 1933 diretto dal regista tedesco Walter Ruttmann e realizzato dalla "Cines", da poco attrezzata per le produzioni sonore, quale tentativo di apertura verso apporti culturali internazionali.')
+Parola acciaio con id: bn:00537675n
+: ('Acciaio', 'Episodio della quinta stagione di Ai confini della realtà')
+Parola acciaio con id: bn:03604891n
+: ('acciaio_(sistemi_di_designazione)', 'Gli acciai vengono designati secondo la nuova normativa europea UNI EN 10027 del 2006 in due sistemi equivalenti: alfanumerico, descritto dalla normativa UNI EN 10027/1; esempio: S235JR numerico, descritto dalla normativa UNI EN 10027/2.')
+Parola acciaio con id: bn:08961164n
+: ('Acciaio_(romanzo)', 'Acciaio è il primo romanzo di Silvia Avallone.')
+Parola magistrato con id: bn:00532496n
+: ('Il_magistrato', 'Il magistrato è un film del 1959 diretto da Luigi Zampa.')
+Parola magistrato con id: bn:00048489n
+: ('avvocato_giudice', [])
+Parola magistrato con id: bn:00052701n
+: ('magistrato', 'Un magistrato è il titolare di un ufficio pubblico.')
+Parola magistrato con id: bn:08897401n
+: ('Magistrato_(Repubblica_di_Venezia)', "Nell'antica Repubblica di Venezia il termine Magistrato oltre a designare con il generico significato gli uffici pubblici ed i loro titolari, designava nello specifico alcune magistrature dello Stato di particolare importanza.")
+Parola magistrato con id: bn:00048488n
+: ('giudice', 'Chi esercita la professione')
+Parola magistrato con id: bn:03810077n
+: ('magistratura_(storia_romana)', "La magistratura, nell'antica Roma indica ogni carica pubblica, per lo più elettiva e temporanea.")
+Parola magistrato con id: bn:00036837n
+: ('funzionario', 'Chi ricopre un pubblico ufficio')
+Parola magistrato con id: bn:02616220n
+: ('magistrato', [])
+Parola giudice con id: bn:00048503n
+: ('potere_giudiziario', "Il potere giudiziario, in diritto, è un potere connesso all'attività ed all'esercizio della giurisdizione, che consente di far rispettare la legge e condannare chi compie atti illeciti, potere tipicamente assegnato alla magistratura.")
+Parola giudice con id: bn:00035711n
+: ('arbitri', [])
+Parola giudice con id: bn:00207779n
+: ('giudice', [])
+Parola giudice con id: bn:00001401n
+: ('giudice', [])
+Parola giudice con id: bn:00058701n
+: ('arbitro_(football_americano)', 'Nel football americano, un arbitro è una delle persone in campo responsabili del rispetto delle regole durante il gioco.')
+Parola giudice con id: bn:00048488n
+: ('giudice', 'Chi esercita la professione')
+Parola giudice con id: bn:14681577n
+: ('giudice', [])
+Parola giudice con id: bn:00078929n
+: ('arbitro', [])
+Parola giudice con id: bn:00031974n
+: ('giudice', [])
+Parola giudice con id: bn:08952717n
+: ('giudice_(storia_della_Sardegna)', 'Giudice, nel significato di sovrano è la definizione utilizzata in lingua italiana per tradurre dalla lingua sarda la parola judike.')
+Parola caos con id: bn:02536746n
+: ('Tohu_e_Tikun', "Olam HaTohu e Olam HaTikun sono due fasi generali della cabala ebraica, nell'ordine dei mondi spirituali discendenti.")
+Parola caos con id: bn:02989155n
+: ('Shadow_Galactica', 'Shadow Galactica è il gruppo dei nemici della quinta serie di Sailor Moon.')
+Parola caos con id: bn:16984754n
+: ('Caos_(mitologia)', "Caos o Chaos è l'entità primigenia così indicata nella Teogonia di Esiodo.")
+Parola caos con id: bn:04319721n
+: ('caos', [])
+Parola caos con id: bn:03158965n
+: ('Caos_(film)', 'Caos è un film direct-to-video statunitense del 2005 diretto da Tony Giglio.')
+Parola caos con id: bn:08889053n
+: (None, None)
+Parola caos con id: bn:00009503n
+: ('babele', 'Stato di grande confusione e turbamento')
+Parola caos con id: bn:02018393n
+: ('Caos_(Warhammer)', 'Caos sono un gruppo di personaggi immaginari degli universi fittizi di Warhammer 40,000 e Warhammer Fantasy; sono entità spesso malevole che vivono in una sorta di universo parallelo, noto come il Warp in Warhammer 40,000, e come "Reame del Caos" in Warhammer Fantasy.')
+Parola caos con id: bn:00017707n
+: ('Chaos', [])
+Parola caos con id: bn:00017706n
+: ('caos', [])
+Parola caos con id: bn:00053953n
+: ('sevizia', [])
+Parola caos con id: bn:00003840n
+: ('anarchia', 'Situazione di disordine e confusione per mancanza o insufficienza di governo')
+Parola classe con id: bn:21706240n
+: ('classe_(scuola)', "Una classe scolastica è l'insieme degli alunni che sono sistemati in un'aula scolastica e che hanno in comune gli stessi orari scolastici e gli stessi insegnanti nelle varie materie del corso.")
+Parola classe con id: bn:00012633n
+: ('classe', 'Ciascuno dei raggruppamenti in cui sono suddivisi i valori di una grandezza economica.')
+Parola classe con id: bn:03367941n
+: ('tipo_di_rotabile', 'Gruppo di materiale rotabile')
+Parola classe con id: bn:01124629n
+: ('classe_navale', 'Una classe navale è una serie di navi aventi progetto e caratteristiche comuni.')
+Parola classe con id: bn:00006539n
+: ('associazione', 'Unione di persone con medesimo ruolo e scopo')
+Parola classe con id: bn:17528560n
+: ('classe', 'Gruppo di elementi che condividono le stesse caratteristiche')
+Parola classe con id: bn:00016733n
+: ('categoria', 'Raggruppamento di cose che hanno caratteristiche o proprietà comuni.')
+Parola classe con id: bn:00064607n
+: ('associazione', 'Insieme di persone che esercitano la stessa professione.')
+Parola classe con id: bn:03608262n
+: ('classe_(informatica)', 'Una classe, nella programmazione orientata agli oggetti, è un costrutto di un linguaggio di programmazione usato come modello per creare oggetti.')
+Parola classe con id: bn:00070697n
+: ('aggregato', 'Una collezione astratta di numeri o simboli.')
+Parola classe con id: bn:00019482n
+: ('classe', 'Nella classificazione animale e vegetale, raggruppamento di più ordini.')
+Parola classe con id: bn:00019483n
+: ('classe', 'Signorilità, distinzione, eleganza.')
+Parola classe con id: bn:02928599n
+: ('classe', 'Concetto filosofico')
+Parola classe con id: bn:00019478n
+: ('ceto', 'Fascia di popolazione contraddistinta da una medesima condizione economica e sociale e da interessi comuni.')
+Parola classe con id: bn:00019479n
+: ('corso', "Serie di lezioni volta all'insegnamento di una disciplina e ordinata secondo un criterio di progressivo apprendimento.")
+Parola classe con id: bn:08949400n
+: ('classe_(moto)', 'Nel motociclismo sportivo, la classe indica un raggruppamento omogeneo di veicoli che partecipa a una stessa competizione, avendo delle caratteristiche specifiche dettate da un regolamento.')
+Parola classe con id: bn:01341184n
+: ('classe_(matematica)', 'Nella moderna teoria degli insiemi, per classe si intende una generica collezione di oggetti che possono essere univocamente identificati.')
+Parola classe con id: bn:03082397n
+: ('glossario_dei_giochi_di_ruolo', 'Questo glossario dei giochi di ruolo elenca alcuni termini utilizzati nei giochi di ruolo e ne illustra il significato.')
+Parola classe con id: bn:03969113n
+: ('Classe_(Ravenna)', 'Classe è una frazione del comune di Ravenna di 1 989 abitanti.')
+Parola classe con id: bn:00035907n
+: ('carattere', 'Proprietà o elemento caratterizzante di una cosa, un fenomeno, un evento e simili.')
+Parola classe con id: bn:00032896n
+: ('classe', 'In biologia, categoria sistematica costituita dal raggruppamento di generi affini.')
+Parola classe con id: bn:00019586n
+: ('aula', 'Locale dove si tengono le lezioni.')
+Parola classe con id: bn:00019477n
+: ('anno', 'Insieme degli alunni che frequentano lo stesso corso e condividono la stessa aula.')
+Parola formazione a distanza con id: bn:00022863n
+: ('corso_per_corrispondenza', "Istruzione impartita a distanza attraverso l'uso delle tecnologie dell'informazione/comunicazione quali radio, TV, telefono, corrispondenza, e-mail, videoconferenza, audioconferenza, cd-rom o internet.")
+Parola formazione a distanza con id: bn:00022864n
+: ('scuola_per_corrispondenza', [])
+Parola internet con id: bn:00024712n
+: ('cyberspazio', "Il cyberspazio o, meno comunemente, ciberspazio, è il dominio caratterizzato dall'uso dell'elettronica e dello spettro elettromagnetico per immagazzinare, modificare e scambiare informazioni attraverso le reti informatiche e le loro infrastrutture fisiche.")
+Parola internet con id: bn:08917832n
+: (None, None)
+Parola internet con id: bn:00722917n
+: ('internetwork', "Un'internet, o internetwork, è un tipo di rete di computer che si contraddistingue per il fatto di collegare tra loro più reti locali e/o geografiche autonome mediante il TCP/IP.")
+Parola sabbia con id: bn:15959456n
+: ('Sabbia_(film)', 'Sabbia è un film del 1949 diretto da Louis King.')
+Parola sabbia con id: bn:00069153n
+: ('sabbionaia', 'La sabbionaia è un ambiente, spesso un contenitore, solitamente di forma quadrangolare, nel quale si trova sabbia: viene adibita al gioco per i bambini e talvolta contiene attrezzi ginnici.')
+Parola sabbia con id: bn:01509496n
+: ('sabbia', 'Tonalità di marrone')
+Parola sabbia con id: bn:03497975n
+: ('Sabbia_(Varallo)', 'Sabbia è una frazione di Varallo in provincia di Vercelli, comune autonomo fino alla sua soppressione avvenuta il 1º gennaio 2018.')
+Parola sabbia con id: bn:00069126n
+: ('arena', 'Insieme incoerente di granuli')
+Parola piede con id: bn:00035686n
+: ('piede', 'Nella metrica classica, la più piccola unità ritmica di un verso, formata da almeno due sillabe.')
+Parola piede con id: bn:00035679n
+: ('piede', "Nell'uomo, estremità dell’arto inferiore che svolge funzione di sostegno nella locomozione e nella posizione eretta.")
+Parola piede con id: bn:00035680n
+: ('piede', "Unità di misura di lunghezza in uso nell'anitichità, nel Medioevo, e tuttora nei paesi anglosassoni.")
+Parola piede con id: bn:00004230n
+: ('piede', 'Estremità degli arti inferiori negli esseri umani')
+Parola piede con id: bn:00008787n
+: ('base', 'Parte inferiore di un oggetto o una struttura, che abbia funzione di sostegno o di appoggio.')
+Parola piede con id: bn:16054298n
+: ('piede', 'La parte del corpo umano situata alla fine della caviglia, che serve a mantenersi in piedi e a camminare.')
+Parola piede con id: bn:16148806n
+: ('piede_monetario', 'In numismatica, il piede è il numero di monete che possono essere prodotte con una certa quantità di metallo prezioso.')
+Parola piede con id: bn:00008782n
+: ('base', 'Strato o piano sottostante al fondo visibile')
+Parola piede con id: bn:00035681n
+: ('basso', 'La parte più bassa di qualcosa.')
+Parola piede con id: bn:00035682n
+: ('piede', 'Nei molluschi, massa muscolare situata nella parte ventrale del corpo, con funzione locomotoria o di scavo.')
+Parola piede con id: bn:01780538n
+: ('pous', "Il pous in greco antico: ποῦς o piede greco era una misura di lunghezza dell'antica Grecia.")
+Parola Deutsche Bank con id: bn:03315023n
+: ('Deutsche_Bank', 'Deutsche Bank è una banca tedesca, con sede a Francoforte sul Meno, in Germania, presso le Deutsche Bank Twin Towers.')
+Parola Guardian con id: bn:03790865n
+: ('Guardiano_(DC_Comics)', 'Guardiano, il cui vero nome è James Jacob "Jim" Harper, è un personaggio dei fumetti, un supereroe della DC Comics, creato da Jack Kirby e Joe Simon.')
+Parola Guardian con id: bn:00896958n
+: ('Guardian_(Marvel_Comics)', "Guardian è un personaggio dei fumetti Marvel Comics, del quale esistono tre versioni: James MacDonald Hudson, è apparso col nome di Arma Alpha in X-Men n. 109 : creato da John Byrne, inizialmente doveva essere utilizzato come avversario degli X-Men, al pari del gruppo degli Alpha Flight che guidava, ma in un secondo momento l'autore decise di riciclarlo come supereroe; Heather Hudson, creata da Chris Claremont e John Byrne, appare la prima volta in X-Men n. 139 ; è la moglie di James a cui subentra alla guida di Alpha Flight quando questi muore apparentemente.")
+Parola Guardian con id: bn:00890370n
+: ('Guardian', 'Videogioco del 1994')
+Parola Guardian con id: bn:17778348n
+: ('Guardian_(film)', 'Guardian è un film del 2001 diretto da John Terlesky.')
+Parola Guardian con id: bn:02914682n
+: ('Guardian_(singolo)', "Guardian è il singolo di lancio dell'ottavo album Havoc and Bright Lights della cantautrice canadese Alanis Morissette, il primo singolo ufficiale annunciato dopo il settimo album di inediti Flavors of Entanglement del 2008.")
+Parola Guardian con id: bn:02505554n
+: ('Guardian_(gruppo_musicale)', 'I Guardian sono una band christian metal nata nel 1982.')
+Parola Times con id: bn:00056300n
+: ('moltiplica', "La moltiplicazione è una delle quattro operazioni fondamentali dell'aritmetica.")
+Parola Times con id: bn:03113174n
+: ('The_Times', 'The Times è un quotidiano britannico che ha sede a Londra.')
+Parola baco da seta con id: bn:00011961n
+: ('baco_da_seta', "Bombyx mori è una specie di falena della famiglia Bombycidae, originaria dell'Asia centro-orientale.")
+Parola baco da seta con id: bn:00071605n
+: ('baco_da_seta', [])
+Parola baco da seta con id: bn:00040408n
+: ('baco', 'Lepidottero che, terminata la fase larvale, si trasforma in crisalide rinchiudendosi in un bozzolo dal quale si ricava la seta')
+Parola Via della Seta con id: bn:00071602n
+: ('via_della_seta', "Per via della seta s'intende il reticolo, che si sviluppava per circa 8 000 km, costituito da itinerari terrestri, marittimi e fluviali lungo i quali nell'antichità si erano snodati i commerci tra l'impero cinese e quello romano.")
+Parola libertà con id: bn:00050955n
+: ('libertà', [])
+Parola libertà con id: bn:00050954n
+: ('libertà', "Per libertà s'intende la condizione per cui un individuo può decidere di pensare, esprimersi ed agire senza costrizioni, ricorrendo alla volontà di ideare e mettere in atto un'azione, mediante una libera scelta dei fini e degli strumenti che ritiene utili a realizzarla.")
+Parola libertà con id: bn:02123809n
+: ('libertà', "Qualità o stato dell'essere libero, specialmente di godere delle libertà politiche e civili.")
+Parola libertà con id: bn:16684276n
+: ('Libertà_(Bari)', 'Libertà è un quartiere di Bari, appartenente dal 2014 al I municipio.')
+Parola libertà con id: bn:00007389n
+: ('autonomia', 'termine')
+Parola libertà con id: bn:04020100n
+: ('Libertà_(quotidiano)', 'Libertà è il principale quotidiano edito nella città italiana di Piacenza e quello maggiormente diffuso nella sua provincia.')
+Parola libertà con id: bn:08851178n
+: ('Libertà_(Henri_Rousseau)', 'La Libertà invita gli artisti a partecipare al XXII Salon des Indépendants, noto anche semplicemente come La Libertà, è un dipinto di Henri Rousseau a olio su tela, realizzato nel 1906.')
+Parola libertà con id: bn:16819248n
+: ('Libertà_(romanzo)', 'Libertà è il quarto romanzo di Jonathan Franzen scritto nel 2010.')
+Parola libertà con id: bn:08915723n
+: ('Libertà_(Palermo)', "Libertà è il nono quartiere di Palermo ed è compreso nell'VIII Circoscrizione.")
+Parola libertà con id: bn:03365403n
+: ('Libertà_(film)', 'Libertà è un film del 1929 con Laurel & Hardy diretto da Leo McCarey e prodotto da Hal Roach.')
+Parola libertà con id: bn:00036376n
+: ('libertà', "L'essere libero")
+Parola libertà con id: bn:03737094n
+: ('Libertas', [])
+Parola libertà con id: bn:00019365n
+: ('libertà', [])
+Parola oasi con id: bn:01267294n
+: ('Oasi_(film_1955)', 'Oasi è un film del 1955, diretto da Yves Allégret.')
+Parola oasi con id: bn:09062912n
+: ('Oasi_(album)', 'Oasi è un album dei Pooh del 1988.')
+Parola oasi con id: bn:15276470n
+: ('oasi_(area_protetta)', "In senso lato, un'oasi è un'area naturale protetta per la conservazione di un habitat di particolare interesse floristico e faunistico e per la salvaguardia della sua biodiversità.")
+Parola oasi con id: bn:00043169n
+: ('oasi', [])
+Parola oasi con id: bn:08922988n
+: ('Oasi_(film_1994)', 'Oasi è un film del 1994, diretto dal regista Cristiano Bortone.')
+Parola oasi con id: bn:00258576n
+: ('area_naturale_protetta', "Nelle scienze ambientali le aree naturali protette sono delle aree naturali, istituite mediante leggi apposite a livello nazionale o regionali da istituzioni pubbliche o da privati, quali istituti di ricerca o beneficenza, con la funzione di preservare l'equilibrio ambientale di un determinato luogo, aumentandone o mantenendone l'integrità e la biodiversità.")
+Parola oasi con id: bn:02670707n
+: ('Oasi', [])
+Parola oasi con id: bn:02340908n
+: ('oasi_antartica', "Un'oasi antartica è un'ampia area naturale libera da neve e ghiaccio presente sul territorio continentale dell'Antartide, quasi completamente ricoperto dalla calotta antartica.")
+Parola oasi con id: bn:00058412n
+: ('oasi', 'Luogo fertile in un deserto')
+Parola citoplasma con id: bn:00024915n
+: ('citoplasto', [])
+Parola citoplasma con id: bn:00024905n
+: ('citoplasma', 'La parte della cellula che contiene il nucleo')
+Parola dito con id: bn:00077465n
+: ('alluce', 'Una delle estremità del piede.')
+Parola dito con id: bn:00027079n
+: ('dito', 'Unità di lunghezza')
+Parola dito con id: bn:00034565n
+: ('dito', 'Ciascuna delle dieci propaggini di mani e piedi')
+Parola dito con id: bn:07161340n
+: ('dito_romano', 'Unità di lunghezza')
+Parola dito con id: bn:01951400n
+: ('Eduardo_José_Gomes_Camessele_Mendes', 'Eduardo José Gomes Camessele Mendes, noto come Dito, è stato un calciatore, allenatore di calcio e dirigente sportivo portoghese, di ruolo difensore.')
+Parola dito con id: bn:14167012n
+: ('gesto_del_dito_medio', 'Il gesto del dito medio è un comune gesto offensivo.')
+Parola dito con id: bn:00024979n
+: ('digito', 'Il dito')
+Parola protestante con id: bn:00064866n
+: ('protestante', [])
+Parola protestante con id: bn:00064865n
+: ('protestante', 'Chi segue il protestantesimo')
+Parola protestante con id: bn:00027716n
+: ('protesta', 'La contestazione è un termine entrato nel linguaggio comune alla fine degli anni sessanta che viene messo in relazione ad un fenomeno che ha preso le mosse sul finire degli anni sessanta, ricordati appunto come gli anni della contestazione.')
+Parola protestante con id: bn:00064869n
+: ('protestantesimo', "L'insieme delle confessioni religiose che sono nate dalla riforma luterana")
+Parola cristiano con id: bn:00037764n
+: ('gentile', 'Ppersona religiosa che crede che Gesù sia il Cristo e che sia membro di una denominazione cristiana.')
+Parola cristiano con id: bn:00018818n
+: ('cristiano', 'Un cristiano è un seguace e discepolo di Cristo.')
+Parola cristiano con id: bn:15729447n
+: ('Cristiano', [])
+Parola cristiano con id: bn:00018828n
+: ('cristianesimo', 'Il sistema delle credenze e pratiche della religione cristiana.')
+Parola cristiano con id: bn:17389868n
+: ('Cristiano_(nome)', 'Cristiano è un nome proprio di persona italiano maschile.')
+Parola cristiano con id: bn:17433077n
+: ('Cristiano', 'Cognome')
+Parola Leonardo da Vinci con id: bn:05222153n
+: ('Leonardo_da_Vinci', 'Ginnasio a Köln-Nippes')
+Parola Leonardo da Vinci con id: bn:11399897n
+: ('Leonardo_da_Vinci', 'Insediamento umano')
+Parola Leonardo da Vinci con id: bn:06693099n
+: ('Leonardo_da_Vinci', [])
+Parola Leonardo da Vinci con id: bn:01772160n
+: ('Leonardo_da_Vinci_(sommergibile)', 'Il Leonardo da Vinci è stato un sommergibile della Regia Marina.')
+Parola Leonardo da Vinci con id: bn:01680147n
+: ('Leonardo_da_Vinci_(nave_da_battaglia)', "La nave da battaglia Leonardo da Vinci fu un'unità della Regia Marina appartenente alla classe Conte di Cavour.")
+Parola Leonardo da Vinci con id: bn:01282101n
+: ('USS_Dace_(SS-247)', 'Sommergibile della Marina Militare Italiana')
+Parola Leonardo da Vinci con id: bn:00790790n
+: ('Leonardo_da_Vinci_(transatlantico)', 'Il Leonardo da Vinci fu un transatlantico della Italia - Società di Navigazione di Genova, società appartenuta al gruppo IRI - Finmare, meglio conosciuta nel mondo della navigazione internazionale con il nome di Italian Line.')
+Parola Leonardo da Vinci con id: bn:08882643n
+: ('Leonardo_da_Vinci_(film_1919)', 'Leonardo da Vinci è un cortometraggio del 1919 diretto da Giulia Cassini-Rizzotto e Mario Corsi e basato sulla vita del pittore italiano Leonardo da Vinci.')
+Parola Leonardo da Vinci con id: bn:08882645n
+: ('Leonardo_da_Vinci_(film_1952)', 'Leonardo da Vinci è un film del 1952 diretto da Luciano Emmer ed Enrico Gras.')
+Parola Leonardo da Vinci con id: bn:11395418n
+: ('Leonardo_da_Vinci', 'Insediamento umano in provincia di Padova')
+Parola Leonardo da Vinci con id: bn:15440281n
+: ('aeroporto_di_Roma-Fiumicino', 'L\'Aeroporto Internazionale di Roma–Fiumicino "Leonardo da Vinci" è un aeroporto intercontinentale italiano che si trova nel territorio del comune di Fiumicino, a circa 30 km a ovest dal centro della città di Roma.')
+Parola Leonardo da Vinci con id: bn:04586621n
+: ('Leonardo_da_Vinci_(S_520)', 'Il Leonardo da Vinci è un sottomarino della Marina Militare appartenente alla 2ª serie della classe Sauro.')
+Parola Leonardo da Vinci con id: bn:00024948n
+: ('Leonardo', 'Pittore architetto scienziato scrittore (Vinci 1452-castello di Cloux, Amboise 1519)')
+Parola Leonardo da Vinci con id: bn:01579294n
+: ('Leonardo_da_Vinci_(piroscafo_1925)', 'Il Leonardo Da Vinci è stato un piroscafo misto italiano, violatore di blocco durante la seconda guerra mondiale.')
+Parola Leonardo da Vinci con id: bn:08882650n
+: ('Leonardo_da_Vinci_(film_1996)', "Leonardo Da Vinci è un cortometraggio d'animazione del 1996 diretto da Richard Rich e basato sulla vita del pittore italiano Leonardo da Vinci.")
+Parola L'Ultima Cena con id: bn:08880141n
+: ("L'ultima_cena_(film_1949)", "L'ultima cena è un film del 1949 diretto da Luigi Giachino con la supervisione di Charles Reisner, basato sulla vita del pittore italiano Leonardo da Vinci.")
+Parola L'Ultima Cena con id: bn:00545985n
+: ('Ultima_Cena_(Dalí)', "L'Ultima Cena è un dipinto di 167 × 268 cm realizzato nel 1955 dal pittore catalano Salvador Dalí, conservato nella National Gallery of Art di Washington.")
+Parola L'Ultima Cena con id: bn:01564191n
+: ('Ultima_Cena_(Tintoretto)', "L'Ultima cena è un dipinto del pittore veneziano Tintoretto realizzato intorno al 1592-1594 e conservato nella Basilica di San Giorgio Maggiore a Venezia.")
+Parola L'Ultima Cena con id: bn:00050105n
+: ('cenacolo', 'Ultima Cena è il nome con il quale nella religione cristiana si indica solitamente la cena di Gesù con gli apostoli durante la Pasqua ebraica, precedente la sua morte.')
+Parola L'Ultima Cena con id: bn:03599114n
+: ('Ultima_Cena_(Leonardo)', "Il Cenacolo, noto anche come l'Ultima Cena, è un dipinto parietale ottenuto con una tecnica mista a secco su intonaco di Leonardo da Vinci, databile al 1494-1498 e realizzato su commissione di Ludovico il Moro nel refettorio del convento adiacente al santuario di Santa Maria delle Grazie a Milano.")
+Parola L'Ultima Cena con id: bn:14085947n
+: ('Ultima_Cena_(Daniele_Crespi)', "L'Ultima Cena di Daniele Crespi è un dipinto eseguito negli anni tra il 1624 e il 1625, oggi collocato alla Pinacoteca di Brera.")
+Parola mappa con id: bn:09081280n
+: ('Mappa_(Boetti)', "Mappa è un'opera dell'artista Alighiero Boetti.")
+Parola mappa con id: bn:00036821n
+: ('funzione', 'Funzione matematica')
+Parola mappa con id: bn:00053303n
+: ('carta', 'Rappresentazione grafica, simbolica e in scala, di una parte o di tutta la superficie terrestre, o di alcuni suoi aspetti particolari.')
+Parola mappa con id: bn:03435545n
+: ('map_(funzione)', 'Nella programmazione funzionale una map è una funzione che applica una data funzione ad una lista di elementi e restituisce una lista di risultati.')
+Parola mappa con id: bn:15185648n
+: ('MAPPA_(azienda)', 'MAPPA è uno studio di animazione giapponese fondato il 14 giugno 2011 da Masao Maruyama, già fondatore e produttore dello studio Madhouse.')
+Parola mappa con id: bn:00045963n
+: ('figura', "L'illustrazione è una rappresentazione visiva che può avere la forma di un disegno, un dipinto, una fotografia o altra tecnica.")
+Parola piazza con id: bn:11362873n
+: ('Piazza', 'Centro abitato situato presso Mondovì, provincia di Cuneo')
+Parola piazza con id: bn:11392574n
+: ('Piazza', 'Frazione di Ranzo, provincia di Imperia')
+Parola piazza con id: bn:09021806n
+: ('Piazza_(Terragnolo)', 'Piazza è una frazione del comune sparso di Terragnolo, di cui costituisce la sede municipale.')
+Parola piazza con id: bn:08987438n
+: ('Piazza_(quartiere)', 'La Piazza in dialetto, è un quartiere nel centro storico di Ripacandida.')
+Parola piazza con id: bn:11389332n
+: ('La_Piazza', 'Frazione del comune italiano di Castellina in Chianti')
+Parola piazza con id: bn:00062214n
+: ('P.zza', 'Una pubblica piazza.')
+Parola piazza con id: bn:02587557n
+: ('Piazza_(piattaforma_Q_&_A)', 'Piazza è una piattaforma web Q & A creata da Pooja Sankar nel 2009.')
+Parola piazza con id: bn:00053459n
+: ('mercato', 'Il complesso dei compratori di determinati prodotti o servizi')
+Parola piazza con id: bn:08924174n
+: ('piazza_(araldica)', 'Piazza è un termine utilizzato in araldica per indicare lo spazio vuoto nel graticolato ed in altre figure incrociate.')
+Parola piazza con id: bn:11400292n
+: ('Piazza', 'Frazione di Recoaro Terme')
+Parola piazza con id: bn:17251085n
+: ('convenzionale', [])
+Parola piazza con id: bn:11379478n
+: ('Piazza', [])
+Parola piazza con id: bn:11380339n
+: ('Piazza', 'Centro abitato situato presso Stelvio, provincia autonoma di Bolzano')
+Parola piazza con id: bn:11379583n
+: ('Piazza', 'Centro abitato situato presso Gussago, provincia di Brescia')
+Parola piazza con id: bn:11392808n
+: ('Piazza', 'Frazione del comune italiano di Deiva Marina, provincia della Spezia')
+Parola piazza con id: bn:11401565n
+: ('Piazza', 'Centro abitato situato presso Cerea, provincia di Verona')
+Parola piazza con id: bn:00035975n
+: ('centro_fortificato', 'Fortezza per la difesa di una città')
+Parola piazza con id: bn:00065099n
+: ('piazza', "Una piazza, in urbanistica, è uno spazio pubblico racchiuso all'interno di un centro abitato, più largo delle strade che vi convergono, in maniera che si crei uno spazio di raccolta.")
+Parola piazza con id: bn:11364394n
+: ('Piazza', 'Frazione del comune italiano di Montechiarugolo, provincia di Parma')
+Parola piazza con id: bn:11358149n
+: ('Piazza', [])
