@@ -6,7 +6,7 @@ def get_synset_from_frames(index):
     frame_name = fn.frame_by_id(index).name
     return wn.synsets(frame_name.split('_')[0])
 
-frameSet = [{'id': 2524, 'name': 'Product_line'}]
+frameSet = [{'id': 2641, 'name': 'Terrorism'}]
 
 
 res = {}
@@ -15,7 +15,7 @@ res = {}
 # Nome Frame - Nome ricerca (lo split) - definizione del frame
 for frame in frameSet:
     f = fn.frame_by_id(frame['id'])
-    print(f"Nome Frame: {frame['name']}")
+    print(f"Nome Frame: {f.name}")
     print(f"Nome ricercato su wn: {frame['name'].split('_')[0]}")
     print(f"Definizione frame: {f.definition}")
 
